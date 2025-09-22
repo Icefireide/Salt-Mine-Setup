@@ -2438,3 +2438,127 @@
 08:48:10.310: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless
 08:48:10.310: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
 08:48:10.310: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+08:48:10.905: ==== Shutting down ==================================================
+08:48:10.942: [adv-ss] stopped
+08:48:10.943: [adv-ss] reset transition behaviour to adjust active transition type
+08:48:10.943: [adv-ss] started
+08:48:11.026: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+08:48:11.030: WASAPI: Device '' Terminated
+08:48:11.042: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+08:48:11.107: All scene data cleared
+08:48:11.107: ------------------------------------------------
+08:48:11.107: [obs-multi-rtmp] Save 0 targets, 0 video configs, 0 audio configs
+08:48:11.109: [obs-multi-rtmp] Save config into ../../config/obs-studio/basic/profiles/Orbital_Personal_Stream/obs-multi-rtmp.json
+08:48:11.109: [DistroAV] +main_output_deinit()
+08:48:11.109: [DistroAV] +main_output_stop()
+08:48:11.109: [DistroAV] main_output_stop: NDI main output `OBS` is not running
+08:48:11.109: [DistroAV] -main_output_stop()
+08:48:11.109: [DistroAV] main_output_deinit: releasing NDI main output 'OBS'
+08:48:11.109: [DistroAV] +ndi_output_destroy(name='OBS', groups='', ...)
+08:48:11.109: [DistroAV] -ndi_output_destroy(name='OBS', groups='', ...)
+08:48:11.109: [DistroAV] main_output_deinit: successfully released NDI main output ''
+08:48:11.109: [DistroAV] -main_output_deinit()
+08:48:11.109: [DistroAV] +preview_output_deinit()
+08:48:11.109: [DistroAV] +preview_output_stop()
+08:48:11.109: [DistroAV] preview_output_stop: NDI preview output 'OBS Preview' is not running
+08:48:11.109: [DistroAV] -preview_output_stop()
+08:48:11.109: [DistroAV] preview_output_deinit: releasing NDI preview output 'OBS Preview'
+08:48:11.109: [DistroAV] +ndi_output_destroy(name='OBS Preview', groups='', ...)
+08:48:11.109: [DistroAV] -ndi_output_destroy(name='OBS Preview', groups='', ...)
+08:48:11.109: [DistroAV] preview_output_deinit: successfully released NDI preview output ''
+08:48:11.109: [DistroAV] -preview_output_deinit()
+08:48:11.235: Tried to call obs_frontend_remove_save_callback with no callbacks!
+08:48:11.235: Tried to call obs_frontend_remove_event_callback with no callbacks!
+08:48:11.235: Tried to call obs_frontend_remove_save_callback with no callbacks!
+08:48:11.235: Tried to call obs_frontend_remove_save_callback with no callbacks!
+08:48:11.236: [obs-websocket] [obs_module_unload] Shutting down...
+08:48:11.236: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+08:48:11.237: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+08:48:11.237: Tried to call obs_frontend_remove_event_callback with no callbacks!
+08:48:11.237: [obs-websocket] [obs_module_unload] Finished shutting down.
+08:48:11.239: [obs-plugin-countdown] plugin unloaded
+08:48:11.240: [Scripting] Total detached callbacks: 0
+08:48:11.240: [DistroAV] +obs_module_unload()
+08:48:11.240: [DistroAV] +updateCheckStop()
+08:48:11.240: [DistroAV] -updateCheckStop()
+08:48:11.241: [DistroAV] -obs_module_unload(): goodbye!
+08:48:11.242: [adv-ss] stopped
+08:48:11.242: Freeing OBS context data
+08:48:11.312: == Profiler Results =============================
+08:48:11.312: run_program_init: 3541.59 ms
+08:48:11.312:  ┣OBSApp::AppInit: 7.55 ms
+08:48:11.312:  ┃ ┗OBSApp::InitLocale: 0.762 ms
+08:48:11.312:  ┗OBSApp::OBSInit: 3515.06 ms
+08:48:11.312:    ┣obs_startup: 2.346 ms
+08:48:11.312:    ┗OBSBasic::OBSInit: 3321.53 ms
+08:48:11.312:      ┣OBSBasic::InitBasicConfig: 0.384 ms
+08:48:11.312:      ┣OBSBasic::ResetAudio: 0.121 ms
+08:48:11.312:      ┣OBSBasic::ResetVideo: 76.229 ms
+08:48:11.312:      ┃ ┗obs_init_graphics: 75.032 ms
+08:48:11.312:      ┃   ┗shader compilation: 38.36 ms
+08:48:11.312:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+08:48:11.312:      ┣OBSBasic::InitHotkeys: 0.02 ms
+08:48:11.312:      ┣obs_load_all_modules2: 232.387 ms
+08:48:11.312:      ┃ ┣obs_init_module(advanced-scene-switcher.dll): 52.581 ms
+08:48:11.312:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.46 ms
+08:48:11.312:      ┃ ┣obs_init_module(aja.dll): 0.078 ms
+08:48:11.312:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.809 ms
+08:48:11.312:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+08:48:11.312:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+08:48:11.312:      ┃ ┣obs_init_module(decklink.dll): 0.804 ms
+08:48:11.312:      ┃ ┣obs_init_module(distroav.dll): 21.358 ms
+08:48:11.312:      ┃ ┣obs_init_module(frontend-tools.dll): 2.52 ms
+08:48:11.312:      ┃ ┣obs_init_module(gradient-source.dll): 0.014 ms
+08:48:11.312:      ┃ ┣obs_init_module(image-source.dll): 0.01 ms
+08:48:11.312:      ┃ ┣obs_init_module(move-transition.dll): 0.751 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-advanced-masks.dll): 0.012 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 68.878 ms
+08:48:11.312:      ┃ ┃ ┗nvenc_check: 0.314 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-filters.dll): 0.822 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-multi-rtmp.dll): 4.955 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-outputs.dll): 0.006 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-plugin-countdown.dll): 3.901 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-qsv11.dll): 21.588 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-shaderfilter.dll): 0.022 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-text.dll): 0.133 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-transitions.dll): 0.014 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-vst.dll): 0.002 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.004 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-websocket.dll): 4.198 ms
+08:48:11.312:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+08:48:11.312:      ┃ ┣obs_init_module(rtmp-services.dll): 0.418 ms
+08:48:11.312:      ┃ ┣obs_init_module(scene-as-transition.dll): 0.015 ms
+08:48:11.312:      ┃ ┣obs_init_module(source-clone.dll): 0.005 ms
+08:48:11.312:      ┃ ┣obs_init_module(source-copy.dll): 0.112 ms
+08:48:11.312:      ┃ ┣obs_init_module(streamup.dll): 8.817 ms
+08:48:11.312:      ┃ ┣obs_init_module(text-freetype2.dll): 0.048 ms
+08:48:11.312:      ┃ ┣obs_init_module(time-warp-scan.dll): 0.014 ms
+08:48:11.312:      ┃ ┣obs_init_module(transition-table.dll): 0.031 ms
+08:48:11.312:      ┃ ┣obs_init_module(vlc-video.dll): 0.798 ms
+08:48:11.312:      ┃ ┣obs_init_module(waveform.dll): 0.045 ms
+08:48:11.312:      ┃ ┣obs_init_module(win-capture.dll): 0.942 ms
+08:48:11.312:      ┃ ┣obs_init_module(win-dshow.dll): 1.189 ms
+08:48:11.312:      ┃ ┣obs_init_module(win-wasapi.dll): 9.48 ms
+08:48:11.312:      ┃ ┣obs_init_module(xObsAsyncImageSource.dll): 0.039 ms
+08:48:11.312:      ┃ ┗reset_win32_symbol_paths: 0.511 ms
+08:48:11.312:      ┣OBSBasic::InitService: 0.777 ms
+08:48:11.312:      ┣OBSBasic::ResetOutputs: 0.136 ms
+08:48:11.312:      ┣OBSBasic::CreateHotkeys: 0.022 ms
+08:48:11.312:      ┣OBSBasic::InitPrimitives: 0.175 ms
+08:48:11.312:      ┗OBSBasic::Load: 518.253 ms
+08:48:11.312: obs_hotkey_thread(25 ms): min=0.001 ms, median=0.004 ms, max=0.367 ms, 99th percentile=0.07 ms, 100% below 25 ms
+08:48:11.312: audio_thread(Audio): min=0.004 ms, median=0.035 ms, max=2.403 ms, 99th percentile=0.108 ms
+08:48:11.312: obs_graphics_thread(33.3333 ms): min=0.073 ms, median=0.595 ms, max=1018.85 ms, 99th percentile=34.14 ms, 98.324% below 33.333 ms
+08:48:11.312:  ┣tick_sources: min=0.001 ms, median=0.052 ms, max=997.453 ms, 99th percentile=33.431 ms
+08:48:11.312:  ┣output_frame: min=0.062 ms, median=0.386 ms, max=7.441 ms, 99th percentile=0.637 ms
+08:48:11.312:  ┃ ┗gs_context(video->graphics): min=0.062 ms, median=0.386 ms, max=7.439 ms, 99th percentile=0.636 ms
+08:48:11.312:  ┃   ┣render_video: min=0.003 ms, median=0.288 ms, max=6.234 ms, 99th percentile=0.482 ms
+08:48:11.312:  ┃   ┃ ┗render_main_texture: min=0.002 ms, median=0.286 ms, max=6.231 ms, 99th percentile=0.48 ms
+08:48:11.312:  ┃   ┗gs_flush: min=0.039 ms, median=0.092 ms, max=7.269 ms, 99th percentile=0.251 ms
+08:48:11.312:  ┗render_displays: min=0 ms, median=0.144 ms, max=15.051 ms, 99th percentile=0.316 ms
+08:48:11.312: =================================================
+08:48:11.312: == Profiler Time Between Calls ==================
+08:48:11.312: obs_hotkey_thread(25 ms): min=24.981 ms, median=25.367 ms, max=26.349 ms, 68.1319% within ±2% of 25 ms (0% lower, 31.8681% higher)
+08:48:11.312: obs_graphics_thread(33.3333 ms): min=14.307 ms, median=33.333 ms, max=1018.86 ms, 97.9497% within ±2% of 33.333 ms (1.02516% lower, 1.02516% higher)
+08:48:11.312: =================================================
+08:48:11.315: Number of memory leaks: 38
