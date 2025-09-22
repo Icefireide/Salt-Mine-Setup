@@ -1,0 +1,8 @@
+2025/04/13-15:57:39.606 323c Reusing MANIFEST D:\OBS-Studio-30.2.3\config\obs-studio\plugin_config\obs-browser\obs_profile_cookies\8E2B7ADD1E952B80\Local Storage\leveldb/MANIFEST-000001
+2025/04/13-15:57:39.609 323c Recovering log #19
+2025/04/13-15:57:39.610 323c Level-0 table #22: started
+2025/04/13-15:57:39.625 323c Level-0 table #22: 41713 bytes OK
+2025/04/13-15:57:39.626 323c Recovering log #22
+2025/04/13-15:57:39.626 323c Reusing old log D:\OBS-Studio-30.2.3\config\obs-studio\plugin_config\obs-browser\obs_profile_cookies\8E2B7ADD1E952B80\Local Storage\leveldb/000022.log 
+2025/04/13-15:57:39.627 323c Delete type=0 #19
+2025/04/13-15:57:39.627 323c Delete type=2 #23

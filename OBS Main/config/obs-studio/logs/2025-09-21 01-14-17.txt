@@ -1,0 +1,1304 @@
+01:14:17.513: Command Line Arguments: --portable
+01:14:17.513: CPU Name: AMD Ryzen 7 9700X 8-Core Processor             
+01:14:17.513: CPU Speed: 3793MHz
+01:14:17.513: Physical Cores: 8, Logical Cores: 16
+01:14:17.513: Physical Memory: 31860MB Total, 14802MB Free
+01:14:17.513: Windows Version: 10.0 Build 26100 (release: 24H2; revision: 4946; 64-bit)
+01:14:17.513: Running as administrator: false
+01:14:17.513: Windows 10/11 Gaming Features:
+01:14:17.513: 	Game Bar: On
+01:14:17.513: 	Game DVR: On
+01:14:17.513: 	Game DVR Background Recording: Off
+01:14:17.513: 	Game Mode: Probably On (no reg key set)
+01:14:17.514: Sec. Software Status:
+01:14:17.515: 	Microsoft Defender Antivirus: enabled (AV)
+01:14:17.515: 	Windows Firewall: enabled (FW)
+01:14:17.515: Current Date/Time: 2025-09-21, 01:14:17
+01:14:17.515: Browser Hardware Acceleration: false
+01:14:17.515: Hide OBS windows from screen capture: false
+01:14:17.515: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+01:14:17.515: Portable mode: true
+01:14:17.789: OBS 30.2.3 (64-bit, windows)
+01:14:17.789: ---------------------------------
+01:14:17.845: ---------------------------------
+01:14:17.845: audio settings reset:
+01:14:17.845: 	samples per sec: 48000
+01:14:17.845: 	speakers:        2
+01:14:17.845: 	max buffering:   960 milliseconds
+01:14:17.845: 	buffering type:  dynamically increasing
+01:14:17.847: ---------------------------------
+01:14:17.847: Initializing D3D11...
+01:14:17.847: Available Video Adapters: 
+01:14:17.848: 	Adapter 0: AMD Radeon RX 7900 XT
+01:14:17.848: 	  Dedicated VRAM: 21458059264 (20.0 GiB)
+01:14:17.848: 	  Shared VRAM:    16704299008 (15.6 GiB)
+01:14:17.848: 	  PCI ID:         1002:744c
+01:14:17.848: 	  HAGS Status:    Enabled (Default: No, Driver status: Supported)
+01:14:17.849: 	  Driver Version: 32.0.21025.10016
+01:14:17.849: 	  output 0:
+01:14:17.849: 	    name=H27T22
+01:14:17.849: 	    pos={0, 0}
+01:14:17.849: 	    size={2560, 1440}
+01:14:17.849: 	    attached=true
+01:14:17.849: 	    refresh=170
+01:14:17.849: 	    bits_per_color=10
+01:14:17.849: 	    space=RGB_FULL_G22_NONE_P709
+01:14:17.849: 	    primaries=[r=(0.639648, 0.330078), g=(0.299805, 0.599609), b=(0.150391, 0.059570), wp=(0.312500, 0.329102)]
+01:14:17.849: 	    relative_gamut_area=[709=0.998664, P3=0.736186, 2020=0.528164]
+01:14:17.849: 	    sdr_white_nits=80
+01:14:17.849: 	    nit_range=[min=0.000500, max=374.000000, max_full_frame=243.000000]
+01:14:17.849: 	    dpi=120 (125%)
+01:14:17.849: 	    id=\\?\DISPLAY#SKG2716#7&3092f87e&1&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:14:17.849: 	    alt_id=\\.\DISPLAY2
+01:14:17.850: 	  output 1:
+01:14:17.850: 	    name=27B2H2
+01:14:17.850: 	    pos={296, -1080}
+01:14:17.850: 	    size={1920, 1080}
+01:14:17.850: 	    attached=true
+01:14:17.850: 	    refresh=59
+01:14:17.850: 	    bits_per_color=8
+01:14:17.850: 	    space=RGB_FULL_G22_NONE_P709
+01:14:17.850: 	    primaries=[r=(0.659180, 0.327148), g=(0.328125, 0.607422), b=(0.150391, 0.059570), wp=(0.313477, 0.329102)]
+01:14:17.850: 	    relative_gamut_area=[709=1.031607, P3=0.760471, 2020=0.545587]
+01:14:17.850: 	    sdr_white_nits=80
+01:14:17.850: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+01:14:17.850: 	    dpi=96 (100%)
+01:14:17.850: 	    id=\\?\DISPLAY#AOC2702#7&3092f87e&1&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:14:17.850: 	    alt_id=\\.\DISPLAY1
+01:14:17.850: Loading up D3D11 on adapter AMD Radeon RX 7900 XT (0)
+01:14:17.885: D3D11 loaded successfully, feature level used: b000
+01:14:17.885: DXGI increase maximum frame latency success
+01:14:17.885: Hardware-Accelerated GPU Scheduling enabled on adapter!
+01:14:17.885: D3D11 GPU priority setup failed (not admin?)
+01:14:17.945: ---------------------------------
+01:14:17.945: video settings reset:
+01:14:17.945: 	base resolution:   1920x1080
+01:14:17.945: 	output resolution: 1280x720
+01:14:17.945: 	downscale filter:  Bicubic
+01:14:17.945: 	fps:               60/1
+01:14:17.945: 	format:            NV12
+01:14:17.945: 	YUV mode:          Rec. 709/Partial
+01:14:17.945: NV12 texture support enabled
+01:14:17.945: P010 texture support not available
+01:14:17.946: Audio monitoring device:
+01:14:17.946: 	name: Default
+01:14:17.946: 	id: default
+01:14:17.946: ---------------------------------
+01:14:17.947: Skipping module '../../obs-plugins/64bit/advanced-scene-switcher-lib.dll', not an OBS plugin
+01:14:17.961: [adv-ss] version: 1.29.0
+01:14:17.961: [adv-ss] version: 17d9b73b9a58b35a84d0346229bf4bdfaa84e676
+01:14:17.962: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+01:14:17.972: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+01:14:17.972: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+01:14:18.024: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+01:14:18.024: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+01:14:18.066: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+01:14:18.066: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+01:14:18.072: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+01:14:18.072: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+01:14:18.073: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+01:14:18.073: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+01:14:18.100: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+01:14:18.100: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+01:14:18.103: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+01:14:18.103: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+01:14:18.104: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+01:14:18.104: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+01:14:18.121: No AJA devices found, skipping loading AJA UI plugin
+01:14:18.121: Failed to initialize module 'aja-output-ui.dll'
+01:14:18.128: No AJA devices found, skipping loading AJA plugin
+01:14:18.128: Failed to initialize module 'aja.dll'
+01:14:18.129: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+01:14:18.131: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+01:14:18.132: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+01:14:18.134: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+01:14:18.137: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:14:18.137: Failed to initialize module 'decklink.dll'
+01:14:18.139: [DistroAV] obs_module_load: you can haz DistroAV (Version 6.0.0)
+01:14:18.139: [DistroAV] obs_module_load: Qt Version: 6.6.3 (runtime), 6.6.2 (compiled)
+01:14:18.140: [DistroAV] load_ndilib: Trying 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'
+01:14:18.140: [DistroAV] load_ndilib: Found 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'; attempting to load NDI library...
+01:14:18.149: [DistroAV] load_ndilib: NDI library loaded successfully
+01:14:18.149: [DistroAV] load_ndilib: NDIlib_v5_load found
+01:14:18.184: [DistroAV] obs_module_load: NDI library initialized successfully ('NDI SDK WIN64 15:46:48 Dec 20 2024 6.1.1.0')
+01:14:18.219: [Gradient Source] loaded version 0.3.2
+01:14:18.221: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+01:14:18.222: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+01:14:18.223: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+01:14:18.225: [Move Transition] loaded version 3.1.1
+01:14:18.226: Failed to get nvARPose.dll version info size
+01:14:18.229: [Advanced Masks] loaded version 1.1.0
+01:14:18.283: [obs-browser]: Version 2.23.6
+01:14:18.283: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+01:14:18.398: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+01:14:18.398: Failed to get NVVideoEffects.dll version info size
+01:14:18.399: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+01:14:18.402: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+01:14:18.404: [obs-multi-rtmp] Load 0 targets, 0 video configs, 0 audio configs
+01:14:18.404: [obs-multi-rtmp] Load config from ../../config/obs-studio/basic/profiles/Orbital_Personal_Stream/obs-multi-rtmp.json
+01:14:18.409: [obs-multi-rtmp] version: 0.7.2.0 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+01:14:18.419: [obs-plugin-countdown] plugin loaded successfully (version 2.0.10)
+01:14:18.448: [obs-shaderfilter] loaded version 2.4.1
+01:14:18.465: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+01:14:18.465: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+01:14:18.465: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+01:14:18.477: [obs-websocket] [obs_module_load] Module loaded.
+01:14:18.482: [Scene As Transition] loaded version 1.1.1
+01:14:18.483: Failed to load 'en-US' text for module: 'source-clone.dll'
+01:14:18.483: [Source Clone] loaded version 0.1.5
+01:14:18.485: [Source Copy] loaded version 0.2.5
+01:14:18.488: [StreamUP] loaded version 1.6.0
+01:14:18.504: [TimeWarpScan] loaded version 0.1.7
+01:14:18.505: [Transition Table] loaded version 0.2.7
+01:14:18.513: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+01:14:18.518: [phandasm_waveform]: Registered v1.8.0 x64
+01:14:18.518: [phandasm_waveform]: Using CPU capabilities: AVX2 AVX FMA3 SSE2
+01:14:18.555: [xObsAsyncImageSource] Version 1.0 loaded.
+01:14:18.555: ---------------------------------
+01:14:18.555:   Loaded Modules:
+01:14:18.555:     xObsAsyncImageSource.dll
+01:14:18.555:     win-wasapi.dll
+01:14:18.555:     win-dshow.dll
+01:14:18.555:     win-capture.dll
+01:14:18.555:     waveform.dll
+01:14:18.555:     vlc-video.dll
+01:14:18.555:     transition-table.dll
+01:14:18.555:     time-warp-scan.dll
+01:14:18.555:     text-freetype2.dll
+01:14:18.555:     streamup.dll
+01:14:18.555:     source-copy.dll
+01:14:18.555:     source-clone.dll
+01:14:18.555:     scene-as-transition.dll
+01:14:18.555:     rtmp-services.dll
+01:14:18.555:     obs-x264.dll
+01:14:18.555:     obs-websocket.dll
+01:14:18.555:     obs-webrtc.dll
+01:14:18.555:     obs-vst.dll
+01:14:18.555:     obs-transitions.dll
+01:14:18.555:     obs-text.dll
+01:14:18.555:     obs-shaderfilter.dll
+01:14:18.555:     obs-qsv11.dll
+01:14:18.555:     obs-plugin-countdown.dll
+01:14:18.555:     obs-outputs.dll
+01:14:18.555:     obs-multi-rtmp.dll
+01:14:18.555:     obs-filters.dll
+01:14:18.555:     obs-ffmpeg.dll
+01:14:18.555:     obs-browser.dll
+01:14:18.555:     obs-advanced-masks.dll
+01:14:18.555:     move-transition.dll
+01:14:18.555:     image-source.dll
+01:14:18.555:     gradient-source.dll
+01:14:18.555:     frontend-tools.dll
+01:14:18.555:     distroav.dll
+01:14:18.555:     decklink-output-ui.dll
+01:14:18.555:     decklink-captions.dll
+01:14:18.555:     coreaudio-encoder.dll
+01:14:18.555:     advanced-scene-switcher.dll
+01:14:18.555: ---------------------------------
+01:14:20.859: [StreamUP] Settings loaded successfully from ../../config/obs-studio/plugin_config/streamup/configs.json
+01:14:20.859: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+01:14:20.859: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+01:14:20.874: [StreamUP] Notifications mute setting: false
+01:14:20.874: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+01:14:20.875: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+01:14:20.876: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+01:14:20.881: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 192.168.0.206
+01:14:20.881: [DistroAV] +obs_module_post_load()
+01:14:20.881: [DistroAV] +updateCheckStart(userRequestCallback=nullptr)
+01:14:20.885: [DistroAV] -updateCheckStart(userRequestCallback=nullptr)
+01:14:20.885: [DistroAV] -obs_module_post_load()
+01:14:20.885: ---------------------------------
+01:14:20.885: Available Encoders:
+01:14:20.885:   Video Encoders:
+01:14:20.885: 	- ffmpeg_svt_av1 (SVT-AV1)
+01:14:20.885: 	- ffmpeg_aom_av1 (AOM AV1)
+01:14:20.886: 	- h264_texture_amf (AMD HW H.264 (AVC))
+01:14:20.886: 	- h265_texture_amf (AMD HW H.265 (HEVC))
+01:14:20.886: 	- av1_texture_amf (AMD HW AV1)
+01:14:20.886: 	- obs_x264 (x264)
+01:14:20.886:   Audio Encoders:
+01:14:20.886: 	- ffmpeg_aac (FFmpeg AAC)
+01:14:20.886: 	- ffmpeg_opus (FFmpeg Opus)
+01:14:20.886: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+01:14:20.886: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+01:14:20.886: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+01:14:20.886: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+01:14:20.886: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+01:14:20.886: ==== Startup complete ===============================================
+01:14:21.005: All scene data cleared
+01:14:21.005: ------------------------------------------------
+01:14:21.011: [win-wasapi: 'Application Audio Capture (BETA)'] update settings:
+01:14:21.011: 	executable: League of Legends.exe
+01:14:21.011: 	title: League of Legends (TM) Client
+01:14:21.011: 	class: RiotWindowClass
+01:14:21.011: 	priority: 0
+01:14:21.012: [WASAPISource::TryInitialize]:[[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]] Failed to find window
+01:14:21.012: WASAPI: Device '' failed to start (source: Application Audio Capture (BETA))
+01:14:21.054: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Jungle.png': No such file or directory
+01:14:21.054: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Bot.png': No such file or directory
+01:14:21.054: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Mid.png': No such file or directory
+01:14:21.054: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Blue Jungle.png
+01:14:21.054: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Jungle.png'
+01:14:21.054: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Blue Bot.png
+01:14:21.054: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Blue Jungle.png'
+01:14:21.054: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Blue Mid.png
+01:14:21.054: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Mid.png'
+01:14:21.054: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Bot.png'
+01:14:21.054: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Blue Mid.png'
+01:14:21.054: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Blue Bot.png'
+01:14:21.062: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Top.png': No such file or directory
+01:14:21.063: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Blue Top.png
+01:14:21.063: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Top.png'
+01:14:21.063: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Blue Top.png'
+01:14:21.072: [duplicator-monitor-capture: 'Display Capture'] update settings:
+01:14:21.072: 	display:  (0x0)
+01:14:21.072: 	cursor: true
+01:14:21.072: 	method: WGC
+01:14:21.072: 	id: 
+01:14:21.072: 	alt_id: 
+01:14:21.072: 	setting_id: \\?\DISPLAY#AOP0B95#5&24a3a336&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+01:14:21.072: 	force SDR: false
+01:14:21.073: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png': No such file or directory
+01:14:21.074: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png
+01:14:21.074: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+01:14:21.074: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+01:14:21.074: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png': No such file or directory
+01:14:21.074: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png
+01:14:21.074: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+01:14:21.074: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+01:14:21.074: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png': No such file or directory
+01:14:21.075: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png
+01:14:21.075: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+01:14:21.075: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+01:14:21.075: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png': No such file or directory
+01:14:21.075: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png
+01:14:21.075: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+01:14:21.075: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+01:14:21.075: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png': No such file or directory
+01:14:21.076: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png
+01:14:21.076: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+01:14:21.076: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+01:14:21.076: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png': No such file or directory
+01:14:21.076: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Support.png': No such file or directory
+01:14:21.076: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png
+01:14:21.076: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+01:14:21.076: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Support.png
+01:14:21.076: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Support.png'
+01:14:21.077: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+01:14:21.077: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Support.png'
+01:14:21.087: [Media Source 'Sessions: Star Guardian Taliyah']: settings:
+01:14:21.087: 	input:                   //192.168.0.1/g/Production/Sessions： Star Guardian Taliyah ｜ A Creator-Safe Collection ｜ Riot Games Music [uc461NBBqWs].webm
+01:14:21.087: 	input_format:            (null)
+01:14:21.087: 	speed:                   100
+01:14:21.087: 	is_looping:              yes
+01:14:21.087: 	is_linear_alpha:         no
+01:14:21.087: 	is_hw_decoding:          no
+01:14:21.087: 	is_clear_on_media_end:   yes
+01:14:21.087: 	restart_on_activate:     no
+01:14:21.087: 	close_when_inactive:     no
+01:14:21.087: 	full_decode:             no
+01:14:21.087: 	ffmpeg_options:          
+01:14:21.089: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Support.png': No such file or directory
+01:14:21.089: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Blue Support.png
+01:14:21.089: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Blue Support.png'
+01:14:21.089: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Blue Support.png'
+01:14:21.089: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png': No such file or directory
+01:14:21.089: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Top.png
+01:14:21.089: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+01:14:21.089: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+01:14:21.089: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png': No such file or directory
+01:14:21.090: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Top.png
+01:14:21.090: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+01:14:21.090: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+01:14:21.090: [Media Source 'draft bed']: settings:
+01:14:21.090: 	input:                   //192.168.0.1/g/Production/Warsongs_ Piercing Light (Mako Remix)  Music - League of Legends (1).mp3
+01:14:21.090: 	input_format:            (null)
+01:14:21.090: 	speed:                   100
+01:14:21.090: 	is_looping:              yes
+01:14:21.090: 	is_linear_alpha:         no
+01:14:21.090: 	is_hw_decoding:          no
+01:14:21.090: 	is_clear_on_media_end:   yes
+01:14:21.090: 	restart_on_activate:     yes
+01:14:21.090: 	close_when_inactive:     no
+01:14:21.090: 	full_decode:             no
+01:14:21.090: 	ffmpeg_options:          
+01:14:21.103: Failed to open file 'https://media.discordapp.net/attachments/1379459520308314172/1415109221870993408/CCI_logo_active_-_jerry_rich_1.webp?ex=68ca9469&is=68c942e9&hm=f4f4d252034f00a9045037c9624c5c45b504af96d85f6850f721161d8d645971&=&format=webp': Server returned 404 Not Found
+01:14:21.103: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1379459520308314172/1415109221870993408/CCI_logo_active_-_jerry_rich_1.webp?ex=68ca9469&is=68c942e9&hm=f4f4d252034f00a9045037c9624c5c45b504af96d85f6850f721161d8d645971&=&format=webp
+01:14:21.103: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1379459520308314172/1415109221870993408/CCI_logo_active_-_jerry_rich_1.webp?ex=68ca9469&is=68c942e9&hm=f4f4d252034f00a9045037c9624c5c45b504af96d85f6850f721161d8d645971&=&format=webp'
+01:14:21.103: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1379459520308314172/1415109221870993408/CCI_logo_active_-_jerry_rich_1.webp?ex=68ca9469&is=68c942e9&hm=f4f4d252034f00a9045037c9624c5c45b504af96d85f6850f721161d8d645971&=&format=webp'
+01:14:21.519: [Media Source 'Media Source']: settings:
+01:14:21.519: 	input:                   C:/Users/Nicholas/Downloads/copy_5B9B10B8-EB04-43CC-A5C8-3C8A2986D8CF.mov
+01:14:21.519: 	input_format:            (null)
+01:14:21.519: 	speed:                   100
+01:14:21.519: 	is_looping:              no
+01:14:21.519: 	is_linear_alpha:         no
+01:14:21.519: 	is_hw_decoding:          no
+01:14:21.519: 	is_clear_on_media_end:   yes
+01:14:21.519: 	restart_on_activate:     yes
+01:14:21.519: 	close_when_inactive:     no
+01:14:21.519: 	full_decode:             no
+01:14:21.519: 	ffmpeg_options:          
+01:14:21.543: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/1 - Aegis White.png': No such file or directory
+01:14:21.543: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/1 - Aegis White.png
+01:14:21.543: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/1 - Aegis White.png'
+01:14:21.543: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/1 - Aegis White.png'
+01:14:21.548: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.548: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.548: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.554: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.554: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.567: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.567: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.567: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.570: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.570: [obs-shaderfilter] failed to read file: D:/Production/SALT MINE/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+01:14:21.698: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_stroke_gradient.shader
+01:14:21.700: Switched to scene 'Intermission'
+01:14:21.704: ------------------------------------------------
+01:14:21.704: Loaded scenes:
+01:14:21.704: - scene 'Intermission':
+01:14:21.704:     - source: 'Red Team Code |sheet 148' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Blue Team Code |sheet 147' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Blank BG' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: 'Event |sheet 14' (text_gdiplus_v3)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Sessions: Star Guardian Taliyah' (ffmpeg_source)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Logo' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Matchup' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - source: 'Blue Team Logo |sheet 7' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Red Team Logo |sheet 11' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Vs' (text_gdiplus_v3)
+01:14:21.704:         - source: 'Blue Team Score |sheet 8' (text_gdiplus_v3)
+01:14:21.704:         - source: 'Red Team Score |sheet 12' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Timer' (text_gdiplus_v3)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704: - scene 'Intro':
+01:14:21.704:     - source: 'Blank BG' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: 'Media Source' (ffmpeg_source)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704: - scene 'caster desk':
+01:14:21.704:     - source: 'Blank BG' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: 'Left Cam' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - show: 'Left Cam Show Transition' (move_transition)
+01:14:21.704:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Right Cam' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - show: 'Right Cam Show Transition' (move_transition)
+01:14:21.704:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Caster 3 Group' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster 3 Video |sheet 152' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster 3 Name |sheet 151' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Event |sheet 14' (text_gdiplus_v3)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Logo' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704: - scene 'Draft':
+01:14:21.704:     - source: 'Blank BG' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: '--- Draft Backend ---' (scene)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Left Cam' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Right Cam' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Caster 3 Group' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster 3 Video |sheet 152' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster 3 Name |sheet 151' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Logo' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Event |sheet 14' (text_gdiplus_v3)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: '--- Actual Positions Backend ---' (scene)
+01:14:21.704:         - show: '--- Actual Positions Backend --- Show Transition' (slide_transition)
+01:14:21.704:         - hide: '--- Actual Positions Backend --- Hide Transition' (slide_transition)
+01:14:21.704:     - source: 'draft bed' (ffmpeg_source)
+01:14:21.704:         - monitoring: monitor and output
+01:14:21.704:     - source: '--- Fearless Champion Select Backend (Bo3) ---' (scene)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704: - scene 'IN GAME':
+01:14:21.704:     - source: 'Right Cam' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Caster 3 Group' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster 3 Video |sheet 152' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster 3 Name |sheet 151' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Left Cam' (group)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:         - filter: 'User-defined shader 2' (shader_filter)
+01:14:21.704:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+01:14:21.704:         - source: 'Name plate' (gradient_source)
+01:14:21.704:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Caster Cam Left |sheet 4' (browser_source)
+01:14:21.704:     - source: 'Caster Cam Right |sheet 5' (browser_source)
+01:14:21.704:     - source: '---- GAME FEED ----' (scene)
+01:14:21.704:     - source: 'In Game Overlay Upper' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Advanced Mask' (advanced_masks_filter_v2)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: 'Minimap Overlay' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Advanced Mask' (advanced_masks_filter_v2)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: 'Lower Left outline' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Advanced Mask' (advanced_masks_filter_v2)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:     - source: 'Bottom Scoreboard Outline' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Advanced Mask' (advanced_masks_filter_v2)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - show: 'Bottom Scoreboard Outline Show Transition' (wipe_transition)
+01:14:21.704:         - hide: 'Bottom Scoreboard Outline Hide Transition' (wipe_transition)
+01:14:21.704:     - source: 'Fills' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'in game clones' (group)
+01:14:21.704:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.704:         - source: 'blue side' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'atakan blue' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'red money' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'red tower' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'red tower bounty' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'red grubs' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'red baron' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'red dragon' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'atakan red' (source-clone)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:         - source: 'kills' (source-clone)
+01:14:21.704:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'Color Key' (color_key_filter_v2)
+01:14:21.704:     - source: 'Objective Bar' (color_source_v3)
+01:14:21.704:     - source: 'Logo' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704:     - source: 'Best of 3 Series |sheet 95' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Best of 5 Series |sheet 96' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Red Team Score |sheet 12' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Blue Team Score |sheet 8' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Blue Team Code |sheet 147' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Red Team Code |sheet 148' (text_gdiplus_v3)
+01:14:21.704:     - source: 'NACL left' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Blank Objective' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blank Turret' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blank Kills' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Objective Bar 2' (color_source_v3)
+01:14:21.704:     - source: 'Blank Kills 2' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blank Turret 2' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blank Objective 2' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blue Side Kills |sheet 160' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blue Side Turrets |sheet 161' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Blue Side Objectives |sheet 162' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Red Side Kills |sheet 163' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Red Side Turrets |sheet 164' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Red Side Objectives |sheet 165' (xObsAsyncImageSource)
+01:14:21.704: - scene '---- GAME FEED ----':
+01:14:21.704:     - source: 'Display Capture' (monitor_capture)
+01:14:21.704:     - source: 'Application Audio Capture (BETA)' (wasapi_process_output_capture)
+01:14:21.704:         - monitoring: monitor and output
+01:14:21.704:     - source: 'Game Capture' (game_capture)
+01:14:21.704:     - source: 'Browser' (browser_source)
+01:14:21.704:         - monitoring: monitor and output
+01:14:21.704: - scene '---- DONT TOUCH BELOW THIS ----':
+01:14:21.704:     - source: 'Overlay Mask' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'master clone' (source-clone)
+01:14:21.704:         - filter: 'Scaling/Aspect Ratio' (scale_filter)
+01:14:21.704: - scene '--- Draft Backend ---':
+01:14:21.704:     - source: 'Red Back' (group)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Blue Back' (group)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:         - source: 'Color Source 3' (color_source_v3)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Position Logos Blue' (group)
+01:14:21.704:         - source: 'Blue Bot Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Blue Mid Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Blue Jungle Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Blue Top Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Support Logo' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Position Logos Red' (group)
+01:14:21.704:         - source: 'Blue Bot Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Blue Mid Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Blue Jungle Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Blue Top Logo' (xObsAsyncImageSource)
+01:14:21.704:         - source: 'Support Logo' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Pick/Ban' (group)
+01:14:21.704:         - source: 'Blue Ban 1 |sheet 25' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Blue Ban 1 |sheet 25 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Blue Ban 2 |sheet 26' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Blue Ban 2 |sheet 26 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Blue Ban 3 |sheet 27' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Blue Ban 3 |sheet 27 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Blue Ban 4 |sheet 28' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Blue Ban 4 |sheet 28 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Blue Ban 5 |sheet 29' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Blue Ban 5 |sheet 29 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Blue Pick 1 |sheet 30' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Blue Pick 1 |sheet 30 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Blue Pick 2 |sheet 31' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Blue Pick 2 |sheet 31 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Blue Pick 3 |sheet 32' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Blue Pick 3 |sheet 32 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Blue Pick 4 |sheet 33' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Blue Pick 4 |sheet 33 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Blue Pick 5 |sheet 34' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Blue Pick 5 |sheet 34 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Red Ban 1 |sheet 35' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Red Ban 1 |sheet 35 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Red Ban 2 |sheet 36' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Red Ban 2 |sheet 36 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Red Ban 3 |sheet 37' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Red Ban 3 |sheet 37 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Red Ban 4 |sheet 38' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Red Ban 4 |sheet 38 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Red Ban 5 |sheet 39' (xObsAsyncImageSource)
+01:14:21.704:             - show: 'Red Ban 5 |sheet 39 Show Transition' (slide_transition)
+01:14:21.704:         - source: 'Red Pick 1 |sheet 40' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Red Pick 1 |sheet 40 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Red Pick 2 |sheet 41' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Red Pick 2 |sheet 41 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Red Pick 3 |sheet 42' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Red Pick 3 |sheet 42 Show Transition' (obs_stinger_transition)
+01:14:21.704:         - source: 'Red Pick 4 |sheet 43' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Red Pick 4 |sheet 43 Show Transition' (obs_stinger_transition)
+01:14:21.704: [adv-ss] started
+01:14:21.704:         - source: 'Red Pick 5 |sheet 44' (xObsAsyncImageSource)
+01:14:21.704:             - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:             - show: 'Red Pick 5 |sheet 44 Show Transition' (obs_stinger_transition)
+01:14:21.704:     - source: 'Group' (group)
+01:14:21.704:         - source: 'Color Source' (color_source_v3)
+01:14:21.704:     - source: 'Group 2' (group)
+01:14:21.704:         - source: 'Color Source' (color_source_v3)
+01:14:21.704:     - source: 'Blue Team Name |sheet 6' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Red Team Name |sheet 10' (text_gdiplus_v3)
+01:14:21.704:     - source: 'Blue Team Logo |sheet 7' (xObsAsyncImageSource)
+01:14:21.704:     - source: 'Red Team Logo |sheet 11' (xObsAsyncImageSource)
+01:14:21.704:     - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.704: - scene '--- Actual Positions Backend ---':
+01:14:21.704:     - source: 'Blue Top Champ |sheet 85' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Blue Jungle Champ |sheet 86' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Blue Mid Champ |sheet 87' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Blue Bot Champ |sheet 88' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Blue Support Champ |sheet 89' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Red Top Champ |sheet 90' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Red Jungle Champ |sheet 91' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.704:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.704:     - source: 'Red Mid Champ |sheet 92' (xObsAsyncImageSource)
+01:14:21.704:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.705:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:     - source: 'Red Bot Champ |sheet 93' (xObsAsyncImageSource)
+01:14:21.705:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.705:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:     - source: 'Red Support Champ |sheet 94' (xObsAsyncImageSource)
+01:14:21.705:         - filter: 'Crop/Pad' (crop_filter)
+01:14:21.705:         - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:     - source: 'Top Logo' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Top Logo 2' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Jungle Logo' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Jungle Logo 2' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Logo Mid' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Logo Mid 2' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Logo Bot' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Logo Bot 2' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Logo Support' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Logo Support' (xObsAsyncImageSource)
+01:14:21.705:     - source: 'Red Top |sheet 20' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Red Jungle |sheet 21' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Red Mid |sheet 22' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Red Bot |sheet 23' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Red Support |sheet 24' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Blue Top |sheet 15' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Blue Jungle |sheet 16' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Blue Mid |sheet 17' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Blue Bot |sheet 18' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Blue Support |sheet 19' (text_gdiplus_v3)
+01:14:21.705: - scene '--- Fearless Champion Select Backend (Bo3) ---':
+01:14:21.705:     - source: 'Color Source 2' (color_source_v3)
+01:14:21.705:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:     - source: 'fearless' (color_source_v3)
+01:14:21.705:         - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:     - source: 'G1 Bans' (group)
+01:14:21.705:         - source: 'Blue Fearless 1 |sheet 45' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 2 |sheet 46' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 3 |sheet 47' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 4 |sheet 48' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 5 |sheet 49' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 1 |sheet 65' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 2 |sheet 66' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 3 |sheet 67' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 4 |sheet 68' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 5 |sheet 69' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:     - source: 'Game 1' (text_gdiplus_v3)
+01:14:21.705:     - source: 'G2 Bans' (group)
+01:14:21.705:         - source: 'Blue Fearless 6 |sheet 50' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 7 |sheet 51' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 8 |sheet 52' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 9 |sheet 53' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Blue Fearless 10 |sheet 54' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 6 |sheet 70' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:         - source: 'Red Fearless 7 |sheet 71' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:         - source: 'Red Fearless 8 |sheet 72' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:         - source: 'Red Fearless 9 |sheet 73' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:         - source: 'Red Fearless 10 |sheet 74' (xObsAsyncImageSource)
+01:14:21.705:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+01:14:21.705:             - filter: 'Color Correction' (color_filter_v2)
+01:14:21.705:             - filter: 'User-defined shader' (shader_filter)
+01:14:21.705:     - source: 'Game 2' (text_gdiplus_v3)
+01:14:21.705:     - source: 'Aegis Logo' (xObsAsyncImageSource)
+01:14:21.705:     - filter: 'Move transition override' (move_transition_override_filter)
+01:14:21.705: ------------------------------------------------
+01:14:22.210: [DistroAV] +main_output_init()
+01:14:22.210: [DistroAV] +main_output_deinit()
+01:14:22.211: [DistroAV] main_output_deinit: NDI main output is not initialized
+01:14:22.211: [DistroAV] -main_output_deinit()
+01:14:22.211: [DistroAV] main_output_init: creating NDI main output 'OBS'
+01:14:22.211: [DistroAV] +ndi_output_getdefaults()
+01:14:22.211: [DistroAV] -ndi_output_getdefaults()
+01:14:22.211: [DistroAV] +ndi_output_create(name='OBS', groups='', ...)
+01:14:22.211: [DistroAV] ndi_output_update(name='OBS', groups='', ...)
+01:14:22.211: [DistroAV] -ndi_output_create(name='OBS', groups='', ...)
+01:14:22.211: [DistroAV] main_output_init: successfully created NDI main output 'OBS'
+01:14:22.211: [DistroAV] -main_output_init()
+01:14:22.211: [DistroAV] +preview_output_init()
+01:14:22.211: [DistroAV] +preview_output_deinit()
+01:14:22.211: [DistroAV] preview_output_deinit: NDI preview output is not initialized
+01:14:22.211: [DistroAV] -preview_output_deinit()
+01:14:22.211: [DistroAV] preview_output_init: creating NDI preview output 'OBS Preview'
+01:14:22.211: [DistroAV] +ndi_output_getdefaults()
+01:14:22.211: [DistroAV] -ndi_output_getdefaults()
+01:14:22.211: [DistroAV] +ndi_output_create(name='OBS Preview', groups='', ...)
+01:14:22.211: [DistroAV] ndi_output_update(name='OBS Preview', groups='', ...)
+01:14:22.211: [DistroAV] -ndi_output_create(name='OBS Preview', groups='', ...)
+01:14:22.211: [DistroAV] preview_output_init: successfully created NDI preview output 'OBS Preview'
+01:14:22.211: [DistroAV] -preview_output_init()
+01:14:22.213: [DistroAV] onCheckForUpdateNetworkFinish(httpStatusCode=200, responseData=..., errorData=``, userRequestCallback=nullptr)
+01:14:22.213: [DistroAV] onCheckForUpdateNetworkFinish: versionLatest == versionSkip(6.1.1); ignoring update
+01:14:25.578: [obs-browser: 'Browser'] Error: This document requires 'TrustedScript' assignment. This script element was modified without use of TrustedScript assignment. (https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.hPcZj79E0as.es5.O/am=AACA/d=0/br=1/rs=AGKMywE-gnXnx6-9G7MxyWzvafRQRr8TrQ:603)
+01:14:25.579: [obs-browser: 'Browser'] Error: This document requires 'TrustedScript' assignment. An HTMLScriptElement was directly modified and will not be executed. (https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.hPcZj79E0as.es5.O/am=AACA/d=0/br=1/rs=AGKMywE-gnXnx6-9G7MxyWzvafRQRr8TrQ:603)
+01:14:27.528: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.528: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.528: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.529: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.529: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.529: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.530: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.530: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.530: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.530: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.530: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.530: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.531: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.531: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.531: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.531: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.531: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.531: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.532: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.532: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.532: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.532: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.532: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.532: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.533: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.533: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.533: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.533: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.533: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.533: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.535: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.535: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.535: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.535: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.535: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.535: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.536: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.536: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.536: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.536: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.536: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.536: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.537: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.537: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.537: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.537: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.537: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.538: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.538: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.538: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.538: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.539: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.539: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.539: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.540: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.540: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.540: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.540: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+01:14:27.541: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+01:14:27.541: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+01:14:27.542: [Media Source 'Blue Pick 1 |sheet 30 Show Transition (Stinger)']: settings:
+01:14:27.542: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.542: 	input_format:            (null)
+01:14:27.542: 	speed:                   100
+01:14:27.542: 	is_looping:              no
+01:14:27.542: 	is_linear_alpha:         no
+01:14:27.542: 	is_hw_decoding:          yes
+01:14:27.542: 	is_clear_on_media_end:   yes
+01:14:27.542: 	restart_on_activate:     yes
+01:14:27.542: 	close_when_inactive:     no
+01:14:27.542: 	full_decode:             no
+01:14:27.542: 	ffmpeg_options:          
+01:14:27.542: [Media Source 'Blue Pick 2 |sheet 31 Show Transition (Stinger)']: settings:
+01:14:27.542: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.542: 	input_format:            (null)
+01:14:27.542: 	speed:                   100
+01:14:27.542: 	is_looping:              no
+01:14:27.542: 	is_linear_alpha:         no
+01:14:27.542: 	is_hw_decoding:          yes
+01:14:27.542: 	is_clear_on_media_end:   yes
+01:14:27.542: 	restart_on_activate:     yes
+01:14:27.542: 	close_when_inactive:     no
+01:14:27.542: 	full_decode:             no
+01:14:27.542: 	ffmpeg_options:          
+01:14:27.542: [Media Source 'Blue Pick 3 |sheet 32 Show Transition (Stinger)']: settings:
+01:14:27.542: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.542: 	input_format:            (null)
+01:14:27.542: 	speed:                   100
+01:14:27.542: 	is_looping:              no
+01:14:27.542: 	is_linear_alpha:         no
+01:14:27.542: 	is_hw_decoding:          yes
+01:14:27.542: 	is_clear_on_media_end:   yes
+01:14:27.542: 	restart_on_activate:     yes
+01:14:27.542: 	close_when_inactive:     no
+01:14:27.542: 	full_decode:             no
+01:14:27.542: 	ffmpeg_options:          
+01:14:27.542: [Media Source 'Blue Pick 4 |sheet 33 Show Transition (Stinger)']: settings:
+01:14:27.542: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.542: 	input_format:            (null)
+01:14:27.542: 	speed:                   100
+01:14:27.542: 	is_looping:              no
+01:14:27.542: 	is_linear_alpha:         no
+01:14:27.542: 	is_hw_decoding:          yes
+01:14:27.542: 	is_clear_on_media_end:   yes
+01:14:27.542: 	restart_on_activate:     yes
+01:14:27.542: 	close_when_inactive:     no
+01:14:27.542: 	full_decode:             no
+01:14:27.542: 	ffmpeg_options:          
+01:14:27.542: [Media Source 'Blue Pick 5 |sheet 34 Show Transition (Stinger)']: settings:
+01:14:27.542: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.542: 	input_format:            (null)
+01:14:27.542: 	speed:                   100
+01:14:27.542: 	is_looping:              no
+01:14:27.542: 	is_linear_alpha:         no
+01:14:27.542: 	is_hw_decoding:          yes
+01:14:27.542: 	is_clear_on_media_end:   yes
+01:14:27.542: 	restart_on_activate:     yes
+01:14:27.542: 	close_when_inactive:     no
+01:14:27.542: 	full_decode:             no
+01:14:27.542: 	ffmpeg_options:          
+01:14:27.543: [Media Source 'Red Pick 1 |sheet 40 Show Transition (Stinger)']: settings:
+01:14:27.543: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.543: 	input_format:            (null)
+01:14:27.543: 	speed:                   100
+01:14:27.543: 	is_looping:              no
+01:14:27.543: 	is_linear_alpha:         no
+01:14:27.543: 	is_hw_decoding:          yes
+01:14:27.543: 	is_clear_on_media_end:   yes
+01:14:27.543: 	restart_on_activate:     yes
+01:14:27.543: 	close_when_inactive:     no
+01:14:27.543: 	full_decode:             no
+01:14:27.543: 	ffmpeg_options:          
+01:14:27.543: [Media Source 'Red Pick 2 |sheet 41 Show Transition (Stinger)']: settings:
+01:14:27.543: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.543: 	input_format:            (null)
+01:14:27.543: 	speed:                   100
+01:14:27.543: 	is_looping:              no
+01:14:27.543: 	is_linear_alpha:         no
+01:14:27.543: 	is_hw_decoding:          yes
+01:14:27.543: 	is_clear_on_media_end:   yes
+01:14:27.543: 	restart_on_activate:     yes
+01:14:27.543: 	close_when_inactive:     no
+01:14:27.543: 	full_decode:             no
+01:14:27.543: 	ffmpeg_options:          
+01:14:27.543: [Media Source 'Red Pick 3 |sheet 42 Show Transition (Stinger)']: settings:
+01:14:27.543: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.543: 	input_format:            (null)
+01:14:27.543: 	speed:                   100
+01:14:27.543: 	is_looping:              no
+01:14:27.543: 	is_linear_alpha:         no
+01:14:27.543: 	is_hw_decoding:          yes
+01:14:27.543: 	is_clear_on_media_end:   yes
+01:14:27.543: 	restart_on_activate:     yes
+01:14:27.543: 	close_when_inactive:     no
+01:14:27.543: 	full_decode:             no
+01:14:27.543: 	ffmpeg_options:          
+01:14:27.543: [Media Source 'Red Pick 4 |sheet 43 Show Transition (Stinger)']: settings:
+01:14:27.543: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.543: 	input_format:            (null)
+01:14:27.543: 	speed:                   100
+01:14:27.543: 	is_looping:              no
+01:14:27.543: 	is_linear_alpha:         no
+01:14:27.543: 	is_hw_decoding:          yes
+01:14:27.543: 	is_clear_on_media_end:   yes
+01:14:27.543: 	restart_on_activate:     yes
+01:14:27.543: 	close_when_inactive:     no
+01:14:27.543: 	full_decode:             no
+01:14:27.543: 	ffmpeg_options:          
+01:14:27.543: [Media Source 'Red Pick 5 |sheet 44 Show Transition (Stinger)']: settings:
+01:14:27.543: 	input:                   C:/Users/Nicholas/Downloads/BURN_TRANSITION_ORANGE/BURN_TRANSITION_ORANGE/Burn_Orange_Transition_NoSound.webm
+01:14:27.543: 	input_format:            (null)
+01:14:27.543: 	speed:                   100
+01:14:27.543: 	is_looping:              no
+01:14:27.543: 	is_linear_alpha:         no
+01:14:27.543: 	is_hw_decoding:          yes
+01:14:27.543: 	is_clear_on_media_end:   yes
+01:14:27.543: 	restart_on_activate:     yes
+01:14:27.543: 	close_when_inactive:     no
+01:14:27.543: 	full_decode:             no
+01:14:27.543: 	ffmpeg_options:          
+01:14:27.557: [Media Source 'Stinger (Stinger)']: settings:
+01:14:27.557: 	input:                   C:/Users/Nicholas/Documents/10-Matte-Transitions-Free/10 Matte Transitions - Free/Transitions/01/Muted/Purple.webm
+01:14:27.557: 	input_format:            (null)
+01:14:27.557: 	speed:                   100
+01:14:27.557: 	is_looping:              no
+01:14:27.557: 	is_linear_alpha:         no
+01:14:27.557: 	is_hw_decoding:          yes
+01:14:27.557: 	is_clear_on_media_end:   yes
+01:14:27.557: 	restart_on_activate:     yes
+01:14:27.557: 	close_when_inactive:     no
+01:14:27.557: 	full_decode:             no
+01:14:27.557: 	ffmpeg_options:          
+01:14:41.695: User added scene 'End of Game'
+01:14:41.696: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:14:41.697: User switched to scene 'End of Game'
+01:14:44.650: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:14:49.730: User added source 'Blank BG' (xObsAsyncImageSource) to scene 'End of Game'
+01:14:52.025: User switched to scene 'Intermission'
+01:14:54.984: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:14:56.390: User switched to scene 'End of Game'
+01:14:59.350: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:15:14.014: User added source 'End of game stats' (browser_source) to scene 'End of Game'
+01:15:25.497: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) Error: request timed out (http://localhost:3003/static/main-bundle.js:688)
+01:18:34.345: User switched to scene '---- GAME FEED ----'
+01:18:34.353: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:18:34.359: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:18:35.568: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:18:35.569: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:18:36.249: [game-capture: 'Game Capture'] attempting to hook process: League of Legends.exe
+01:18:36.260: [game-capture: 'Game Capture'] using helper (compatibility hook)
+01:18:36.271: [game-capture: 'Game Capture'] hook not loaded yet, retrying..
+01:18:37.300: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:18:38.265: [game-capture: 'Game Capture'] attempting to hook process: League of Legends.exe
+01:18:38.280: [game-capture: 'Game Capture'] DXGI_SWAP_CHAIN_DESC:
+01:18:38.280:     BufferDesc.Width: 2048
+01:18:38.280:     BufferDesc.Height: 1152
+01:18:38.280:     BufferDesc.RefreshRate.Numerator: 0
+01:18:38.280:     BufferDesc.RefreshRate.Denominator: 1
+01:18:38.280:     BufferDesc.Format: 87
+01:18:38.280:     BufferDesc.ScanlineOrdering: 1
+01:18:38.280:     BufferDesc.Scaling: 0
+01:18:38.280:     SampleDesc.Count: 1
+01:18:38.280:     SampleDesc.Quality: 0
+01:18:38.280:     BufferUsage: 32
+01:18:38.280:     BufferCount: 3
+01:18:38.280:     Windowed: 1
+01:18:38.280:     SwapEffect: 3
+01:18:38.280:     Flags: 2050
+01:18:38.280: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:18:38.282: [game-capture: 'Game Capture'] shared texture capture successful
+01:19:07.052: User switched to scene 'End of Game'
+01:19:07.527: User switched to scene 'IN GAME'
+01:19:07.569: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:10.484: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:16.303: User switched to scene '---- GAME FEED ----'
+01:19:18.810: User switched to scene 'IN GAME'
+01:19:19.267: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:28.025: User switched to scene '---- GAME FEED ----'
+01:19:30.984: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:31.051: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:32.910: User switched to scene 'IN GAME'
+01:19:32.952: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:35.867: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:45.684: User switched to scene '---- DONT TOUCH BELOW THIS ----'
+01:19:48.650: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:19:48.666: [game-capture: 'Game Capture'] capture stopped
+01:20:02.249: [game-capture: 'Game Capture'] attempting to hook process: League of Legends.exe
+01:20:02.251: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:20:02.271: [game-capture: 'Game Capture'] DXGI_SWAP_CHAIN_DESC:
+01:20:02.271:     BufferDesc.Width: 2048
+01:20:02.271:     BufferDesc.Height: 1152
+01:20:02.271:     BufferDesc.RefreshRate.Numerator: 0
+01:20:02.271:     BufferDesc.RefreshRate.Denominator: 1
+01:20:02.271:     BufferDesc.Format: 87
+01:20:02.271:     BufferDesc.ScanlineOrdering: 1
+01:20:02.271:     BufferDesc.Scaling: 0
+01:20:02.271:     SampleDesc.Count: 1
+01:20:02.271:     SampleDesc.Quality: 0
+01:20:02.271:     BufferUsage: 32
+01:20:02.271:     BufferCount: 3
+01:20:02.271:     Windowed: 1
+01:20:02.271:     SwapEffect: 3
+01:20:02.271:     Flags: 2050
+01:20:02.271: [game-capture: 'Game Capture'] d3d11 shared texture capture successful
+01:20:02.282: [game-capture: 'Game Capture'] shared texture capture successful
+01:20:05.259: User switched to scene 'IN GAME'
+01:20:08.217: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:30:49.163: Switched to Preview/Program mode
+01:30:49.163: ------------------------------------------------
+01:30:50.295: User switched to scene 'End of Game'
+01:31:08.782: [game-capture: 'Game Capture'] capture window no longer exists, terminating capture
+01:31:08.783: [game-capture: 'Game Capture'] capture stopped
+01:31:43.691: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) Error: request timed out (http://localhost:3003/static/main-bundle.js:688)
+01:36:00.196: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) Error: request timed out (http://localhost:3003/static/main-bundle.js:688)
+01:37:46.002: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'stats') (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/end-of-game.js:185)
+01:37:49.027: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'stats') (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/end-of-game.js:185)
+01:39:12.387: User added source 'gold graph' (browser_source) to scene 'End of Game'
+01:39:18.816: [obs-browser: 'gold graph'] Error: Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'color') (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/gold.js:71)
+01:40:24.737: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) TypeError: Failed to execute 'createLinearGradient' on 'CanvasRenderingContext2D': The provided double value is non-finite. (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/all-in-one/gold.js:83)
+01:40:38.051: [obs-browser: 'gold graph'] Error: Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'color') (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/pub-order.js:57)
+01:40:50.683: [obs-browser: 'gold graph'] Error: Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'color') (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/gold.js:71)
+01:47:02.741: [obs-browser: 'gold graph'] Error: Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'color') (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/gold.js:71)
+01:47:10.877: [obs-browser: 'gold graph'] Error: Uncaught (in promise) TypeError: Failed to execute 'createLinearGradient' on 'CanvasRenderingContext2D': The provided double value is non-finite. (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/all-in-one/gold.js:83)
+01:49:22.996: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:49:23.068: Switched to scene 'IN GAME'
+01:49:23.069: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:49:23.072: Switched to regular Preview mode
+01:49:23.072: ------------------------------------------------
+01:49:23.836: User switched to scene 'End of Game'
+01:49:26.800: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:49:35.615: Source 'gold graph' renamed to 'Damage Numbers'
+01:49:40.872: User added source 'Damage Numbers' (browser_source) to scene 'End of Game'
+01:56:59.512: User added source 'distorted bg' (xObsAsyncImageSource) to scene 'End of Game'
+01:57:26.714: User Removed source 'distorted bg' (xObsAsyncImageSource) from scene 'End of Game'
+01:59:51.942: User switched to scene 'Intermission'
+01:59:54.900: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:59:56.348: User switched to scene 'End of Game'
+01:59:59.300: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:59:59.569: User switched to scene '---- GAME FEED ----'
+01:59:59.577: User Removed scene 'End of Game'
+01:59:59.578: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+01:59:59.578: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+02:00:02.533: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+02:00:07.500: User added scene 'End of Game'
+02:00:07.500: User added source 'Blank BG' (xObsAsyncImageSource) to scene 'End of Game'
+02:00:07.500: User added source 'End of game stats' (browser_source) to scene 'End of Game'
+02:00:07.500: User added source 'Damage Numbers' (browser_source) to scene 'End of Game'
+02:00:07.500: User added source 'Damage Numbers' (browser_source) to scene 'End of Game'
+02:00:07.502: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+02:00:07.503: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+02:00:07.510: Switched to scene 'End of Game'
+02:00:07.795: [obs-browser: 'End of game stats'] Error: Uncaught (in promise) TypeError: Failed to execute 'createLinearGradient' on 'CanvasRenderingContext2D': The provided double value is non-finite. (http://localhost:3003/pages/op-module-league-end-of-game/gfx/js/all-in-one/gold.js:83)
+02:00:21.835: User Removed source 'End of game stats' (browser_source) from scene 'End of Game'
+02:00:21.835: User Removed source 'Damage Numbers' (browser_source) from scene 'End of Game'
+02:00:21.835: User Removed source 'Damage Numbers' (browser_source) from scene 'End of Game'
+03:05:43.858: Source 'End of Game' renamed to 'MVP 2 Game'
+03:05:43.860: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+03:05:47.211: User added scene 'MVP 2 Game 2'
+03:05:47.211: User added source 'Blank BG' (xObsAsyncImageSource) to scene 'MVP 2 Game 2'
+03:05:47.211: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+03:05:47.212: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+03:05:47.215: Switched to scene 'MVP 2 Game 2'
+03:05:52.312: Source 'MVP 2 Game 2' renamed to 'MVP 3 Game'
+03:05:52.312: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+03:05:55.635: User switched to scene 'MVP 2 Game'
+03:05:56.007: User switched to scene 'MVP 3 Game'
+03:05:58.600: [obs-browser: 'Browser'] Error: Blocked script execution in 'about:blank' because the document's frame is sandboxed and the 'allow-scripts' permission is not set. (about:blank:0)
+03:09:40.670: ==== Shutting down ==================================================
+03:09:40.700: [adv-ss] stopped
+03:09:40.703: [adv-ss] reset transition behaviour to adjust active transition type
+03:09:40.703: [adv-ss] started
+03:09:40.771: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+03:09:40.857: All scene data cleared
+03:09:40.857: ------------------------------------------------
+03:09:40.858: [obs-multi-rtmp] Save 0 targets, 0 video configs, 0 audio configs
+03:09:40.869: [obs-multi-rtmp] Save config into ../../config/obs-studio/basic/profiles/Orbital_Personal_Stream/obs-multi-rtmp.json
+03:09:40.869: [DistroAV] +main_output_deinit()
+03:09:40.869: [DistroAV] +main_output_stop()
+03:09:40.869: [DistroAV] main_output_stop: NDI main output `OBS` is not running
+03:09:40.869: [DistroAV] -main_output_stop()
+03:09:40.869: [DistroAV] main_output_deinit: releasing NDI main output 'OBS'
+03:09:40.869: [DistroAV] +ndi_output_destroy(name='OBS', groups='', ...)
+03:09:40.869: [DistroAV] -ndi_output_destroy(name='OBS', groups='', ...)
+03:09:40.869: [DistroAV] main_output_deinit: successfully released NDI main output ''
+03:09:40.869: [DistroAV] -main_output_deinit()
+03:09:40.869: [DistroAV] +preview_output_deinit()
+03:09:40.869: [DistroAV] +preview_output_stop()
+03:09:40.869: [DistroAV] preview_output_stop: NDI preview output 'OBS Preview' is not running
+03:09:40.869: [DistroAV] -preview_output_stop()
+03:09:40.869: [DistroAV] preview_output_deinit: releasing NDI preview output 'OBS Preview'
+03:09:40.870: [DistroAV] +ndi_output_destroy(name='OBS Preview', groups='', ...)
+03:09:40.870: [DistroAV] -ndi_output_destroy(name='OBS Preview', groups='', ...)
+03:09:40.870: [DistroAV] preview_output_deinit: successfully released NDI preview output ''
+03:09:40.870: [DistroAV] -preview_output_deinit()
+03:09:41.005: Tried to call obs_frontend_get_current_scene with no callbacks!
+03:09:41.008: Tried to call obs_frontend_remove_save_callback with no callbacks!
+03:09:41.008: Tried to call obs_frontend_remove_event_callback with no callbacks!
+03:09:41.008: Tried to call obs_frontend_remove_save_callback with no callbacks!
+03:09:41.008: Tried to call obs_frontend_remove_save_callback with no callbacks!
+03:09:41.009: [obs-websocket] [obs_module_unload] Shutting down...
+03:09:41.010: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+03:09:41.011: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+03:09:41.011: Tried to call obs_frontend_remove_event_callback with no callbacks!
+03:09:41.011: [obs-websocket] [obs_module_unload] Finished shutting down.
+03:09:41.012: [obs-plugin-countdown] plugin unloaded
+03:09:41.064: [Scripting] Total detached callbacks: 0
+03:09:41.065: [DistroAV] +obs_module_unload()
+03:09:41.065: [DistroAV] +updateCheckStop()
+03:09:41.065: [DistroAV] -updateCheckStop()
+03:09:41.074: [DistroAV] -obs_module_unload(): goodbye!
+03:09:41.075: [adv-ss] stopped
+03:09:41.076: Freeing OBS context data
+03:09:41.160: == Profiler Results =============================
+03:09:41.160: run_program_init: 4731.3 ms
+03:09:41.160:  ┣OBSApp::AppInit: 7.919 ms
+03:09:41.160:  ┃ ┗OBSApp::InitLocale: 0.78 ms
+03:09:41.160:  ┗OBSApp::OBSInit: 4699.11 ms
+03:09:41.160:    ┣obs_startup: 2.634 ms
+03:09:41.160:    ┗OBSBasic::OBSInit: 4367.29 ms
+03:09:41.160:      ┣OBSBasic::InitBasicConfig: 0.425 ms
+03:09:41.160:      ┣OBSBasic::ResetAudio: 0.129 ms
+03:09:41.160:      ┣OBSBasic::ResetVideo: 100.962 ms
+03:09:41.160:      ┃ ┗obs_init_graphics: 99.356 ms
+03:09:41.160:      ┃   ┗shader compilation: 55.044 ms
+03:09:41.160:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+03:09:41.160:      ┣OBSBasic::InitHotkeys: 0.022 ms
+03:09:41.160:      ┣obs_load_all_modules2: 609.056 ms
+03:09:41.160:      ┃ ┣obs_init_module(advanced-scene-switcher.dll): 152.746 ms
+03:09:41.160:      ┃ ┣obs_init_module(aja-output-ui.dll): 1.963 ms
+03:09:41.160:      ┃ ┣obs_init_module(aja.dll): 0.987 ms
+03:09:41.160:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.825 ms
+03:09:41.160:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+03:09:41.160:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+03:09:41.160:      ┃ ┣obs_init_module(decklink.dll): 0.851 ms
+03:09:41.160:      ┃ ┣obs_init_module(distroav.dll): 66.186 ms
+03:09:41.160:      ┃ ┣obs_init_module(frontend-tools.dll): 5.222 ms
+03:09:41.160:      ┃ ┣obs_init_module(gradient-source.dll): 0.022 ms
+03:09:41.160:      ┃ ┣obs_init_module(image-source.dll): 0.006 ms
+03:09:41.160:      ┃ ┣obs_init_module(move-transition.dll): 1.708 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-advanced-masks.dll): 0.015 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-browser.dll): 5.338 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 102.297 ms
+03:09:41.160:      ┃ ┃ ┗nvenc_check: 0.502 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-filters.dll): 1.298 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-multi-rtmp.dll): 7.509 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-outputs.dll): 0.008 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-plugin-countdown.dll): 4.352 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-qsv11.dll): 26.035 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-shaderfilter.dll): 0.031 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-text.dll): 0.159 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-transitions.dll): 0.014 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-vst.dll): 0.005 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.261 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-websocket.dll): 11.667 ms
+03:09:41.160:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+03:09:41.160:      ┃ ┣obs_init_module(rtmp-services.dll): 0.901 ms
+03:09:41.160:      ┃ ┣obs_init_module(scene-as-transition.dll): 0.042 ms
+03:09:41.160:      ┃ ┣obs_init_module(source-clone.dll): 0.005 ms
+03:09:41.160:      ┃ ┣obs_init_module(source-copy.dll): 0.621 ms
+03:09:41.160:      ┃ ┣obs_init_module(streamup.dll): 12.804 ms
+03:09:41.160:      ┃ ┣obs_init_module(text-freetype2.dll): 0.072 ms
+03:09:41.160:      ┃ ┣obs_init_module(time-warp-scan.dll): 0.025 ms
+03:09:41.160:      ┃ ┣obs_init_module(transition-table.dll): 0.05 ms
+03:09:41.160:      ┃ ┣obs_init_module(vlc-video.dll): 6.053 ms
+03:09:41.160:      ┃ ┣obs_init_module(waveform.dll): 0.071 ms
+03:09:41.160:      ┃ ┣obs_init_module(win-capture.dll): 1.995 ms
+03:09:41.160:      ┃ ┣obs_init_module(win-dshow.dll): 2 ms
+03:09:41.160:      ┃ ┣obs_init_module(win-wasapi.dll): 10.177 ms
+03:09:41.160:      ┃ ┣obs_init_module(xObsAsyncImageSource.dll): 0.719 ms
+03:09:41.160:      ┃ ┗reset_win32_symbol_paths: 0.174 ms
+03:09:41.160:      ┣OBSBasic::InitService: 1.638 ms
+03:09:41.160:      ┣OBSBasic::ResetOutputs: 0.8 ms
+03:09:41.160:      ┣OBSBasic::CreateHotkeys: 0.024 ms
+03:09:41.160:      ┣OBSBasic::InitPrimitives: 0.376 ms
+03:09:41.160:      ┗OBSBasic::Load: 834.931 ms
+03:09:41.160: obs_hotkey_thread(25 ms): min=0.001 ms, median=0.008 ms, max=277.112 ms, 99th percentile=0.104 ms, 99.9974% below 25 ms
+03:09:41.160: audio_thread(Audio): min=0.003 ms, median=0.031 ms, max=253.269 ms, 99th percentile=0.214 ms
+03:09:41.160: obs_graphics_thread(16.6667 ms): min=0.072 ms, median=0.385 ms, max=6533.58 ms, 99th percentile=3.941 ms, 99.9952% below 16.667 ms
+03:09:41.160:  ┣tick_sources: min=0.001 ms, median=0.117 ms, max=6528.25 ms, 99th percentile=3.478 ms
+03:09:41.160:  ┣output_frame: min=0.064 ms, median=0.177 ms, max=255.445 ms, 99th percentile=0.919 ms
+03:09:41.160:  ┃ ┗gs_context(video->graphics): min=0.063 ms, median=0.177 ms, max=255.442 ms, 99th percentile=0.919 ms
+03:09:41.160:  ┃   ┣render_video: min=0.005 ms, median=0.029 ms, max=10.138 ms, 99th percentile=0.587 ms
+03:09:41.160:  ┃   ┃ ┗render_main_texture: min=0.003 ms, median=0.027 ms, max=10.136 ms, 99th percentile=0.583 ms
+03:09:41.160:  ┃   ┗gs_flush: min=0.036 ms, median=0.145 ms, max=255.415 ms, 99th percentile=0.433 ms
+03:09:41.160:  ┗render_displays: min=0 ms, median=0.06 ms, max=41.504 ms, 99th percentile=0.842 ms
+03:09:41.160: =================================================
+03:09:41.160: == Profiler Time Between Calls ==================
+03:09:41.160: obs_hotkey_thread(25 ms): min=24.24 ms, median=25.389 ms, max=302.104 ms, 64.6379% within ±2% of 25 ms (0.00110248% lower, 35.361% higher)
+03:09:41.160: obs_graphics_thread(16.6667 ms): min=0.638 ms, median=16.667 ms, max=6533.59 ms, 99.973% within ±2% of 16.667 ms (0.0139773% lower, 0.0130133% higher)
+03:09:41.160: =================================================
+03:09:41.177: Number of memory leaks: 42

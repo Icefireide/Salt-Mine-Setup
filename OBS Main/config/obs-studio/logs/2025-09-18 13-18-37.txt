@@ -1,0 +1,849 @@
+13:18:37.926: Command Line Arguments: --portable
+13:18:37.927: CPU Name: AMD Ryzen 7 9700X 8-Core Processor             
+13:18:37.927: CPU Speed: 3793MHz
+13:18:37.927: Physical Cores: 8, Logical Cores: 16
+13:18:37.927: Physical Memory: 31860MB Total, 14984MB Free
+13:18:37.927: Windows Version: 10.0 Build 26100 (release: 24H2; revision: 4946; 64-bit)
+13:18:37.927: Running as administrator: false
+13:18:37.927: Windows 10/11 Gaming Features:
+13:18:37.927: 	Game Bar: On
+13:18:37.927: 	Game DVR: On
+13:18:37.927: 	Game DVR Background Recording: Off
+13:18:37.927: 	Game Mode: Probably On (no reg key set)
+13:18:37.928: Sec. Software Status:
+13:18:37.929: 	Microsoft Defender Antivirus: enabled (AV)
+13:18:37.929: 	Windows Firewall: enabled (FW)
+13:18:37.929: Current Date/Time: 2025-09-18, 13:18:37
+13:18:37.929: Browser Hardware Acceleration: false
+13:18:37.929: Hide OBS windows from screen capture: false
+13:18:37.929: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+13:18:37.929: Portable mode: true
+13:18:38.182: OBS 30.2.3 (64-bit, windows)
+13:18:38.182: ---------------------------------
+13:18:38.220: ---------------------------------
+13:18:38.220: audio settings reset:
+13:18:38.220: 	samples per sec: 48000
+13:18:38.220: 	speakers:        2
+13:18:38.220: 	max buffering:   960 milliseconds
+13:18:38.220: 	buffering type:  dynamically increasing
+13:18:38.241: ---------------------------------
+13:18:38.241: Initializing D3D11...
+13:18:38.241: Available Video Adapters: 
+13:18:38.243: 	Adapter 0: AMD Radeon RX 7900 XT
+13:18:38.243: 	  Dedicated VRAM: 21458059264 (20.0 GiB)
+13:18:38.243: 	  Shared VRAM:    16704299008 (15.6 GiB)
+13:18:38.243: 	  PCI ID:         1002:744c
+13:18:38.243: 	  HAGS Status:    Enabled (Default: No, Driver status: Supported)
+13:18:38.243: 	  Driver Version: 32.0.21025.10016
+13:18:38.243: 	  output 0:
+13:18:38.243: 	    name=H27T22
+13:18:38.243: 	    pos={0, 0}
+13:18:38.243: 	    size={2560, 1440}
+13:18:38.243: 	    attached=true
+13:18:38.243: 	    refresh=170
+13:18:38.243: 	    bits_per_color=10
+13:18:38.243: 	    space=RGB_FULL_G22_NONE_P709
+13:18:38.243: 	    primaries=[r=(0.639648, 0.330078), g=(0.299805, 0.599609), b=(0.150391, 0.059570), wp=(0.312500, 0.329102)]
+13:18:38.243: 	    relative_gamut_area=[709=0.998664, P3=0.736186, 2020=0.528164]
+13:18:38.243: 	    sdr_white_nits=80
+13:18:38.243: 	    nit_range=[min=0.000500, max=374.000000, max_full_frame=243.000000]
+13:18:38.243: 	    dpi=120 (125%)
+13:18:38.243: 	    id=\\?\DISPLAY#SKG2716#7&3092f87e&1&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:18:38.243: 	    alt_id=\\.\DISPLAY2
+13:18:38.244: 	  output 1:
+13:18:38.244: 	    name=27B2H2
+13:18:38.244: 	    pos={296, -1080}
+13:18:38.244: 	    size={1920, 1080}
+13:18:38.244: 	    attached=true
+13:18:38.244: 	    refresh=100
+13:18:38.244: 	    bits_per_color=8
+13:18:38.244: 	    space=RGB_FULL_G22_NONE_P709
+13:18:38.244: 	    primaries=[r=(0.659180, 0.327148), g=(0.328125, 0.607422), b=(0.150391, 0.059570), wp=(0.313477, 0.329102)]
+13:18:38.244: 	    relative_gamut_area=[709=1.031607, P3=0.760471, 2020=0.545587]
+13:18:38.244: 	    sdr_white_nits=80
+13:18:38.244: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+13:18:38.244: 	    dpi=96 (100%)
+13:18:38.244: 	    id=\\?\DISPLAY#AOC2702#7&3092f87e&1&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:18:38.244: 	    alt_id=\\.\DISPLAY1
+13:18:38.244: 	  output 2:
+13:18:38.244: 	    name=C27F390
+13:18:38.244: 	    pos={2560, 182}
+13:18:38.244: 	    size={1920, 1080}
+13:18:38.244: 	    attached=true
+13:18:38.244: 	    refresh=72
+13:18:38.244: 	    bits_per_color=8
+13:18:38.244: 	    space=RGB_FULL_G22_NONE_P709
+13:18:38.244: 	    primaries=[r=(0.645508, 0.336914), g=(0.328125, 0.615234), b=(0.146484, 0.055664), wp=(0.313477, 0.329102)]
+13:18:38.244: 	    relative_gamut_area=[709=1.018082, P3=0.750501, 2020=0.538434]
+13:18:38.244: 	    sdr_white_nits=80
+13:18:38.244: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+13:18:38.244: 	    dpi=96 (100%)
+13:18:38.244: 	    id=\\?\DISPLAY#SAM0D32#7&3092f87e&1&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+13:18:38.244: 	    alt_id=\\.\DISPLAY3
+13:18:38.245: Loading up D3D11 on adapter AMD Radeon RX 7900 XT (0)
+13:18:38.300: D3D11 loaded successfully, feature level used: b000
+13:18:38.300: DXGI increase maximum frame latency success
+13:18:38.300: Hardware-Accelerated GPU Scheduling enabled on adapter!
+13:18:38.300: D3D11 GPU priority setup failed (not admin?)
+13:18:38.854: ---------------------------------
+13:18:38.854: video settings reset:
+13:18:38.854: 	base resolution:   2560x1440
+13:18:38.854: 	output resolution: 2560x1440
+13:18:38.854: 	downscale filter:  Bicubic
+13:18:38.854: 	fps:               60/1
+13:18:38.854: 	format:            NV12
+13:18:38.854: 	YUV mode:          Rec. 709/Partial
+13:18:38.854: NV12 texture support enabled
+13:18:38.854: P010 texture support not available
+13:18:38.856: Audio monitoring device:
+13:18:38.856: 	name: Default
+13:18:38.856: 	id: default
+13:18:38.856: ---------------------------------
+13:18:39.521: Skipping module '../../obs-plugins/64bit/advanced-scene-switcher-lib.dll', not an OBS plugin
+13:18:40.067: [adv-ss] version: 1.29.0
+13:18:40.067: [adv-ss] version: 17d9b73b9a58b35a84d0346229bf4bdfaa84e676
+13:18:40.067: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+13:18:40.760: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+13:18:40.760: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+13:18:41.377: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+13:18:41.377: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+13:18:42.402: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+13:18:42.402: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+13:18:42.414: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+13:18:42.414: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+13:18:42.417: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+13:18:42.418: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+13:18:43.112: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+13:18:43.112: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+13:18:43.118: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+13:18:43.118: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+13:18:43.166: No AJA devices found, skipping loading AJA UI plugin
+13:18:43.166: Failed to initialize module 'aja-output-ui.dll'
+13:18:43.199: No AJA devices found, skipping loading AJA plugin
+13:18:43.199: Failed to initialize module 'aja.dll'
+13:18:43.327: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+13:18:43.356: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+13:18:43.377: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+13:18:43.401: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+13:18:43.430: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+13:18:43.430: Failed to initialize module 'decklink.dll'
+13:18:43.462: [DistroAV] obs_module_load: you can haz DistroAV (Version 6.0.0)
+13:18:43.462: [DistroAV] obs_module_load: Qt Version: 6.6.3 (runtime), 6.6.2 (compiled)
+13:18:43.463: [DistroAV] load_ndilib: Trying 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'
+13:18:43.463: [DistroAV] load_ndilib: Found 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'; attempting to load NDI library...
+13:18:43.510: [DistroAV] load_ndilib: NDI library loaded successfully
+13:18:43.510: [DistroAV] load_ndilib: NDIlib_v5_load found
+13:18:43.535: [DistroAV] obs_module_load: NDI library initialized successfully ('NDI SDK WIN64 15:46:48 Dec 20 2024 6.1.1.0')
+13:18:43.667: [Gradient Source] loaded version 0.3.2
+13:18:43.746: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+13:18:43.781: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+13:18:43.820: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+13:18:43.855: [Move Transition] loaded version 3.1.1
+13:18:43.856: Failed to get nvARPose.dll version info size
+13:18:43.884: [Advanced Masks] loaded version 1.1.0
+13:18:43.944: [obs-browser]: Version 2.23.6
+13:18:43.944: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+13:18:44.174: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+13:18:44.174: Failed to get NVVideoEffects.dll version info size
+13:18:44.175: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+13:18:44.189: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+13:18:44.197: [obs-multi-rtmp] Load 0 targets, 0 video configs, 0 audio configs
+13:18:44.197: [obs-multi-rtmp] Load config from ../../config/obs-studio/basic/profiles/Gaming_Personal/obs-multi-rtmp.json
+13:18:44.203: [obs-multi-rtmp] version: 0.7.2.0 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+13:18:44.265: [obs-plugin-countdown] plugin loaded successfully (version 2.0.10)
+13:18:44.399: [obs-shaderfilter] loaded version 2.4.1
+13:18:44.570: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+13:18:44.570: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+13:18:44.570: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+13:18:44.580: [obs-websocket] [obs_module_load] Module loaded.
+13:18:44.805: [Scene As Transition] loaded version 1.1.1
+13:18:44.827: Failed to load 'en-US' text for module: 'source-clone.dll'
+13:18:44.827: [Source Clone] loaded version 0.1.5
+13:18:44.875: [Source Copy] loaded version 0.2.5
+13:18:44.888: [StreamUP] loaded version 1.6.0
+13:18:44.905: QWindowsWindow::setGeometry: Unable to set geometry 250x125+0+39 (frame: 268x172-9+1) on QWidgetWindow/"StreamUPDockWindow" on "H27T22". Resulting geometry: 248x117+1+46 (frame: 266x164-8+8) margins: 9, 38, 9, 9 minimum size: 196x58 maximum size: 524287x524287 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=655377, y=655406), mintrack=POINT(x=263, y=120)))
+13:18:44.962: [TimeWarpScan] loaded version 0.1.7
+13:18:44.991: [Transition Table] loaded version 0.2.7
+13:18:45.117: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+13:18:45.140: [phandasm_waveform]: Registered v1.8.0 x64
+13:18:45.140: [phandasm_waveform]: Using CPU capabilities: AVX2 AVX FMA3 SSE2
+13:18:45.731: [xObsAsyncImageSource] Version 1.0 loaded.
+13:18:45.732: ---------------------------------
+13:18:45.732:   Loaded Modules:
+13:18:45.732:     xObsAsyncImageSource.dll
+13:18:45.732:     win-wasapi.dll
+13:18:45.732:     win-dshow.dll
+13:18:45.732:     win-capture.dll
+13:18:45.732:     waveform.dll
+13:18:45.732:     vlc-video.dll
+13:18:45.732:     transition-table.dll
+13:18:45.732:     time-warp-scan.dll
+13:18:45.732:     text-freetype2.dll
+13:18:45.732:     streamup.dll
+13:18:45.732:     source-copy.dll
+13:18:45.732:     source-clone.dll
+13:18:45.732:     scene-as-transition.dll
+13:18:45.732:     rtmp-services.dll
+13:18:45.732:     obs-x264.dll
+13:18:45.732:     obs-websocket.dll
+13:18:45.732:     obs-webrtc.dll
+13:18:45.732:     obs-vst.dll
+13:18:45.732:     obs-transitions.dll
+13:18:45.732:     obs-text.dll
+13:18:45.732:     obs-shaderfilter.dll
+13:18:45.732:     obs-qsv11.dll
+13:18:45.732:     obs-plugin-countdown.dll
+13:18:45.732:     obs-outputs.dll
+13:18:45.732:     obs-multi-rtmp.dll
+13:18:45.732:     obs-filters.dll
+13:18:45.732:     obs-ffmpeg.dll
+13:18:45.732:     obs-browser.dll
+13:18:45.732:     obs-advanced-masks.dll
+13:18:45.732:     move-transition.dll
+13:18:45.732:     image-source.dll
+13:18:45.732:     gradient-source.dll
+13:18:45.732:     frontend-tools.dll
+13:18:45.732:     distroav.dll
+13:18:45.732:     decklink-output-ui.dll
+13:18:45.732:     decklink-captions.dll
+13:18:45.732:     coreaudio-encoder.dll
+13:18:45.732:     advanced-scene-switcher.dll
+13:18:45.732: ---------------------------------
+13:18:49.529: [StreamUP] Settings loaded successfully from ../../config/obs-studio/plugin_config/streamup/configs.json
+13:18:49.529: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+13:18:49.529: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+13:18:49.545: [StreamUP] Notifications mute setting: false
+13:18:49.545: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+13:18:49.547: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+13:18:49.548: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+13:18:49.554: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 192.168.0.206
+13:18:49.554: [DistroAV] +obs_module_post_load()
+13:18:49.554: [DistroAV] +updateCheckStart(userRequestCallback=nullptr)
+13:18:49.557: [DistroAV] -updateCheckStart(userRequestCallback=nullptr)
+13:18:49.557: [DistroAV] -obs_module_post_load()
+13:18:49.558: ---------------------------------
+13:18:49.558: Available Encoders:
+13:18:49.558:   Video Encoders:
+13:18:49.558: 	- ffmpeg_svt_av1 (SVT-AV1)
+13:18:49.558: 	- ffmpeg_aom_av1 (AOM AV1)
+13:18:49.558: 	- h264_texture_amf (AMD HW H.264 (AVC))
+13:18:49.558: 	- h265_texture_amf (AMD HW H.265 (HEVC))
+13:18:49.558: 	- av1_texture_amf (AMD HW AV1)
+13:18:49.558: 	- obs_x264 (x264)
+13:18:49.558:   Audio Encoders:
+13:18:49.558: 	- ffmpeg_aac (FFmpeg AAC)
+13:18:49.558: 	- ffmpeg_opus (FFmpeg Opus)
+13:18:49.558: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+13:18:49.558: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+13:18:49.558: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+13:18:49.558: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+13:18:49.558: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+13:18:49.558: ==== Startup complete ===============================================
+13:18:49.827: [DistroAV] onCheckForUpdateNetworkFinish(httpStatusCode=200, responseData=..., errorData=``, userRequestCallback=nullptr)
+13:18:49.828: [DistroAV] onCheckForUpdateNetworkFinish: versionLatest == versionSkip(6.1.1); ignoring update
+13:18:49.828: All scene data cleared
+13:18:49.828: ------------------------------------------------
+13:18:49.860: [win-wasapi: 'spotify'] update settings:
+13:18:49.860: 	executable: Spotify.exe
+13:18:49.860: 	title: bbno$ - rgb money
+13:18:49.860: 	class: Chrome_WidgetWin_1
+13:18:49.860: 	priority: 2
+13:18:49.861: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+13:18:49.861: 	executable: NMS.exe
+13:18:49.861: 	title: No Man's Sky
+13:18:49.861: 	class: GLFW30
+13:18:49.861: 	priority: 2
+13:18:49.863: [WASAPISource::TryInitialize]:[[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]] Failed to find window
+13:18:49.864: WASAPI: Device '' failed to start (source: spotify)
+13:18:49.864: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: Game Capture 2 (Audio))
+13:18:49.907: [win-wasapi: 'Microphone'] update settings:
+13:18:49.907: 	device id: {0.0.1.00000000}.{58948d7d-cde1-44ba-abb8-6facb8ef64a6}
+13:18:49.907: 	use device timing: 0
+13:18:49.909: Switched to scene 'Scene'
+13:18:49.909: ------------------------------------------------
+13:18:49.909: Loaded scenes:
+13:18:49.909: - scene 'Scene':
+13:18:49.909:     - source: 'Game Capture 2' (game_capture)
+13:18:49.909:     - source: 'Microphone' (wasapi_input_capture)
+13:18:49.909:     - source: 'alerts' (browser_source)
+13:18:49.909: - scene 'brb':
+13:18:49.909:     - source: 'Be Right back' (text_gdiplus_v3)
+13:18:49.910:         - filter: 'Scroll' (scroll_filter)
+13:18:49.910:     - source: 'spotify' (wasapi_process_output_capture)
+13:18:49.910: ------------------------------------------------
+13:18:49.911: [adv-ss] started
+13:18:49.919: WASAPI: Device 'Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO)' [48000 Hz] initialized (source: Microphone)
+13:18:49.932: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Game Capture 2)
+13:18:49.932: 
+13:18:50.507: [DistroAV] +main_output_init()
+13:18:50.507: [DistroAV] +main_output_deinit()
+13:18:50.507: [DistroAV] main_output_deinit: NDI main output is not initialized
+13:18:50.507: [DistroAV] -main_output_deinit()
+13:18:50.507: [DistroAV] main_output_init: creating NDI main output 'OBS'
+13:18:50.507: [DistroAV] +ndi_output_getdefaults()
+13:18:50.507: [DistroAV] -ndi_output_getdefaults()
+13:18:50.507: [DistroAV] +ndi_output_create(name='OBS', groups='', ...)
+13:18:50.507: [DistroAV] ndi_output_update(name='OBS', groups='', ...)
+13:18:50.507: [DistroAV] -ndi_output_create(name='OBS', groups='', ...)
+13:18:50.507: [DistroAV] main_output_init: successfully created NDI main output 'OBS'
+13:18:50.507: [DistroAV] -main_output_init()
+13:18:50.507: [DistroAV] +preview_output_init()
+13:18:50.507: [DistroAV] +preview_output_deinit()
+13:18:50.507: [DistroAV] preview_output_deinit: NDI preview output is not initialized
+13:18:50.507: [DistroAV] -preview_output_deinit()
+13:18:50.507: [DistroAV] preview_output_init: creating NDI preview output 'OBS Preview'
+13:18:50.507: [DistroAV] +ndi_output_getdefaults()
+13:18:50.507: [DistroAV] -ndi_output_getdefaults()
+13:18:50.507: [DistroAV] +ndi_output_create(name='OBS Preview', groups='', ...)
+13:18:50.507: [DistroAV] ndi_output_update(name='OBS Preview', groups='', ...)
+13:18:50.507: [DistroAV] -ndi_output_create(name='OBS Preview', groups='', ...)
+13:18:50.507: [DistroAV] preview_output_init: successfully created NDI preview output 'OBS Preview'
+13:18:50.507: [DistroAV] -preview_output_init()
+13:18:51.104: [game-capture: 'Game Capture 2'] attempting to hook process: NMS.exe
+13:18:51.114: The cached device pixel ratio value was stale on window expose.  Please file a QTBUG which explains how to reproduce.
+13:18:51.131: [game-capture: 'Game Capture 2'] Hooked ID3D12CommandQueue::ExecuteCommandLists
+13:18:51.131: [game-capture: 'Game Capture 2'] Hooked D3D12
+13:18:51.131: [game-capture: 'Game Capture 2'] Hooked IDXGISwapChain::Present
+13:18:51.131: [game-capture: 'Game Capture 2'] Hooked IDXGISwapChain::ResizeBuffers
+13:18:51.131: [game-capture: 'Game Capture 2'] Hooked IDXGISwapChain1::Present1
+13:18:51.131: [game-capture: 'Game Capture 2'] Hooked DXGI
+13:18:51.152: [game-capture: 'Game Capture 2'] vk_shtex_init_d3d11_tex: OBS requesting VK_FORMAT_B8G8R8A8_UNORM texture format. capture dimensions: 2560x1440
+13:18:51.153: [game-capture: 'Game Capture 2'] vulkan shared texture capture successful
+13:18:51.154: [game-capture: 'Game Capture 2'] Remembering D3D12 queue from present: queue=0x26B71C7ADE0
+13:18:51.160: [game-capture: 'Game Capture 2'] shared texture capture successful
+13:18:51.160: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+13:18:51.160: 	executable: NMS.exe
+13:18:51.160: 	title: No Man's Sky
+13:18:51.160: 	class: GLFW30
+13:18:51.160: 	priority: 0
+13:18:51.161: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' invalidated.  Retrying (source: Game Capture 2 (Audio))
+13:18:51.161: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: Game Capture 2 (Audio))
+13:18:52.208: [obs-browser: 'alerts'] Error: [GraphQL] One or more GraphQL errors were detected on request 01K5F7NNJ178N62Q4KS6FJ75NE. AlertsFeatureLaunchFlags: unauthenticated, ActivityListContextV2Query: unauthenticated [object Object],[object Object] (https://assets.twitch.tv/assets/857-764b95aae0a4cf822392.js:1)
+13:46:56.759: [game-capture: 'Game Capture 2'] capture window no longer exists, terminating capture
+13:46:56.760: [WASAPISource::ProcessCaptureData] window disappeared
+13:46:56.760: [game-capture: 'Game Capture 2'] capture stopped
+13:46:56.760: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+13:46:56.760: 	executable: unknown
+13:46:56.760: 	title: 
+13:46:56.760: 	class: 
+13:46:56.760: 	priority: 0
+13:46:56.761: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' invalidated.  Retrying (source: Game Capture 2 (Audio))
+13:46:59.762: [WASAPISource::TryInitialize]:[[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]] Failed to find window
+14:05:51.902: The cached device pixel ratio value was stale on window expose.  Please file a QTBUG which explains how to reproduce.
+14:06:00.226: [game-capture: 'Game Capture 2'] attempting to hook process: NMS.exe
+14:06:00.972: [game-capture: 'Game Capture 2'] vk_shtex_init_d3d11_tex: OBS requesting VK_FORMAT_B8G8R8A8_UNORM texture format. capture dimensions: 2560x1440
+14:06:00.974: [game-capture: 'Game Capture 2'] vulkan shared texture capture successful
+14:06:00.974: [game-capture: 'Game Capture 2'] Remembering D3D12 queue from present: queue=0x25103E07930
+14:06:00.976: [game-capture: 'Game Capture 2'] shared texture capture successful
+14:06:00.976: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+14:06:00.976: 	executable: NMS.exe
+14:06:00.976: 	title: No Man's Sky
+14:06:00.976: 	class: GLFW30
+14:06:00.976: 	priority: 0
+14:06:02.976: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: Game Capture 2 (Audio))
+14:06:02.991: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' invalidated.  Retrying (source: Game Capture 2 (Audio))
+14:06:02.992: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: Game Capture 2 (Audio))
+14:06:38.647: Go live URL: https://ingest.twitch.tv/api/v3/GetClientConfiguration
+14:06:38.647: Preparing enhanced broadcasting stream for:
+14:06:38.647:     custom config:  No
+14:06:38.647:     config url:     https://ingest.twitch.tv/api/v3/GetClientConfiguration
+14:06:38.647:   settings:
+14:06:38.647:     service:               Twitch
+14:06:38.647:     max aggregate bitrate: Auto (0)
+14:06:38.647:     max video tracks:      Auto (0)
+14:06:38.647:     custom rtmp url:       No ('')
+14:06:38.647:     vod track:             No
+14:06:38.648: Go live POST data: {"authentication":"CENSORED","capabilities":{"cpu":{"logical_cores":16,"name":"AMD Ryzen 7 9700X 8-Core Processor             ","physical_cores":8,"speed":3793},"gaming_features":{"game_bar_enabled":true,"game_dvr_allowed":null,"game_dvr_bg_recording":false,"game_dvr_enabled":true,"game_mode_enabled":null,"hags_enabled":false},"gpu":[{"dedicated_video_memory":21458059264,"device_id":29772,"driver_version":"32.0.21025.10016","model":"AMD Radeon RX 7900 XT","shared_system_memory":16704299008,"vendor_id":4098}],"memory":{"free":15913799680,"total":33408598016},"system":{"arm":false,"armEmulation":false,"bits":64,"build":26100,"name":"Windows","release":"24H2","revision":4946,"version":"10.0"}},"client":{"name":"obs-studio","supported_codecs":["h265","h264","av1"],"version":"30.2.3"},"preferences":{"canvas_height":1440,"canvas_width":2560,"composition_gpu_index":0,"framerate":{"denominator":1,"numerator":60},"height":1440,"maximum_aggregate_bitrate":null,"maximum_video_tracks":null,"vod_track_audio":false,"width":2560},"schema_version":"2024-06-04","service":"IVS"}
+14:06:38.927: Go live response data: {
+14:06:38.927:     "audio_configurations": {
+14:06:38.927:         "live": [
+14:06:38.927:             {
+14:06:38.927:                 "channels": 2,
+14:06:38.927:                 "codec": "aac",
+14:06:38.927:                 "settings": {
+14:06:38.927:                     "bitrate": 160
+14:06:38.927:                 },
+14:06:38.927:                 "track_id": 0
+14:06:38.927:             }
+14:06:38.927:         ],
+14:06:38.927:         "vod": []
+14:06:38.927:     },
+14:06:38.927:     "encoder_configurations": [
+14:06:38.927:         {
+14:06:38.927:             "bitrate_interpolation_points": [
+14:06:38.927:                 0,
+14:06:38.927:                 3960,
+14:06:38.927:                 4800,
+14:06:38.927:                 6000
+14:06:38.927:             ],
+14:06:38.927:             "framerate": {
+14:06:38.927:                 "denominator": 1,
+14:06:38.927:                 "numerator": 60
+14:06:38.927:             },
+14:06:38.927:             "gpu_scale_type": "OBS_SCALE_BICUBIC",
+14:06:38.927:             "height": 1080,
+14:06:38.927:             "settings": {
+14:06:38.927:                 "bf": 2,
+14:06:38.927:                 "bitrate": 6000,
+14:06:38.927:                 "ffmpeg_opts": "EncoderInstance=0",
+14:06:38.927:                 "keyint_sec": 2,
+14:06:38.927:                 "preset": "quality",
+14:06:38.927:                 "profile": "high",
+14:06:38.927:                 "rate_control": "CBR",
+14:06:38.927:                 "repeat_headers": false
+14:06:38.927:             },
+14:06:38.927:             "type": "h264_texture_amf",
+14:06:38.927:             "width": 1920
+14:06:38.927:         },
+14:06:38.927:         {
+14:06:38.927:             "bitrate_interpolation_points": [
+14:06:38.927:                 0,
+14:06:38.927:                 2000,
+14:06:38.927:                 2500,
+14:06:38.927:                 2500
+14:06:38.927:             ],
+14:06:38.927:             "framerate": {
+14:06:38.927:                 "denominator": 1,
+14:06:38.927:                 "numerator": 60
+14:06:38.927:             },
+14:06:38.927:             "gpu_scale_type": "OBS_SCALE_BICUBIC",
+14:06:38.927:             "height": 720,
+14:06:38.927:             "settings": {
+14:06:38.927:                 "bf": 2,
+14:06:38.927:                 "bitrate": 2500,
+14:06:38.927:                 "ffmpeg_opts": "EncoderInstance=0",
+14:06:38.927:                 "keyint_sec": 2,
+14:06:38.927:                 "preset": "quality",
+14:06:38.927:                 "profile": "high",
+14:06:38.927:                 "rate_control": "CBR",
+14:06:38.927:                 "repeat_headers": false
+14:06:38.927:             },
+14:06:38.927:             "type": "h264_texture_amf",
+14:06:38.927:             "width": 1280
+14:06:38.927:         },
+14:06:38.927:         {
+14:06:38.927:             "bitrate_interpolation_points": [
+14:06:38.927:                 0,
+14:06:38.927:                 1000,
+14:06:38.927:                 1000,
+14:06:38.927:                 1000
+14:06:38.927:             ],
+14:06:38.927:             "framerate": {
+14:06:38.927:                 "denominator": 1,
+14:06:38.927:                 "numerator": 30
+14:06:38.927:             },
+14:06:38.927:             "gpu_scale_type": "OBS_SCALE_BICUBIC",
+14:06:38.927:             "height": 480,
+14:06:38.927:             "settings": {
+14:06:38.927:                 "bf": 2,
+14:06:38.927:                 "bitrate": 1000,
+14:06:38.927:                 "ffmpeg_opts": "EncoderInstance=0",
+14:06:38.927:                 "keyint_sec": 2,
+14:06:38.927:                 "preset": "quality",
+14:06:38.927:                 "profile": "high",
+14:06:38.927:                 "rate_control": "CBR",
+14:06:38.927:                 "repeat_headers": false
+14:06:38.927:             },
+14:06:38.927:             "type": "h264_texture_amf",
+14:06:38.927:             "width": 852
+14:06:38.927:         },
+14:06:38.927:         {
+14:06:38.927:             "bitrate_interpolation_points": [
+14:06:38.927:                 0,
+14:06:38.927:                 500,
+14:06:38.927:                 500,
+14:06:38.927:                 500
+14:06:38.927:             ],
+14:06:38.927:             "framerate": {
+14:06:38.927:                 "denominator": 1,
+14:06:38.927:                 "numerator": 30
+14:06:38.927:             },
+14:06:38.927:             "gpu_scale_type": "OBS_SCALE_BICUBIC",
+14:06:38.927:             "height": 360,
+14:06:38.927:             "settings": {
+14:06:38.927:                 "bf": 2,
+14:06:38.927:                 "bitrate": 500,
+14:06:38.927:                 "ffmpeg_opts": "EncoderInstance=0",
+14:06:38.927:                 "keyint_sec": 2,
+14:06:38.927:                 "preset": "quality",
+14:06:38.927:                 "profile": "main",
+14:06:38.927:                 "rate_control": "CBR",
+14:06:38.927:                 "repeat_headers": false
+14:06:38.927:             },
+14:06:38.927:             "type": "h264_texture_amf",
+14:06:38.927:             "width": 640
+14:06:38.927:         },
+14:06:38.927:         {
+14:06:38.927:             "bitrate_interpolation_points": [
+14:06:38.927:                 0,
+14:06:38.927:                 200,
+14:06:38.927:                 200,
+14:06:38.927:                 200
+14:06:38.927:             ],
+14:06:38.927:             "framerate": {
+14:06:38.927:                 "denominator": 1,
+14:06:38.927:                 "numerator": 30
+14:06:38.927:             },
+14:06:38.927:             "gpu_scale_type": "OBS_SCALE_BICUBIC",
+14:06:38.927:             "height": 160,
+14:06:38.927:             "settings": {
+14:06:38.927:                 "bf": 2,
+14:06:38.927:                 "bitrate": 200,
+14:06:38.927:                 "ffmpeg_opts": "EncoderInstance=0",
+14:06:38.927:                 "keyint_sec": 2,
+14:06:38.927:                 "preset": "quality",
+14:06:38.927:                 "profile": "main",
+14:06:38.927:                 "rate_control": "CBR",
+14:06:38.927:                 "repeat_headers": false
+14:06:38.927:             },
+14:06:38.927:             "type": "h264_texture_amf",
+14:06:38.927:             "width": 284
+14:06:38.927:         }
+14:06:38.927:     ],
+14:06:38.927:     "ingest_endpoints": [
+14:06:38.927:         {
+14:06:38.927:             "authentication": "CENSORED",
+14:06:38.927:             "protocol": "RTMP",
+14:06:38.927:             "url_template": "rtmp://usw20.contribute.live-video.net/app/{stream_key}"
+14:06:38.927:         },
+14:06:38.927:         {
+14:06:38.927:             "authentication": "CENSORED",
+14:06:38.927:             "protocol": "RTMPS",
+14:06:38.927:             "url_template": "rtmps://usw20.contribute.live-video.net/app/{stream_key}"
+14:06:38.927:         }
+14:06:38.927:     ],
+14:06:38.927:     "meta": {
+14:06:38.927:         "config_id": "f3f91dca-6333-4643-85cb-8d2da0b754f5",
+14:06:38.927:         "required_encode_resource_estimate_percent": 14,
+14:06:38.927:         "schema_version": "2024-06-04",
+14:06:38.927:         "service": "IVS"
+14:06:38.927:     }
+14:06:38.927: }
+14:06:38.928: Enhanced broadcasting config_id: 'f3f91dca-6333-4643-85cb-8d2da0b754f5'
+14:06:38.929: Setting frame rate divisor to 2 for encoder 2
+14:06:38.929: Setting frame rate divisor to 2 for encoder 3
+14:06:38.929: Setting frame rate divisor to 2 for encoder 4
+14:06:38.929: Using stream key supplied by autoconfig
+14:06:38.929: Using URL template: 'rtmp://usw20.contribute.live-video.net/app/{stream_key}'
+14:06:38.930: NV12 texture support enabled
+14:06:38.930: P010 texture support not available
+14:06:38.969: [texture-amf-h264: 'multitrack video video encoder 0'] settings:
+14:06:38.969: 	rate_control: CBR
+14:06:38.969: 	bitrate:      6000
+14:06:38.969: 	cqp:          20
+14:06:38.969: 	keyint:       120
+14:06:38.969: 	preset:       quality
+14:06:38.969: 	profile:      high
+14:06:38.969: 	b-frames:     2
+14:06:38.969: 	width:        1920
+14:06:38.969: 	height:       1080
+14:06:38.969: 	params:       EncoderInstance=0
+14:06:38.974: NV12 texture support enabled
+14:06:38.974: P010 texture support not available
+14:06:39.005: [texture-amf-h264: 'multitrack video video encoder 1'] settings:
+14:06:39.005: 	rate_control: CBR
+14:06:39.005: 	bitrate:      2500
+14:06:39.005: 	cqp:          20
+14:06:39.005: 	keyint:       120
+14:06:39.005: 	preset:       quality
+14:06:39.005: 	profile:      high
+14:06:39.005: 	b-frames:     2
+14:06:39.005: 	width:        1280
+14:06:39.005: 	height:       720
+14:06:39.005: 	params:       EncoderInstance=0
+14:06:39.007: NV12 texture support enabled
+14:06:39.007: P010 texture support not available
+14:06:39.037: [texture-amf-h264: 'multitrack video video encoder 2'] settings:
+14:06:39.037: 	rate_control: CBR
+14:06:39.037: 	bitrate:      1000
+14:06:39.037: 	cqp:          20
+14:06:39.037: 	keyint:       60
+14:06:39.037: 	preset:       quality
+14:06:39.037: 	profile:      high
+14:06:39.037: 	b-frames:     2
+14:06:39.037: 	width:        852
+14:06:39.037: 	height:       480
+14:06:39.037: 	params:       EncoderInstance=0
+14:06:39.040: NV12 texture support enabled
+14:06:39.040: P010 texture support not available
+14:06:39.070: [texture-amf-h264: 'multitrack video video encoder 3'] settings:
+14:06:39.070: 	rate_control: CBR
+14:06:39.070: 	bitrate:      500
+14:06:39.070: 	cqp:          20
+14:06:39.070: 	keyint:       60
+14:06:39.070: 	preset:       quality
+14:06:39.070: 	profile:      main
+14:06:39.070: 	b-frames:     2
+14:06:39.070: 	width:        640
+14:06:39.070: 	height:       360
+14:06:39.070: 	params:       EncoderInstance=0
+14:06:39.073: NV12 texture support enabled
+14:06:39.073: P010 texture support not available
+14:06:39.103: [texture-amf-h264: 'multitrack video video encoder 4'] settings:
+14:06:39.103: 	rate_control: CBR
+14:06:39.103: 	bitrate:      200
+14:06:39.103: 	cqp:          20
+14:06:39.103: 	keyint:       60
+14:06:39.103: 	preset:       quality
+14:06:39.103: 	profile:      main
+14:06:39.103: 	b-frames:     2
+14:06:39.103: 	width:        284
+14:06:39.103: 	height:       160
+14:06:39.103: 	params:       EncoderInstance=0
+14:06:39.105: ---------------------------------
+14:06:39.106: [FFmpeg aac encoder: 'multitrack video live audio 0'] bitrate: 160, channels: 2, channel_layout: stereo
+14:06:39.106: 
+14:06:39.110: [rtmp stream: 'rtmp multitrack video'] Connecting to RTMP URL rtmp://usw20.contribute.live-video.net/app...
+14:06:39.121: [rtmp stream: 'rtmp multitrack video'] Interface: Realtek Gaming 2.5GbE Family Controller (ethernet, 2500↓/2500↑ mbps)
+14:06:39.624: [rtmp stream: 'rtmp multitrack video'] Connection to rtmp://usw20.contribute.live-video.net/app (35.55.38.1) successful
+14:06:39.624: [rtmp stream: 'rtmp multitrack video'] Socket send buffer is 65536 bytes
+14:06:39.636: ==== Streaming Start ===============================================
+14:28:52.744:   OpenType support missing for "Open Sans", script 11
+14:28:52.744:   OpenType support missing for "Arial", script 11
+14:28:52.745:   OpenType support missing for "Tahoma", script 11
+14:28:52.746:   OpenType support missing for "MS UI Gothic", script 11
+14:28:52.748:   OpenType support missing for "SimSun", script 11
+14:28:52.749:   OpenType support missing for "Segoe UI Emoji", script 11
+14:28:52.750:   OpenType support missing for "Segoe UI Symbol", script 11
+14:28:52.752:   OpenType support missing for "Open Sans", script 12
+14:28:52.753:   OpenType support missing for "Arial", script 12
+14:28:52.753:   OpenType support missing for "Tahoma", script 12
+14:28:52.753:   OpenType support missing for "MS UI Gothic", script 12
+14:28:52.753:   OpenType support missing for "SimSun", script 12
+14:28:52.753:   OpenType support missing for "Segoe UI Emoji", script 12
+14:28:52.753:   OpenType support missing for "Segoe UI Symbol", script 12
+14:28:52.754:   OpenType support missing for "Open Sans", script 16
+14:28:52.754:   OpenType support missing for "Arial", script 16
+14:28:52.754:   OpenType support missing for "Tahoma", script 16
+14:28:52.754:   OpenType support missing for "MS UI Gothic", script 16
+14:28:52.755:   OpenType support missing for "SimSun", script 16
+14:28:52.755:   OpenType support missing for "Segoe UI Emoji", script 16
+14:28:52.755:   OpenType support missing for "Segoe UI Symbol", script 16
+14:28:52.755:   OpenType support missing for "Open Sans", script 20
+14:28:52.756:   OpenType support missing for "Arial", script 20
+14:28:52.756:   OpenType support missing for "Tahoma", script 20
+14:28:52.756:   OpenType support missing for "MS UI Gothic", script 20
+14:28:52.756:   OpenType support missing for "SimSun", script 20
+14:28:52.756:   OpenType support missing for "Segoe UI Emoji", script 20
+14:28:52.757:   OpenType support missing for "Segoe UI Symbol", script 20
+15:05:55.040: [WASAPISource::ProcessCaptureData] window disappeared
+15:05:55.041: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' invalidated.  Retrying (source: Game Capture 2 (Audio))
+15:05:55.042: [game-capture: 'Game Capture 2'] capture window no longer exists, terminating capture
+15:05:55.043: [game-capture: 'Game Capture 2'] capture stopped
+15:05:55.043: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+15:05:55.043: 	executable: unknown
+15:05:55.043: 	title: 
+15:05:55.043: 	class: 
+15:05:55.043: 	priority: 0
+15:05:58.042: [WASAPISource::TryInitialize]:[[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]] Failed to find window
+15:06:17.245: [game-capture: 'Game Capture 2'] attempting to hook process: NMS.exe
+15:06:19.309: [game-capture: 'Game Capture 2'] capture window no longer exists, terminating capture
+15:06:19.309: [game-capture: 'Game Capture 2'] capture stopped
+15:06:51.593: [game-capture: 'Game Capture 2'] attempting to hook process: NMS.exe
+15:06:52.225: [game-capture: 'Game Capture 2'] vk_shtex_init_d3d11_tex: OBS requesting VK_FORMAT_B8G8R8A8_UNORM texture format. capture dimensions: 2560x1440
+15:06:52.226: [game-capture: 'Game Capture 2'] vulkan shared texture capture successful
+15:06:52.226: [game-capture: 'Game Capture 2'] Remembering D3D12 queue from present: queue=0x20183E98540
+15:06:52.227: [game-capture: 'Game Capture 2'] shared texture capture successful
+15:06:52.227: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+15:06:52.227: 	executable: NMS.exe
+15:06:52.227: 	title: No Man's Sky
+15:06:52.227: 	class: GLFW30
+15:06:52.227: 	priority: 0
+15:06:55.055: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: Game Capture 2 (Audio))
+15:06:55.069: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' invalidated.  Retrying (source: Game Capture 2 (Audio))
+15:06:55.069: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: Game Capture 2 (Audio))
+16:11:40.109: [rtmp stream: 'rtmp multitrack video'] User stopped the stream
+16:11:40.109: [rtmp stream: 'rtmp multitrack video'] Socket send buffer is 4194304 bytes
+16:11:40.109: Output 'rtmp multitrack video': stopping
+16:11:40.109: Output 'rtmp multitrack video': Total frames output: 1575057
+16:11:40.109: Output 'rtmp multitrack video': Total drawn frames: 450058 (450059 attempted)
+16:11:40.109: Output 'rtmp multitrack video': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+16:11:40.110: Video stopped, number of skipped frames due to encoding lag: 1/450028 (0.0%)
+16:11:40.111: ==== Streaming Stop ================================================
+16:11:40.130: Video stopped, number of skipped frames due to encoding lag: 1/450029 (0.0%)
+16:11:40.151: Video stopped, number of skipped frames due to encoding lag: 1/450029 (0.0%)
+16:11:40.165: Video stopped, number of skipped frames due to encoding lag: 1/450030 (0.0%)
+16:11:40.179: Video stopped, number of skipped frames due to encoding lag: 1/450031 (0.0%)
+16:12:35.515: [WASAPISource::ProcessCaptureData] window disappeared
+16:12:35.516: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' invalidated.  Retrying (source: Game Capture 2 (Audio))
+16:12:35.526: [game-capture: 'Game Capture 2'] capture window no longer exists, terminating capture
+16:12:35.526: [game-capture: 'Game Capture 2'] capture stopped
+16:12:35.526: [win-wasapi: 'Game Capture 2 (Audio)'] update settings:
+16:12:35.526: 	executable: unknown
+16:12:35.526: 	title: 
+16:12:35.526: 	class: 
+16:12:35.526: 	priority: 0
+16:12:38.516: [WASAPISource::TryInitialize]:[[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]] Failed to find window
+16:16:27.691: ==== Shutting down ==================================================
+16:16:27.733: [adv-ss] stopped
+16:16:27.734: [adv-ss] reset transition behaviour to adjust active transition type
+16:16:27.735: [adv-ss] started
+16:16:27.736: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+16:16:27.736: WASAPI: Device 'Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO)' Terminated
+16:16:27.740: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+16:16:27.768: All scene data cleared
+16:16:27.768: ------------------------------------------------
+16:16:27.768: [obs-multi-rtmp] Save 0 targets, 0 video configs, 0 audio configs
+16:16:27.778: [obs-multi-rtmp] Save config into ../../config/obs-studio/basic/profiles/Gaming_Personal/obs-multi-rtmp.json
+16:16:27.779: [DistroAV] +main_output_deinit()
+16:16:27.779: [DistroAV] +main_output_stop()
+16:16:27.779: [DistroAV] main_output_stop: NDI main output `OBS` is not running
+16:16:27.779: [DistroAV] -main_output_stop()
+16:16:27.779: [DistroAV] main_output_deinit: releasing NDI main output 'OBS'
+16:16:27.779: [DistroAV] +ndi_output_destroy(name='OBS', groups='', ...)
+16:16:27.779: [DistroAV] -ndi_output_destroy(name='OBS', groups='', ...)
+16:16:27.779: [DistroAV] main_output_deinit: successfully released NDI main output ''
+16:16:27.779: [DistroAV] -main_output_deinit()
+16:16:27.779: [DistroAV] +preview_output_deinit()
+16:16:27.779: [DistroAV] +preview_output_stop()
+16:16:27.779: [DistroAV] preview_output_stop: NDI preview output 'OBS Preview' is not running
+16:16:27.779: [DistroAV] -preview_output_stop()
+16:16:27.779: [DistroAV] preview_output_deinit: releasing NDI preview output 'OBS Preview'
+16:16:27.779: [DistroAV] +ndi_output_destroy(name='OBS Preview', groups='', ...)
+16:16:27.779: [DistroAV] -ndi_output_destroy(name='OBS Preview', groups='', ...)
+16:16:27.779: [DistroAV] preview_output_deinit: successfully released NDI preview output ''
+16:16:27.779: [DistroAV] -preview_output_deinit()
+16:16:27.920: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:16:27.920: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:16:27.920: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:16:27.920: Tried to call obs_frontend_remove_save_callback with no callbacks!
+16:16:27.921: [obs-websocket] [obs_module_unload] Shutting down...
+16:16:27.922: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+16:16:27.923: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+16:16:27.923: Tried to call obs_frontend_remove_event_callback with no callbacks!
+16:16:27.923: [obs-websocket] [obs_module_unload] Finished shutting down.
+16:16:27.925: [obs-plugin-countdown] plugin unloaded
+16:16:27.970: [Scripting] Total detached callbacks: 0
+16:16:27.971: [DistroAV] +obs_module_unload()
+16:16:27.971: [DistroAV] +updateCheckStop()
+16:16:27.971: [DistroAV] -updateCheckStop()
+16:16:27.977: [DistroAV] -obs_module_unload(): goodbye!
+16:16:27.978: [adv-ss] stopped
+16:16:27.978: Freeing OBS context data
+16:16:28.009: == Profiler Results =============================
+16:16:28.009: run_program_init: 13483.7 ms
+16:16:28.009:  ┣OBSApp::AppInit: 64.085 ms
+16:16:28.009:  ┃ ┗OBSApp::InitLocale: 9.957 ms
+16:16:28.009:  ┗OBSApp::OBSInit: 13169.4 ms
+16:16:28.009:    ┣obs_startup: 3.038 ms
+16:16:28.009:    ┗OBSBasic::OBSInit: 12875.8 ms
+16:16:28.009:      ┣OBSBasic::InitBasicConfig: 0.399 ms
+16:16:28.009:      ┣OBSBasic::ResetAudio: 0.232 ms
+16:16:28.009:      ┣OBSBasic::ResetVideo: 635.126 ms
+16:16:28.009:      ┃ ┗obs_init_graphics: 633.002 ms
+16:16:28.009:      ┃   ┗shader compilation: 539.04 ms
+16:16:28.009:      ┣OBSBasic::InitOBSCallbacks: 0.009 ms
+16:16:28.009:      ┣OBSBasic::InitHotkeys: 0.034 ms
+16:16:28.009:      ┣obs_load_all_modules2: 6875.75 ms
+16:16:28.009:      ┃ ┣obs_init_module(advanced-scene-switcher.dll): 3063.03 ms
+16:16:28.009:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.858 ms
+16:16:28.009:      ┃ ┣obs_init_module(aja.dll): 0.145 ms
+16:16:28.009:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 1.033 ms
+16:16:28.009:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+16:16:28.009:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+16:16:28.009:      ┃ ┣obs_init_module(decklink.dll): 1.419 ms
+16:16:28.009:      ┃ ┣obs_init_module(distroav.dll): 89.079 ms
+16:16:28.009:      ┃ ┣obs_init_module(frontend-tools.dll): 3.955 ms
+16:16:28.009:      ┃ ┣obs_init_module(gradient-source.dll): 0.052 ms
+16:16:28.009:      ┃ ┣obs_init_module(image-source.dll): 0.009 ms
+16:16:28.009:      ┃ ┣obs_init_module(move-transition.dll): 0.973 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-advanced-masks.dll): 0.03 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-browser.dll): 0.707 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 120.054 ms
+16:16:28.009:      ┃ ┃ ┗nvenc_check: 0.377 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-filters.dll): 1.326 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-multi-rtmp.dll): 14.129 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-outputs.dll): 0.012 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-plugin-countdown.dll): 18.931 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-qsv11.dll): 54.618 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-shaderfilter.dll): 0.041 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-text.dll): 0.288 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-transitions.dll): 0.037 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-vst.dll): 0.011 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.01 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-websocket.dll): 10.31 ms
+16:16:28.009:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+16:16:28.009:      ┃ ┣obs_init_module(rtmp-services.dll): 6.514 ms
+16:16:28.009:      ┃ ┣obs_init_module(scene-as-transition.dll): 0.032 ms
+16:16:28.009:      ┃ ┣obs_init_module(source-clone.dll): 0.006 ms
+16:16:28.009:      ┃ ┣obs_init_module(source-copy.dll): 0.254 ms
+16:16:28.009:      ┃ ┣obs_init_module(streamup.dll): 17.903 ms
+16:16:28.009:      ┃ ┣obs_init_module(text-freetype2.dll): 0.102 ms
+16:16:28.009:      ┃ ┣obs_init_module(time-warp-scan.dll): 0.033 ms
+16:16:28.009:      ┃ ┣obs_init_module(transition-table.dll): 0.081 ms
+16:16:28.009:      ┃ ┣obs_init_module(vlc-video.dll): 98.472 ms
+16:16:28.009:      ┃ ┣obs_init_module(waveform.dll): 0.088 ms
+16:16:28.009:      ┃ ┣obs_init_module(win-capture.dll): 14.351 ms
+16:16:28.009:      ┃ ┣obs_init_module(win-dshow.dll): 1.539 ms
+16:16:28.009:      ┃ ┣obs_init_module(win-wasapi.dll): 10.943 ms
+16:16:28.009:      ┃ ┣obs_init_module(xObsAsyncImageSource.dll): 0.095 ms
+16:16:28.009:      ┃ ┗reset_win32_symbol_paths: 0.271 ms
+16:16:28.009:      ┣OBSBasic::InitService: 15.25 ms
+16:16:28.009:      ┣OBSBasic::ResetOutputs: 0.993 ms
+16:16:28.010:      ┣OBSBasic::CreateHotkeys: 0.237 ms
+16:16:28.010:      ┣OBSBasic::InitPrimitives: 0.653 ms
+16:16:28.010:      ┗OBSBasic::Load: 338.663 ms
+16:16:28.010: obs_hotkey_thread(25 ms): min=0.001 ms, median=0.007 ms, max=7.351 ms, 99th percentile=0.104 ms, 100% below 25 ms
+16:16:28.010: audio_thread(Audio): min=0.007 ms, median=0.272 ms, max=22.82 ms, 99th percentile=1.752 ms
+16:16:28.010:  ┗receive_audio: min=0.001 ms, median=0.255 ms, max=6.56 ms, 99th percentile=1.682 ms, 0.702982 calls per parent call
+16:16:28.010:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.181 ms, 99th percentile=0.002 ms
+16:16:28.010:    ┗do_encode: min=0.055 ms, median=0.253 ms, max=6.557 ms, 99th percentile=1.679 ms
+16:16:28.010:      ┣encode(multitrack video live audio 0): min=0.05 ms, median=0.242 ms, max=6.551 ms, 99th percentile=1.667 ms
+16:16:28.010:      ┗send_packet: min=0.001 ms, median=0.01 ms, max=0.253 ms, 99th percentile=0.031 ms
+16:16:28.010: obs_graphics_thread(16.6667 ms): min=0.081 ms, median=1.326 ms, max=1244.63 ms, 99th percentile=2.08 ms, 99.9984% below 16.667 ms
+16:16:28.010:  ┣tick_sources: min=0.001 ms, median=0.017 ms, max=1216.49 ms, 99th percentile=0.07 ms
+16:16:28.010:  ┣output_frame: min=0.068 ms, median=1.126 ms, max=43.135 ms, 99th percentile=1.823 ms
+16:16:28.010:  ┃ ┗gs_context(video->graphics): min=0.036 ms, median=0.198 ms, max=29.669 ms, 99th percentile=0.446 ms, 4.51579 calls per parent call
+16:16:28.010:  ┃   ┣render_video: min=0.001 ms, median=0.176 ms, max=20.517 ms, 99th percentile=0.418 ms
+16:16:28.010:  ┃   ┃ ┣render_main_texture: min=0.001 ms, median=0.007 ms, max=1.484 ms, 99th percentile=0.055 ms
+16:16:28.010:  ┃   ┃ ┣render_output_texture: min=0.001 ms, median=0.003 ms, max=1.944 ms, 99th percentile=0.012 ms, 0.778488 calls per parent call
+16:16:28.010:  ┃   ┃ ┣render_convert_texture: min=0.002 ms, median=0.009 ms, max=1.666 ms, 99th percentile=0.024 ms, 0.778488 calls per parent call
+16:16:28.010:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.037 ms, max=6.151 ms, 99th percentile=0.137 ms, 0.778488 calls per parent call
+16:16:28.010:  ┃   ┗gs_flush: min=0 ms, median=0.002 ms, max=29.615 ms, 99th percentile=0.282 ms
+16:16:28.010:  ┗render_displays: min=0 ms, median=0.155 ms, max=27.987 ms, 99th percentile=0.395 ms
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.003 ms, median=0.341 ms, max=7.974 ms, 99th percentile=0.751 ms, 100% below 16.667 ms
+16:16:28.010:  ┣gpu_encode_frame: min=0.103 ms, median=0.325 ms, max=7.971 ms, 99th percentile=0.726 ms
+16:16:28.010:  ┗send_packet: min=0.001 ms, median=0.011 ms, max=1.051 ms, 99th percentile=0.037 ms
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.002 ms, median=0.274 ms, max=7.248 ms, 99th percentile=0.686 ms, 100% below 16.667 ms
+16:16:28.010:  ┣gpu_encode_frame: min=0.081 ms, median=0.262 ms, max=7.244 ms, 99th percentile=0.669 ms
+16:16:28.010:  ┗send_packet: min=0.001 ms, median=0.006 ms, max=0.95 ms, 99th percentile=0.028 ms
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.001 ms, median=0.113 ms, max=7.334 ms, 99th percentile=0.599 ms, 100% below 16.667 ms
+16:16:28.010:  ┣gpu_encode_frame: min=0.088 ms, median=0.252 ms, max=7.33 ms, 99th percentile=0.66 ms, 0.500001 calls per parent call
+16:16:28.010:  ┗send_packet: min=0.001 ms, median=0.006 ms, max=0.432 ms, 99th percentile=0.02 ms, 0.499994 calls per parent call
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.001 ms, median=0.107 ms, max=7.052 ms, 99th percentile=0.592 ms, 100% below 16.667 ms
+16:16:28.010:  ┣gpu_encode_frame: min=0.086 ms, median=0.234 ms, max=7.048 ms, 99th percentile=0.654 ms, 0.5 calls per parent call
+16:16:28.010:  ┗send_packet: min=0.001 ms, median=0.005 ms, max=0.46 ms, 99th percentile=0.015 ms, 0.499993 calls per parent call
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.001 ms, median=0.104 ms, max=14.434 ms, 99th percentile=0.557 ms, 100% below 16.667 ms
+16:16:28.010:  ┣gpu_encode_frame: min=0.087 ms, median=0.231 ms, max=14.421 ms, 99th percentile=0.611 ms, 0.500001 calls per parent call
+16:16:28.010:  ┗send_packet: min=0.001 ms, median=0.005 ms, max=0.36 ms, 99th percentile=0.017 ms, 0.499992 calls per parent call
+16:16:28.010: OBSBasicSettings::LoadThemeList: 0.04 ms
+16:16:28.010: =================================================
+16:16:28.010: == Profiler Time Between Calls ==================
+16:16:28.010: obs_hotkey_thread(25 ms): min=24.238 ms, median=25.374 ms, max=60.291 ms, 65.2203% within ±2% of 25 ms (0.00381367% lower, 34.7759% higher)
+16:16:28.010: obs_graphics_thread(16.6667 ms): min=2.87 ms, median=16.667 ms, max=1244.63 ms, 99.9284% within ±2% of 16.667 ms (0.0359337% lower, 0.0356213% higher)
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.156 ms, median=16.668 ms, max=55.775 ms, 96.58% within ±2% of 16.667 ms (1.76278% lower, 1.65723% higher)
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.247 ms, median=16.668 ms, max=56.635 ms, 93.9828% within ±2% of 16.667 ms (3.13003% lower, 2.88715% higher)
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.767 ms, median=16.668 ms, max=56.892 ms, 90.3664% within ±2% of 16.667 ms (4.97769% lower, 4.65593% higher)
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.985 ms, median=16.669 ms, max=56.844 ms, 86.4524% within ±2% of 16.667 ms (6.97333% lower, 6.57424% higher)
+16:16:28.010: obs_gpu_encode_thread(16.6667 ms): min=0.643 ms, median=16.67 ms, max=56.371 ms, 82.0312% within ±2% of 16.667 ms (9.15383% lower, 8.81497% higher)
+16:16:28.010: =================================================
+16:16:28.249: Number of memory leaks: 38

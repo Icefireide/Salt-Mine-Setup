@@ -1,0 +1,2058 @@
+21:36:40.235: Command Line Arguments: --portable
+21:36:40.235: CPU Name: AMD Ryzen 7 9700X 8-Core Processor             
+21:36:40.235: CPU Speed: 3793MHz
+21:36:40.235: Physical Cores: 8, Logical Cores: 16
+21:36:40.235: Physical Memory: 31860MB Total, 16478MB Free
+21:36:40.235: Windows Version: 10.0 Build 26100 (release: 24H2; revision: 4946; 64-bit)
+21:36:40.235: Running as administrator: false
+21:36:40.235: Windows 10/11 Gaming Features:
+21:36:40.235: 	Game Bar: On
+21:36:40.235: 	Game DVR: On
+21:36:40.235: 	Game DVR Background Recording: Off
+21:36:40.235: 	Game Mode: Probably On (no reg key set)
+21:36:40.236: Sec. Software Status:
+21:36:40.237: 	Microsoft Defender Antivirus: enabled (AV)
+21:36:40.237: 	Windows Firewall: enabled (FW)
+21:36:40.238: Current Date/Time: 2025-09-11, 21:36:40
+21:36:40.238: Browser Hardware Acceleration: false
+21:36:40.238: Hide OBS windows from screen capture: false
+21:36:40.238: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+21:36:40.238: Portable mode: true
+21:36:40.480: OBS 30.2.3 (64-bit, windows)
+21:36:40.480: ---------------------------------
+21:36:40.516: ---------------------------------
+21:36:40.516: audio settings reset:
+21:36:40.516: 	samples per sec: 48000
+21:36:40.516: 	speakers:        2
+21:36:40.516: 	max buffering:   960 milliseconds
+21:36:40.516: 	buffering type:  dynamically increasing
+21:36:40.536: ---------------------------------
+21:36:40.537: Initializing D3D11...
+21:36:40.537: Available Video Adapters: 
+21:36:40.538: 	Adapter 0: AMD Radeon RX 7900 XT
+21:36:40.538: 	  Dedicated VRAM: 21458059264 (20.0 GiB)
+21:36:40.538: 	  Shared VRAM:    16704299008 (15.6 GiB)
+21:36:40.538: 	  PCI ID:         1002:744c
+21:36:40.538: 	  HAGS Status:    Enabled (Default: No, Driver status: Supported)
+21:36:40.538: 	  Driver Version: 32.0.21025.10016
+21:36:40.539: 	  output 0:
+21:36:40.539: 	    name=H27T22
+21:36:40.539: 	    pos={0, 0}
+21:36:40.539: 	    size={2560, 1440}
+21:36:40.539: 	    attached=true
+21:36:40.539: 	    refresh=170
+21:36:40.539: 	    bits_per_color=10
+21:36:40.539: 	    space=RGB_FULL_G22_NONE_P709
+21:36:40.539: 	    primaries=[r=(0.639648, 0.330078), g=(0.299805, 0.599609), b=(0.150391, 0.059570), wp=(0.312500, 0.329102)]
+21:36:40.539: 	    relative_gamut_area=[709=0.998664, P3=0.736186, 2020=0.528164]
+21:36:40.539: 	    sdr_white_nits=80
+21:36:40.539: 	    nit_range=[min=0.000500, max=374.000000, max_full_frame=243.000000]
+21:36:40.539: 	    dpi=120 (125%)
+21:36:40.539: 	    id=\\?\DISPLAY#SKG2716#7&3092f87e&1&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+21:36:40.539: 	    alt_id=\\.\DISPLAY2
+21:36:40.539: 	  output 1:
+21:36:40.539: 	    name=27B2H2
+21:36:40.539: 	    pos={296, -1080}
+21:36:40.539: 	    size={1920, 1080}
+21:36:40.539: 	    attached=true
+21:36:40.539: 	    refresh=100
+21:36:40.539: 	    bits_per_color=8
+21:36:40.539: 	    space=RGB_FULL_G22_NONE_P709
+21:36:40.539: 	    primaries=[r=(0.659180, 0.327148), g=(0.328125, 0.607422), b=(0.150391, 0.059570), wp=(0.313477, 0.329102)]
+21:36:40.539: 	    relative_gamut_area=[709=1.031607, P3=0.760471, 2020=0.545587]
+21:36:40.539: 	    sdr_white_nits=80
+21:36:40.539: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+21:36:40.539: 	    dpi=96 (100%)
+21:36:40.539: 	    id=\\?\DISPLAY#AOC2702#7&3092f87e&1&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+21:36:40.539: 	    alt_id=\\.\DISPLAY1
+21:36:40.539: 	  output 2:
+21:36:40.539: 	    name=C27F390
+21:36:40.539: 	    pos={2560, 182}
+21:36:40.539: 	    size={1920, 1080}
+21:36:40.539: 	    attached=true
+21:36:40.539: 	    refresh=72
+21:36:40.539: 	    bits_per_color=8
+21:36:40.539: 	    space=RGB_FULL_G22_NONE_P709
+21:36:40.539: 	    primaries=[r=(0.645508, 0.336914), g=(0.328125, 0.615234), b=(0.146484, 0.055664), wp=(0.313477, 0.329102)]
+21:36:40.539: 	    relative_gamut_area=[709=1.018082, P3=0.750501, 2020=0.538434]
+21:36:40.539: 	    sdr_white_nits=80
+21:36:40.539: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+21:36:40.539: 	    dpi=96 (100%)
+21:36:40.539: 	    id=\\?\DISPLAY#SAM0D32#7&3092f87e&1&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+21:36:40.539: 	    alt_id=\\.\DISPLAY3
+21:36:40.540: Loading up D3D11 on adapter AMD Radeon RX 7900 XT (0)
+21:36:40.583: D3D11 loaded successfully, feature level used: b000
+21:36:40.583: DXGI increase maximum frame latency success
+21:36:40.583: Hardware-Accelerated GPU Scheduling enabled on adapter!
+21:36:40.583: D3D11 GPU priority setup failed (not admin?)
+21:36:41.045: ---------------------------------
+21:36:41.045: video settings reset:
+21:36:41.045: 	base resolution:   1920x1080
+21:36:41.045: 	output resolution: 1920x1080
+21:36:41.045: 	downscale filter:  Bicubic
+21:36:41.045: 	fps:               60/1
+21:36:41.045: 	format:            NV12
+21:36:41.045: 	YUV mode:          Rec. 709/Partial
+21:36:41.045: NV12 texture support enabled
+21:36:41.045: P010 texture support not available
+21:36:41.046: Audio monitoring device:
+21:36:41.046: 	name: CABLE-A In 16ch (VB-Audio Virtual Cable A)
+21:36:41.046: 	id: {0.0.0.00000000}.{3f48fa7e-da6f-476c-8df0-a818741d3246}
+21:36:41.046: ---------------------------------
+21:36:51.087: Skipping module '../../obs-plugins/64bit/advanced-scene-switcher-lib.dll', not an OBS plugin
+21:36:52.527: [adv-ss] version: 1.29.0
+21:36:52.528: [adv-ss] version: 17d9b73b9a58b35a84d0346229bf4bdfaa84e676
+21:36:52.528: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+21:37:02.564: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+21:37:02.564: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+21:37:02.941: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+21:37:02.941: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+21:37:22.872: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+21:37:22.872: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+21:37:23.004: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+21:37:23.004: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+21:37:23.158: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+21:37:23.158: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+21:37:24.451: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+21:37:24.451: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+21:37:24.883: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+21:37:24.883: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+21:37:24.884: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+21:37:24.884: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+21:37:24.932: No AJA devices found, skipping loading AJA UI plugin
+21:37:24.932: Failed to initialize module 'aja-output-ui.dll'
+21:37:24.959: No AJA devices found, skipping loading AJA plugin
+21:37:24.959: Failed to initialize module 'aja.dll'
+21:37:25.059: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+21:37:25.080: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+21:37:25.095: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+21:37:25.112: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+21:37:25.132: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:37:25.132: Failed to initialize module 'decklink.dll'
+21:37:25.158: [DistroAV] obs_module_load: you can haz DistroAV (Version 6.0.0)
+21:37:25.158: [DistroAV] obs_module_load: Qt Version: 6.6.3 (runtime), 6.6.2 (compiled)
+21:37:25.158: [DistroAV] load_ndilib: Trying 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'
+21:37:25.158: [DistroAV] load_ndilib: Found 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'; attempting to load NDI library...
+21:37:25.195: [DistroAV] load_ndilib: NDI library loaded successfully
+21:37:25.195: [DistroAV] load_ndilib: NDIlib_v5_load found
+21:37:25.204: [DistroAV] obs_module_load: NDI library initialized successfully ('NDI SDK WIN64 15:46:48 Dec 20 2024 6.1.1.0')
+21:37:25.306: [Gradient Source] loaded version 0.3.2
+21:37:25.364: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+21:37:25.392: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+21:37:25.424: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+21:37:25.454: [Move Transition] loaded version 3.1.1
+21:37:25.454: Failed to get nvARPose.dll version info size
+21:37:25.475: [Advanced Masks] loaded version 1.1.0
+21:37:25.528: [obs-browser]: Version 2.23.6
+21:37:25.528: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+21:37:25.753: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+21:37:25.753: Failed to get NVVideoEffects.dll version info size
+21:37:25.754: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+21:37:25.764: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+21:37:25.768: [obs-multi-rtmp] Load 0 targets, 0 video configs, 0 audio configs
+21:37:25.768: [obs-multi-rtmp] Load config from ../../config/obs-studio/basic/profiles/TSM/obs-multi-rtmp.json
+21:37:25.775: [obs-multi-rtmp] version: 0.7.2.0 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+21:37:25.940: [obs-plugin-countdown] plugin loaded successfully (version 2.0.10)
+21:37:26.042: [obs-shaderfilter] loaded version 2.4.1
+21:37:26.165: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+21:37:26.165: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+21:37:26.165: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+21:37:26.178: [obs-websocket] [obs_module_load] Module loaded.
+21:37:26.344: [Scene As Transition] loaded version 1.1.1
+21:37:26.361: Failed to load 'en-US' text for module: 'source-clone.dll'
+21:37:26.361: [Source Clone] loaded version 0.1.5
+21:37:26.399: [Source Copy] loaded version 0.2.5
+21:37:26.533: [StreamUP] loaded version 1.6.0
+21:37:26.585: [TimeWarpScan] loaded version 0.1.7
+21:37:26.606: [Transition Table] loaded version 0.2.7
+21:37:26.701: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+21:37:26.853: [phandasm_waveform]: Registered v1.8.0 x64
+21:37:26.853: [phandasm_waveform]: Using CPU capabilities: AVX2 AVX FMA3 SSE2
+21:37:27.445: [xObsAsyncImageSource] Version 1.0 loaded.
+21:37:27.445: ---------------------------------
+21:37:27.445:   Loaded Modules:
+21:37:27.445:     xObsAsyncImageSource.dll
+21:37:27.445:     win-wasapi.dll
+21:37:27.445:     win-dshow.dll
+21:37:27.445:     win-capture.dll
+21:37:27.445:     waveform.dll
+21:37:27.445:     vlc-video.dll
+21:37:27.445:     transition-table.dll
+21:37:27.445:     time-warp-scan.dll
+21:37:27.445:     text-freetype2.dll
+21:37:27.445:     streamup.dll
+21:37:27.445:     source-copy.dll
+21:37:27.445:     source-clone.dll
+21:37:27.445:     scene-as-transition.dll
+21:37:27.445:     rtmp-services.dll
+21:37:27.445:     obs-x264.dll
+21:37:27.445:     obs-websocket.dll
+21:37:27.445:     obs-webrtc.dll
+21:37:27.445:     obs-vst.dll
+21:37:27.445:     obs-transitions.dll
+21:37:27.445:     obs-text.dll
+21:37:27.445:     obs-shaderfilter.dll
+21:37:27.445:     obs-qsv11.dll
+21:37:27.445:     obs-plugin-countdown.dll
+21:37:27.445:     obs-outputs.dll
+21:37:27.445:     obs-multi-rtmp.dll
+21:37:27.445:     obs-filters.dll
+21:37:27.445:     obs-ffmpeg.dll
+21:37:27.445:     obs-browser.dll
+21:37:27.445:     obs-advanced-masks.dll
+21:37:27.445:     move-transition.dll
+21:37:27.445:     image-source.dll
+21:37:27.445:     gradient-source.dll
+21:37:27.445:     frontend-tools.dll
+21:37:27.445:     distroav.dll
+21:37:27.445:     decklink-output-ui.dll
+21:37:27.445:     decklink-captions.dll
+21:37:27.445:     coreaudio-encoder.dll
+21:37:27.445:     advanced-scene-switcher.dll
+21:37:27.445: ---------------------------------
+21:37:29.102: [StreamUP] Settings loaded successfully from ../../config/obs-studio/plugin_config/streamup/configs.json
+21:37:29.102: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+21:37:29.102: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+21:37:29.116: [StreamUP] Notifications mute setting: false
+21:37:29.116: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+21:37:29.118: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+21:37:29.119: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+21:37:29.124: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4455. Possible connect address: 192.168.0.206
+21:37:29.124: [DistroAV] +obs_module_post_load()
+21:37:29.124: [DistroAV] +updateCheckStart(userRequestCallback=nullptr)
+21:37:29.128: [DistroAV] -updateCheckStart(userRequestCallback=nullptr)
+21:37:29.128: [DistroAV] -obs_module_post_load()
+21:37:29.129: ---------------------------------
+21:37:29.129: Available Encoders:
+21:37:29.129:   Video Encoders:
+21:37:29.130: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:37:29.130: 	- ffmpeg_aom_av1 (AOM AV1)
+21:37:29.130: 	- h264_texture_amf (AMD HW H.264 (AVC))
+21:37:29.130: 	- h265_texture_amf (AMD HW H.265 (HEVC))
+21:37:29.130: 	- av1_texture_amf (AMD HW AV1)
+21:37:29.130: 	- obs_x264 (x264)
+21:37:29.130:   Audio Encoders:
+21:37:29.130: 	- ffmpeg_aac (FFmpeg AAC)
+21:37:29.130: 	- ffmpeg_opus (FFmpeg Opus)
+21:37:29.130: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+21:37:29.130: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+21:37:29.130: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+21:37:29.130: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+21:37:29.130: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+21:37:29.130: ==== Startup complete ===============================================
+21:37:29.144: Switched to Preview/Program mode
+21:37:29.144: ------------------------------------------------
+21:37:29.327: [DistroAV] onCheckForUpdateNetworkFinish(httpStatusCode=200, responseData=..., errorData=``, userRequestCallback=nullptr)
+21:37:29.328: [DistroAV] onCheckForUpdateNetworkFinish: versionLatest == versionSkip(6.1.1); ignoring update
+21:37:29.328: All scene data cleared
+21:37:29.328: ------------------------------------------------
+21:37:29.353: [win-wasapi: 'Audio - Discord'] update settings:
+21:37:29.353: 	device id: {0.0.0.00000000}.{c7eebeff-38f3-4931-9bb0-4ab29cf8bab4}
+21:37:29.353: 	use device timing: 1
+21:37:29.353: [win-wasapi: 'Audio - League'] update settings:
+21:37:29.353: 	executable: League of Legends.exe
+21:37:29.353: 	title: League of Legends (TM) Client
+21:37:29.353: 	class: RiotWindowClass
+21:37:29.353: 	priority: 0
+21:37:29.353: [WASAPISource::TryInitialize]:[{0.0.0.00000000}.{c7eebeff-38f3-4931-9bb0-4ab29cf8bab4}] Failed to enumerate device: 80070490
+21:37:29.353: WASAPI: Device '{0.0.0.00000000}.{c7eebeff-38f3-4931-9bb0-4ab29cf8bab4}' failed to start (source: Audio - Discord)
+21:37:29.354: [WASAPISource::TryInitialize]:[[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]] Failed to find window
+21:37:29.354: WASAPI: Device '' failed to start (source: Audio - League)
+21:37:29.387: [window-capture: 'League Client'] update settings:
+21:37:29.387: 	executable: LeagueClientUx.exe
+21:37:29.387: 	method selected: Automatic
+21:37:29.387: 	method chosen: BitBlt
+21:37:29.387: 	force SDR: false
+21:37:29.463: [win-wasapi: 'DISCORD'] update settings:
+21:37:29.463: 	executable: Discord.exe
+21:37:29.463: 	title: #acl-broadcast | The Salt Mine - Discord
+21:37:29.463: 	class: Chrome_WidgetWin_1
+21:37:29.463: 	priority: 2
+21:37:29.466: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' [48000 Hz] initialized (source: DISCORD)
+21:37:29.519: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: DISCORD)
+21:37:29.519: 
+21:37:29.563: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:29.563: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless
+21:37:29.563: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:29.565: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:29.566: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless
+21:37:29.566: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:29.579: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:29.579: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:29.790: [Media Source 'draft music']: settings:
+21:37:29.790: 	input:                   //192.168.0.1/g/Production/Warsongs_ Piercing Light (Mako Remix)  Music - League of Legends (1).mp3
+21:37:29.790: 	input_format:            (null)
+21:37:29.790: 	speed:                   100
+21:37:29.790: 	is_looping:              yes
+21:37:29.790: 	is_linear_alpha:         no
+21:37:29.790: 	is_hw_decoding:          no
+21:37:29.790: 	is_clear_on_media_end:   yes
+21:37:29.790: 	restart_on_activate:     yes
+21:37:29.790: 	close_when_inactive:     no
+21:37:29.790: 	full_decode:             no
+21:37:29.790: 	ffmpeg_options:          
+21:37:29.798: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png': No such file or directory
+21:37:29.798: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Top.png
+21:37:29.798: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+21:37:29.798: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+21:37:29.798: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png': No such file or directory
+21:37:29.798: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Top.png
+21:37:29.799: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+21:37:29.799: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Top.png'
+21:37:29.799: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png': No such file or directory
+21:37:29.799: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png
+21:37:29.799: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+21:37:29.799: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+21:37:29.799: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png': No such file or directory
+21:37:29.799: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png
+21:37:29.799: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+21:37:29.799: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Jungle.png'
+21:37:29.799: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png': No such file or directory
+21:37:29.799: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png
+21:37:29.799: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+21:37:29.799: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+21:37:29.799: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png': No such file or directory
+21:37:29.800: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png
+21:37:29.800: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+21:37:29.800: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Mid.png'
+21:37:29.800: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png': No such file or directory
+21:37:29.800: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png
+21:37:29.800: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+21:37:29.800: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+21:37:29.800: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png': No such file or directory
+21:37:29.800: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png
+21:37:29.800: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+21:37:29.800: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Bot.png'
+21:37:29.800: Failed to open file 'G:/Other computers/My Computer/Production/SALT MINE/Red Support.png': No such file or directory
+21:37:29.800: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/SALT MINE/Red Support.png
+21:37:29.800: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/SALT MINE/Red Support.png'
+21:37:29.800: [xObsAsyncImageSource] failed to load texture 'G:/Other computers/My Computer/Production/SALT MINE/Red Support.png'
+21:37:29.818: [Media Source 'taliyah']: settings:
+21:37:29.818: 	input:                   //192.168.0.1/g/Production/Soak in the lofi magic of Spirit Blossom Springs _ Chillhop Music Lofi Remix EP - League of Legends.mp3
+21:37:29.818: 	input_format:            (null)
+21:37:29.818: 	speed:                   100
+21:37:29.818: 	is_looping:              yes
+21:37:29.818: 	is_linear_alpha:         no
+21:37:29.818: 	is_hw_decoding:          no
+21:37:29.818: 	is_clear_on_media_end:   yes
+21:37:29.818: 	restart_on_activate:     no
+21:37:29.818: 	close_when_inactive:     no
+21:37:29.818: 	full_decode:             no
+21:37:29.818: 	ffmpeg_options:          
+21:37:29.818: [Media Source 'Interview']: settings:
+21:37:29.818: 	input:                   C:/Users/Nicholas/Downloads/ssvid.net---LTA-Dreams-and-a-Match-Against-CCG-Interview-with_1080pFHR.mp4
+21:37:29.818: 	input_format:            (null)
+21:37:29.818: 	speed:                   100
+21:37:29.818: 	is_looping:              no
+21:37:29.818: 	is_linear_alpha:         no
+21:37:29.818: 	is_hw_decoding:          no
+21:37:29.818: 	is_clear_on_media_end:   yes
+21:37:29.818: 	restart_on_activate:     yes
+21:37:29.818: 	close_when_inactive:     no
+21:37:29.818: 	full_decode:             no
+21:37:29.818: 	ffmpeg_options:          
+21:37:29.888: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_stroke.shader
+21:37:29.948: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:29.949: [obs-shaderfilter] failed to read file: C:/Users/Nicholas/Desktop/OBS CLEAN/data/obs-plugins/obs-shaderfilter/examples/rounded_rect2.shader
+21:37:30.160: Switched to scene '- Caster Desk'
+21:37:30.160: User switched Program to scene 'INTERMISSION'
+21:37:30.168: ------------------------------------------------
+21:37:30.168: Loaded scenes:
+21:37:30.168: - scene 'INTERMISSION':
+21:37:30.168:     - source: 'taliyah' (ffmpeg_source)
+21:37:30.168:     - source: 'Stream Status' (group)
+21:37:30.168:         - source: 'Starting Soon' (xObsAsyncImageSource)
+21:37:30.168:             - show: 'Starting Soon Show Transition' (fade_transition)
+21:37:30.168:             - hide: 'Starting Soon Hide Transition' (fade_transition)
+21:37:30.168:         - source: 'BRB' (xObsAsyncImageSource)
+21:37:30.168:             - show: 'Ending Hide Transition' (fade_transition)
+21:37:30.168:             - hide: 'Ending Hide Transition' (fade_transition)
+21:37:30.168:         - source: 'Ending' (xObsAsyncImageSource)
+21:37:30.168:             - show: 'Ending Show Transition' (fade_transition)
+21:37:30.168:             - hide: 'Ending Hide Transition' (fade_transition)
+21:37:30.168:     - source: 'Next Up VS' (group)
+21:37:30.168:         - source: 'Next Up' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'Blue Team Logo |sheet 7' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'Red Team Logo |sheet 11' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'vs' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Interview' (ffmpeg_source)
+21:37:30.168: - scene '- Caster Desk':
+21:37:30.168:     - source: 'Background' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Caster 1' (group)
+21:37:30.168:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+21:37:30.168:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v2)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Caster 2' (group)
+21:37:30.168:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+21:37:30.168:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v2)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Salt Logo' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'White' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'DISCORD' (wasapi_process_output_capture)
+21:37:30.168: - scene '- Draft New':
+21:37:30.168:     - source: 'Background' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'White' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'Salt Logo' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Caster 1' (group)
+21:37:30.168:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+21:37:30.168:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v2)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Caster 2' (group)
+21:37:30.168:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+21:37:30.168:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v2)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'DISCORD' (wasapi_process_output_capture)
+21:37:30.168:     - source: '--- Fearless Champion Select Backend (Bo3) ---' (scene)
+21:37:30.168:         - filter: 'Move transition override' (move_transition_override_filter)
+21:37:30.168:     - source: '--- Fearless Champion Select Backend (Bo5) ---' (scene)
+21:37:30.168:         - filter: 'Move transition override' (move_transition_override_filter)
+21:37:30.168:     - source: '--- Draft Backend ---' (scene)
+21:37:30.168:     - source: 'draft music' (ffmpeg_source)
+21:37:30.168:     - source: '--- Actual Positions Backend ---' (scene)
+21:37:30.168:         - show: '--- Actual Positions Backend --- Show Transition' (slide_transition)
+21:37:30.168:         - hide: '--- Actual Positions Backend --- Hide Transition' (slide_transition)
+21:37:30.168: - scene '- In Game':
+21:37:30.168:     - source: 'Audio - Discord' (wasapi_output_capture)
+21:37:30.168:     - source: 'Audio - League' (wasapi_process_output_capture)
+21:37:30.168:         - monitoring: monitor and output
+21:37:30.168:     - source: 'Game - League' (game_capture)
+21:37:30.168:     - source: 'Overlay - In Game (League)' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Overlay - In Game (League) 2' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Blue Team Logo |sheet 7' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Red Team Logo |sheet 11' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Background' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Overlay - In Game (League) 3' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Overlay - In Game (League) 3 2' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Overlay - In Game (League) 3 3' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Aegis Logo' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'ACL' (text_gdiplus_v3)
+21:37:30.168:     - source: 'DISCORD' (wasapi_process_output_capture)
+21:37:30.168: - scene '- Post Game':
+21:37:30.168:     - source: 'Audio - Discord' (wasapi_output_capture)
+21:37:30.168:     - source: 'Background' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'White' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'League Client' (window_capture)
+21:37:30.168:     - source: 'Caster 1' (group)
+21:37:30.168:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+21:37:30.168:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v2)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Caster 2' (group)
+21:37:30.168:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+21:37:30.168:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v2)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Salt Logo' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Blue Team Logo |sheet 7' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Red Team Logo |sheet 11' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'DISCORD' (wasapi_process_output_capture)
+21:37:30.168:     - source: 'EOG' (vlc_source)
+21:37:30.168:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - show: 'EOG Show Transition' (move_transition)
+21:37:30.168:         - hide: 'EOG Hide Transition' (move_transition)
+21:37:30.168: - scene 'Assets':
+21:37:30.168:     - source: 'White' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'Caster 1' (group)
+21:37:30.168:         - source: 'Caster Cam Left |sheet 4' (browser_source)
+21:37:30.168:         - source: 'Caster Name Left |sheet 2' (text_gdiplus_v2)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'Caster 2' (group)
+21:37:30.168:         - source: 'Caster Cam Right |sheet 5' (browser_source)
+21:37:30.168:         - source: 'Caster Name Right |sheet 3' (text_gdiplus_v2)
+21:37:30.168:         - source: 'Camera Outline' (xObsAsyncImageSource)
+21:37:30.168:         - source: 'X' (xObsAsyncImageSource)
+21:37:30.168: - scene '--- Fearless Champion Select Backend (Bo3) ---':
+21:37:30.168:     - source: 'Color Source 2' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'fearless' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:     - source: 'G1 Bans' (group)
+21:37:30.168:         - source: 'Blue Fearless 1 |sheet 45' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 2 |sheet 46' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 3 |sheet 47' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 4 |sheet 48' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 5 |sheet 49' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 1 |sheet 65' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 2 |sheet 66' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 3 |sheet 67' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 4 |sheet 68' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 5 |sheet 69' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'Game 1' (text_gdiplus_v3)
+21:37:30.168:     - source: 'G2 Bans' (group)
+21:37:30.168:         - source: 'Blue Fearless 6 |sheet 50' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 7 |sheet 51' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 8 |sheet 52' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 9 |sheet 53' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 10 |sheet 54' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 6 |sheet 70' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 7 |sheet 71' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - source: 'Red Fearless 8 |sheet 72' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - source: 'Red Fearless 9 |sheet 73' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - source: 'Red Fearless 10 |sheet 74' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:     - source: 'Game 2' (text_gdiplus_v3)
+21:37:30.168:     - source: 'Aegis Logo' (xObsAsyncImageSource)
+21:37:30.168:     - filter: 'Move transition override' (move_transition_override_filter)
+21:37:30.168: - scene '--- Fearless Champion Select Backend (Bo5) ---':
+21:37:30.168:     - source: 'Color Source 2' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'fearless' (color_source_v3)
+21:37:30.168:         - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:     - source: 'G1 Bans' (group)
+21:37:30.168:         - source: 'Blue Fearless 1 |sheet 45' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 2 |sheet 46' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 3 |sheet 47' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 4 |sheet 48' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 5 |sheet 49' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 1 |sheet 65' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 2 |sheet 66' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 3 |sheet 67' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 4 |sheet 68' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 5 |sheet 69' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:     - source: 'Game 1' (text_gdiplus_v3)
+21:37:30.168:     - source: 'G2 Bans' (group)
+21:37:30.168:         - source: 'Blue Fearless 6 |sheet 50' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 7 |sheet 51' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 8 |sheet 52' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 9 |sheet 53' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168: [adv-ss] started
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 10 |sheet 54' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 6 |sheet 70' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Red Fearless 7 |sheet 71' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - source: 'Red Fearless 8 |sheet 72' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - source: 'Red Fearless 9 |sheet 73' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:         - source: 'Red Fearless 10 |sheet 74' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:     - source: 'Game 2' (text_gdiplus_v3)
+21:37:30.168:     - source: 'Aegis Logo' (xObsAsyncImageSource)
+21:37:30.168:     - source: 'G3 Bans' (group)
+21:37:30.168:         - source: 'Blue Fearless 11 |sheet 55' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 12 |sheet 56' (xObsAsyncImageSource)
+21:37:30.168:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.168:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.168:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.168:         - source: 'Blue Fearless 13 |sheet 57' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Blue Fearless 14 |sheet 58' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Blue Fearless 15 |sheet 59' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Red Fearless 11 |sheet 75' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 12 |sheet 76' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 13 |sheet 77' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 14 |sheet 78' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 15 |sheet 79' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'G4' (group)
+21:37:30.169:         - source: 'Blue Fearless 16 |sheet 60' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Blue Fearless 17 |sheet 61' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Blue Fearless 18 |sheet 62' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Blue Fearless 19 |sheet 63' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Blue Fearless 20 |sheet 64' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:         - source: 'Red Fearless 16 |sheet 80' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 17 |sheet 81' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 18 |sheet 82' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 19 |sheet 83' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Red Fearless 20 |sheet 84' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Image Mask/Blend' (mask_filter_v2)
+21:37:30.169:             - filter: 'Color Correction' (color_filter_v2)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Game 3' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Game 4' (text_gdiplus_v3)
+21:37:30.169:     - filter: 'Move transition override' (move_transition_override_filter)
+21:37:30.169: - scene '--- Draft Backend ---':
+21:37:30.169:     - source: 'Red Back' (group)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Blue Back' (group)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:         - source: 'Color Source 3' (color_source_v3)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Position Logos Blue' (group)
+21:37:30.169:         - source: 'Blue Bot Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Blue Mid Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Blue Jungle Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Blue Top Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Support Logo' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Position Logos Red' (group)
+21:37:30.169:         - source: 'Blue Bot Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Blue Mid Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Blue Jungle Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Blue Top Logo' (xObsAsyncImageSource)
+21:37:30.169:         - source: 'Support Logo' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Pick/Ban' (group)
+21:37:30.169:         - source: 'Blue Pick 1 |sheet 30' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Blue Pick 1 |sheet 30 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Pick 2 |sheet 31' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Blue Pick 2 |sheet 31 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Pick 3 |sheet 32' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Blue Pick 3 |sheet 32 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Pick 4 |sheet 33' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Blue Pick 4 |sheet 33 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Pick 5 |sheet 34' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Blue Pick 5 |sheet 34 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Ban 1 |sheet 25' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Blue Ban 1 |sheet 25 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Ban 2 |sheet 26' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Blue Ban 2 |sheet 26 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Ban 3 |sheet 27' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Blue Ban 3 |sheet 27 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Ban 4 |sheet 28' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Blue Ban 4 |sheet 28 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Blue Ban 5 |sheet 29' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Blue Ban 5 |sheet 29 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Ban 1 |sheet 35' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Red Ban 1 |sheet 35 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Ban 2 |sheet 36' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Red Ban 2 |sheet 36 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Ban 3 |sheet 37' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Red Ban 3 |sheet 37 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Ban 4 |sheet 38' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Red Ban 4 |sheet 38 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Ban 5 |sheet 39' (xObsAsyncImageSource)
+21:37:30.169:             - show: 'Red Ban 5 |sheet 39 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Pick 1 |sheet 40' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Red Pick 1 |sheet 40 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Pick 2 |sheet 41' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Red Pick 2 |sheet 41 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Pick 3 |sheet 42' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Red Pick 3 |sheet 42 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Pick 4 |sheet 43' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Red Pick 4 |sheet 43 Show Transition' (slide_transition)
+21:37:30.169:         - source: 'Red Pick 5 |sheet 44' (xObsAsyncImageSource)
+21:37:30.169:             - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:             - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:             - show: 'Red Pick 5 |sheet 44 Show Transition' (slide_transition)
+21:37:30.169:     - source: 'Group' (group)
+21:37:30.169:         - source: 'Color Source' (color_source_v3)
+21:37:30.169:     - source: 'Group 2' (group)
+21:37:30.169:         - source: 'Color Source' (color_source_v3)
+21:37:30.169:     - source: 'Blue Team Name |sheet 6' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Red Team Name |sheet 10' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Blue Team Logo |sheet 7' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Red Team Logo |sheet 11' (xObsAsyncImageSource)
+21:37:30.169: - scene '--- Actual Positions Backend ---':
+21:37:30.169:     - source: 'Blue Top Champ |sheet 85' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Blue Jungle Champ |sheet 86' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Blue Mid Champ |sheet 87' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Blue Bot Champ |sheet 88' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Blue Support Champ |sheet 89' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Red Top Champ |sheet 90' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Red Jungle Champ |sheet 91' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Red Mid Champ |sheet 92' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Red Bot Champ |sheet 93' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Red Support Champ |sheet 94' (xObsAsyncImageSource)
+21:37:30.169:         - filter: 'Crop/Pad' (crop_filter)
+21:37:30.169:         - filter: 'User-defined shader' (shader_filter)
+21:37:30.169:     - source: 'Top Logo' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Top Logo 2' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Jungle Logo' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Jungle Logo 2' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Logo Mid' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Logo Mid 2' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Logo Bot' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Logo Bot 2' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Logo Support' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Logo Support' (xObsAsyncImageSource)
+21:37:30.169:     - source: 'Red Top |sheet 20' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Red Jungle |sheet 21' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Red Mid |sheet 22' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Red Bot |sheet 23' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Red Support |sheet 24' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Blue Top |sheet 15' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Blue Jungle |sheet 16' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Blue Mid |sheet 17' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Blue Bot |sheet 18' (text_gdiplus_v3)
+21:37:30.169:     - source: 'Blue Support |sheet 19' (text_gdiplus_v3)
+21:37:30.169: ------------------------------------------------
+21:37:30.393: adding 469 milliseconds of audio buffering, total audio buffering is now 512 milliseconds (source: taliyah)
+21:37:30.393: 
+21:37:30.734: [DistroAV] +main_output_init()
+21:37:30.734: [DistroAV] +main_output_deinit()
+21:37:30.734: [DistroAV] main_output_deinit: NDI main output is not initialized
+21:37:30.734: [DistroAV] -main_output_deinit()
+21:37:30.734: [DistroAV] main_output_init: creating NDI main output 'OBS'
+21:37:30.734: [DistroAV] +ndi_output_getdefaults()
+21:37:30.734: [DistroAV] -ndi_output_getdefaults()
+21:37:30.734: [DistroAV] +ndi_output_create(name='OBS', groups='', ...)
+21:37:30.734: [DistroAV] ndi_output_update(name='OBS', groups='', ...)
+21:37:30.734: [DistroAV] -ndi_output_create(name='OBS', groups='', ...)
+21:37:30.734: [DistroAV] main_output_init: successfully created NDI main output 'OBS'
+21:37:30.734: [DistroAV] -main_output_init()
+21:37:30.734: [DistroAV] +preview_output_init()
+21:37:30.734: [DistroAV] +preview_output_deinit()
+21:37:30.734: [DistroAV] preview_output_deinit: NDI preview output is not initialized
+21:37:30.734: [DistroAV] -preview_output_deinit()
+21:37:30.734: [DistroAV] preview_output_init: creating NDI preview output 'OBS Preview'
+21:37:30.734: [DistroAV] +ndi_output_getdefaults()
+21:37:30.734: [DistroAV] -ndi_output_getdefaults()
+21:37:30.734: [DistroAV] +ndi_output_create(name='OBS Preview', groups='', ...)
+21:37:30.734: [DistroAV] ndi_output_update(name='OBS Preview', groups='', ...)
+21:37:30.734: [DistroAV] -ndi_output_create(name='OBS Preview', groups='', ...)
+21:37:30.734: [DistroAV] preview_output_init: successfully created NDI preview output 'OBS Preview'
+21:37:30.734: [DistroAV] -preview_output_init()
+21:37:30.859: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.860: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.860: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.861: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.861: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.861: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.862: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.862: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.862: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.862: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.863: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.863: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.863: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.863: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.863: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.864: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.864: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.864: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.864: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.864: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.864: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.865: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.865: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.865: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.865: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.865: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.865: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.866: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.866: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.866: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.866: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.866: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.866: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.867: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.867: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.867: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.868: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.868: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.868: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.868: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.868: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.868: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.869: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.869: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.869: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.870: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.870: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.870: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.870: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.870: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.870: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.871: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.871: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.871: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.871: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.872: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.872: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.872: Failed to open file 'G:/Other computers/My Computer/Production/fearless mask.png': No such file or directory
+21:37:30.872: WIC: Failed to create IWICBitmapDecoder from file: G:/Other computers/My Computer/Production/fearless mask.png
+21:37:30.872: gs_image_file_init_internal: Failed to load file 'G:/Other computers/My Computer/Production/fearless mask.png'
+21:37:30.906: adding 21 milliseconds of audio buffering, total audio buffering is now 533 milliseconds (source: taliyah)
+21:37:30.906: 
+21:37:30.914: [Media Source 'Stinger (Stinger)']: settings:
+21:37:30.914: 	input:                   C:/Users/Nicholas/Documents/Production/SaltMine Stream Stuff-20250417T023534Z-001/SaltMine Stream Stuff/Tech Wipe (Gray).webm
+21:37:30.914: 	input_format:            (null)
+21:37:30.914: 	speed:                   100
+21:37:30.914: 	is_looping:              no
+21:37:30.914: 	is_linear_alpha:         no
+21:37:30.914: 	is_hw_decoding:          yes
+21:37:30.914: 	is_clear_on_media_end:   yes
+21:37:30.914: 	restart_on_activate:     yes
+21:37:30.914: 	close_when_inactive:     no
+21:37:30.914: 	full_decode:             no
+21:37:30.914: 	ffmpeg_options:          
+21:37:30.948: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:30.948: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless
+21:37:30.948: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:30.948: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:30.964: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:30.965: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless
+21:37:30.965: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:30.965: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:31.950: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:31.950: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless
+21:37:31.950: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:31.950: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:31.952: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:31.953: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless
+21:37:31.953: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:31.953: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:32.989: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:32.989: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless
+21:37:32.989: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:32.989: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:32.998: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:32.998: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless
+21:37:32.998: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:32.998: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:33.988: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:33.988: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless
+21:37:33.988: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:33.988: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409957843014/Milk-Esports-Whole-Milk_2.png?ex=68c20a4a&is=68c0b8ca&hm=b158ce7563f5cb746138ae8b6b2517014e9bc8cb73470554b8722827dd66ab51&=&format=webp&quality=lossless'
+21:37:33.996: Failed to open file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless': Server returned 404 Not Found
+21:37:33.996: WIC: Failed to create IWICBitmapDecoder from file: https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless
+21:37:33.996: gs_image_file_init_internal: Failed to load file 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:33.996: [xObsAsyncImageSource] failed to load texture 'https://media.discordapp.net/attachments/1331094513464250449/1415117409550991361/Citadel.png?ex=68c20a4a&is=68c0b8ca&hm=95441a53cbedc8bf196bb04e39059b2c0f9630357dd2dfe53155f7b96fbc5afa&=&format=webp&quality=lossless'
+21:37:34.353: [adv-ss] stopped
+21:37:34.384: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+21:37:34.386: [adv-ss] reset transition behaviour to adjust active transition type
+21:37:34.387: [adv-ss] started
+21:37:34.389: WASAPI: Device '' Terminated
+21:37:34.415: WASAPI: Device '[VIRTUAL_AUDIO_DEVICE_PROCESS_LOOPBACK]' Terminated
+21:37:34.546: All scene data cleared
+21:37:34.546: ------------------------------------------------
+21:37:34.547: [DistroAV] 'NDI® Source' +ndi_source_create(…)
+21:37:34.547: [DistroAV] 'NDI® Source' +ndi_source_update(…)
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'NDI Source Name' changes: new_ndi_source_name='DESKTOP-BD5ELCH (vMix - Output 1)' vs config.ndi_source_name='(null)'
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Bandwidth' setting changes: new_bandwidth='0' vs config.bandwidth='0'
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Latency' setting changes: new_latency='0' vs config.latency='0'
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Framesync' setting changes: new_framesync_enabled='false' vs config.framesync_enabled='false'
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Hardware Acceleration' setting changes: new_ndi_source_name='false' vs config.ndi_source_name='false'
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Behavior' setting changes: behavior='2' vs config.behavior='0'
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: Deactivate source output video (Actively reset the frame content)
+21:37:34.547: [DistroAV] 'NDI® Source' ndi_source_update: NDI Source 'DESKTOP-BD5ELCH (vMix - Output 1)' selected.
+21:37:34.547: [DistroAV] 'NDI® Source' -ndi_source_update(…)
+21:37:34.547: [DistroAV] 'NDI® Source' -ndi_source_create(…)
+21:37:34.548: [Media Source 'Media Source']: settings:
+21:37:34.548: 	input:                   //192.168.0.1/g/Production/MTB Rivals/FOR STREAM/VIDEOS/MR BG VIDEO.mp4
+21:37:34.548: 	input_format:            (null)
+21:37:34.548: 	speed:                   100
+21:37:34.548: 	is_looping:              yes
+21:37:34.548: 	is_linear_alpha:         no
+21:37:34.548: 	is_hw_decoding:          no
+21:37:34.548: 	is_clear_on_media_end:   yes
+21:37:34.548: 	restart_on_activate:     no
+21:37:34.548: 	close_when_inactive:     no
+21:37:34.548: 	full_decode:             no
+21:37:34.548: 	ffmpeg_options:          
+21:37:34.619: Switched to scene 'Technical Difficulties'
+21:37:34.619: User switched Program to scene 'Scene'
+21:37:34.620: [adv-ss] stopped
+21:37:34.621: ------------------------------------------------
+21:37:34.621: Loaded scenes:
+21:37:34.621: - scene 'Scene':
+21:37:34.621:     - source: 'NDI® Source' (ndi_source)
+21:37:34.621: - scene 'Technical Difficulties':
+21:37:34.621:     - source: 'Media Source' (ffmpeg_source)
+21:37:34.621:     - source: 'Tech' (text_gdiplus_v3)
+21:37:34.621: ------------------------------------------------
+21:37:34.621: [adv-ss] started
+21:37:34.624: [DistroAV] 'NDI® Source' ndi_source_shown(…)
+21:37:34.624: [DistroAV] 'NDI® Source' ndi_source_shown: Requesting Source Thread Start.
+21:37:34.624: [DistroAV] 'NDI® Source' ndi_source_thread_start: Started A/V ndi_source_thread for NDI source 'DESKTOP-BD5ELCH (vMix - Output 1)'
+21:37:34.624: [DistroAV] 'NDI® Source' ndi_source_activated(…)
+21:37:34.624: [DistroAV] 'NDI® Source' +ndi_source_thread(…)
+21:37:34.624: [DistroAV] 'NDI® Source' ndi_source_thread: reset_ndi_receiver: Resetting NDI receiver…
+21:37:34.795: Switched to scene collection 'vMix Transmit' (vMix_Transmit.json)
+21:37:34.795: ------------------------------------------------
+21:37:38.643: [DistroAV] 'NDI® Source' ndi_source_thread: tally changed; Sending tally on_preview=1, on_program=1
+21:37:41.183: Number of remaining views: 1
+21:37:41.183: ---------------------------------
+21:37:41.183: video settings reset:
+21:37:41.183: 	base resolution:   1920x1080
+21:37:41.183: 	output resolution: 1920x1080
+21:37:41.183: 	downscale filter:  Bicubic
+21:37:41.183: 	fps:               60/1
+21:37:41.183: 	format:            NV12
+21:37:41.183: 	YUV mode:          Rec. 709/Partial
+21:37:41.183: NV12 texture support enabled
+21:37:41.183: P010 texture support not available
+21:37:41.192: Audio monitoring device:
+21:37:41.192: 	name: CABLE-A Input (VB-Audio Virtual Cable A)
+21:37:41.192: 	id: {0.0.0.00000000}.{671af48a-d71f-4349-aa46-62303c624f3b}
+21:37:41.203: Switched to profile 'Polis SRT Chippy' (Polis_SRT_Chippy)
+21:37:41.203: ------------------------------------------------
+21:37:41.203: [obs-multi-rtmp] Load config from ../../config/obs-studio/basic/profiles/Polis_SRT_Chippy/obs-multi-rtmp.json failed
+21:37:43.373:   OpenType support missing for "Open Sans", script 11
+21:37:43.373:   OpenType support missing for "Arial", script 11
+21:37:43.374:   OpenType support missing for "Tahoma", script 11
+21:37:43.376:   OpenType support missing for "MS UI Gothic", script 11
+21:37:43.380:   OpenType support missing for "SimSun", script 11
+21:37:43.382:   OpenType support missing for "Segoe UI Emoji", script 11
+21:37:43.383:   OpenType support missing for "Segoe UI Symbol", script 11
+21:37:43.387:   OpenType support missing for "Open Sans", script 12
+21:37:43.387:   OpenType support missing for "Arial", script 12
+21:37:43.387:   OpenType support missing for "Tahoma", script 12
+21:37:43.387:   OpenType support missing for "MS UI Gothic", script 12
+21:37:43.388:   OpenType support missing for "SimSun", script 12
+21:37:43.388:   OpenType support missing for "Segoe UI Emoji", script 12
+21:37:43.388:   OpenType support missing for "Segoe UI Symbol", script 12
+21:37:43.389:   OpenType support missing for "Open Sans", script 16
+21:37:43.389:   OpenType support missing for "Arial", script 16
+21:37:43.389:   OpenType support missing for "Tahoma", script 16
+21:37:43.389:   OpenType support missing for "MS UI Gothic", script 16
+21:37:43.389:   OpenType support missing for "SimSun", script 16
+21:37:43.389:   OpenType support missing for "Segoe UI Emoji", script 16
+21:37:43.390:   OpenType support missing for "Segoe UI Symbol", script 16
+21:37:43.390:   OpenType support missing for "Open Sans", script 20
+21:37:43.390:   OpenType support missing for "Arial", script 20
+21:37:43.390:   OpenType support missing for "Tahoma", script 20
+21:37:43.391:   OpenType support missing for "MS UI Gothic", script 20
+21:37:43.391:   OpenType support missing for "SimSun", script 20
+21:37:43.391:   OpenType support missing for "Segoe UI Emoji", script 20
+21:37:43.391:   OpenType support missing for "Segoe UI Symbol", script 20
+21:37:52.309: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+21:37:52.311: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+21:37:52.344: [texture-amf-h264: 'simple_video_stream'] settings:
+21:37:52.344: 	rate_control: CBR
+21:37:52.344: 	bitrate:      6000
+21:37:52.344: 	cqp:          20
+21:37:52.344: 	keyint:       250
+21:37:52.344: 	preset:       balanced
+21:37:52.344: 	profile:      high
+21:37:52.344: 	b-frames:     3
+21:37:52.344: 	width:        1920
+21:37:52.344: 	height:       1080
+21:37:52.344: 	params:       (none)
+21:37:52.349: ---------------------------------
+21:37:52.350: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo
+21:37:52.350: 
+21:37:52.378: ==== Recording Start ===============================================
+21:37:52.378: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/Nicholas/Videos/2025-09-11 21-37-52.mkv'...
+21:37:52.387: ==== Streaming Start ===============================================
+21:37:53.437: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/Nicholas/Videos/2025-09-11 21-37-52.mkv' stopped
+21:37:53.437: Output 'simple_file_output': stopping
+21:37:53.437: Output 'simple_file_output': Total frames output: 29
+21:37:53.437: Output 'simple_file_output': Total drawn frames: 64
+21:37:53.437: ==== Recording Stop ================================================
+00:30:17.934: Output 'simple_stream': stopping
+00:30:17.935: Output 'simple_stream': Total frames output: 620690
+00:30:17.935: Output 'simple_stream': Total drawn frames: 620490 (620737 attempted)
+00:30:17.935: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 247 (0.0%)
+00:30:17.935: Video stopped, number of skipped frames due to encoding lag: 260/620732 (0.0%)
+00:30:17.937: ==== Streaming Stop ================================================
+00:30:17.937: ---------------------------------
+00:30:17.937: [obs-ffmpeg mpegts muxer / libsrt]: Session Summary
+00:30:17.937: 	time elapsed [10345.6 sec]
+00:30:17.937: 	mean speed [6.6 Mbp]
+00:30:17.937: 	total bytes sent [8486.9 MB]
+00:30:17.937: 	bytes retransmitted [0.0 %]
+00:30:17.937: 	bytes dropped [0.0 %]
+00:30:17.937: 
+00:30:17.950: [obs-ffmpeg mpegts muxer / libsrt]: SRT connection closed
+00:30:22.904: User switched Program to scene 'Technical Difficulties'
+00:30:23.222: User switched to scene 'Scene'
+00:30:23.785: [DistroAV] 'NDI® Source' ndi_source_deactivated(…)
+00:30:23.786: [DistroAV] 'NDI® Source' ndi_source_thread: tally changed; Sending tally on_preview=1, on_program=0
+00:30:37.269: Number of remaining views: 1
+00:30:37.269: ---------------------------------
+00:30:37.269: video settings reset:
+00:30:37.269: 	base resolution:   1920x1080
+00:30:37.269: 	output resolution: 1280x720
+00:30:37.269: 	downscale filter:  Bicubic
+00:30:37.269: 	fps:               30/1
+00:30:37.269: 	format:            NV12
+00:30:37.269: 	YUV mode:          Rec. 709/Partial
+00:30:37.269: NV12 texture support enabled
+00:30:37.269: P010 texture support not available
+00:30:37.276: Audio monitoring device:
+00:30:37.276: 	name: Default
+00:30:37.276: 	id: default
+00:30:37.288: Switched to profile 'srt relay testing' (srt_relay_testing)
+00:30:37.288: ------------------------------------------------
+00:30:37.288: [obs-multi-rtmp] Load 0 targets, 0 video configs, 0 audio configs
+00:30:37.288: [obs-multi-rtmp] Load config from ../../config/obs-studio/basic/profiles/srt_relay_testing/obs-multi-rtmp.json
+00:30:54.139: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+00:30:54.140: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+00:30:54.170: [texture-amf-h264: 'simple_video_stream'] settings:
+00:30:54.170: 	rate_control: CBR
+00:30:54.170: 	bitrate:      2500
+00:30:54.170: 	cqp:          20
+00:30:54.170: 	keyint:       250
+00:30:54.170: 	preset:       balanced
+00:30:54.170: 	profile:      high
+00:30:54.170: 	b-frames:     3
+00:30:54.170: 	width:        1280
+00:30:54.170: 	height:       720
+00:30:54.170: 	params:       (none)
+00:30:54.172: ---------------------------------
+00:30:54.172: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo
+00:30:54.172: 
+00:30:54.180: ==== Recording Start ===============================================
+00:30:54.180: [ffmpeg muxer: 'simple_file_output'] Writing file 'C:/Users/Nicholas/Videos/2025-09-12 00-30-54.mkv'...
+00:30:54.244: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.346: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.451: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.554: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.659: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.762: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.865: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:54.968: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.072: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.176: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.209: [ffmpeg muxer: 'simple_file_output'] Output of file 'C:/Users/Nicholas/Videos/2025-09-12 00-30-54.mkv' stopped
+00:30:55.209: Output 'simple_file_output': stopping
+00:30:55.209: Output 'simple_file_output': Total frames output: 15
+00:30:55.209: Output 'simple_file_output': Total drawn frames: 31
+00:30:55.209: ==== Recording Stop ================================================
+00:30:55.279: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.383: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.486: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.589: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.693: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.796: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:55.900: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.003: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.106: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.208: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.311: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.415: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.517: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.621: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.725: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.828: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:56.931: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:57.036: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:57.139: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:30:57.160: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+00:30:57.160: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37592?&latency=200000 failed: No such process
+00:30:57.170: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+00:30:57.170: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+00:30:57.171: ==== Streaming Stop ================================================
+00:32:49.027: Settings changed (general)
+00:32:49.027: ------------------------------------------------
+00:32:51.525: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+00:32:51.526: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+00:32:51.628: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:51.732: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:51.835: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:51.938: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.042: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.145: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.249: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.353: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.455: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.559: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.662: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.767: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.871: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:52.975: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.079: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.182: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.286: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.390: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.493: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.596: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.699: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.804: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:53.908: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.011: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.114: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.218: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.321: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.423: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.528: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:32:54.528: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+00:32:54.528: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37592?&latency=200000 failed: No such process
+00:32:54.539: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+00:32:54.539: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+00:32:54.539: ==== Streaming Stop ================================================
+00:34:20.674: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+00:34:20.674: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+00:34:20.777: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:20.880: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:20.983: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.085: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.190: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.292: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.395: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.498: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.602: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.707: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.811: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:21.913: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.015: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.117: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.222: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.326: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.428: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.533: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.637: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.739: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.844: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:22.949: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.052: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.156: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.260: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.363: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.467: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.570: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:34:23.675: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+00:34:23.676: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37592?&latency=200000 failed: No such process
+00:34:23.686: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+00:34:23.686: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+00:34:23.687: ==== Streaming Stop ================================================
+00:41:19.209: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+00:41:19.209: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+00:41:19.313: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:19.418: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:19.521: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:19.625: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:19.728: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:19.832: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:19.934: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.037: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.140: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.243: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.345: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.447: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.550: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.654: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.757: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.861: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:20.964: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.068: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.171: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.274: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.376: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.479: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.582: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.685: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.789: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.893: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:21.998: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:22.102: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:22.205: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+00:41:22.226: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+00:41:22.226: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37592?&latency=200000 failed: No such process
+00:41:22.237: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+00:41:22.237: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+00:41:22.237: ==== Streaming Stop ================================================
+00:48:50.823: Settings changed (stream 1, outputs)
+00:48:50.823: ------------------------------------------------
+00:48:53.580: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+00:48:53.580: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+00:48:53.612: [texture-amf-h264: 'simple_video_stream'] settings:
+00:48:53.612: 	rate_control: CBR
+00:48:53.612: 	bitrate:      2500
+00:48:53.612: 	cqp:          20
+00:48:53.612: 	keyint:       250
+00:48:53.612: 	preset:       balanced
+00:48:53.612: 	profile:      high
+00:48:53.612: 	b-frames:     3
+00:48:53.612: 	width:        1280
+00:48:53.612: 	height:       720
+00:48:53.612: 	params:       (none)
+00:48:53.614: ---------------------------------
+00:48:53.614: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo
+00:48:53.614: 
+00:48:53.619: ==== Streaming Start ===============================================
+01:06:57.497: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:06:57.497: process_packet: Error writing packet: I/O error
+01:06:57.497: Output 'simple_stream': stopping
+01:06:57.497: Output 'simple_stream': Total frames output: 32500
+01:06:57.497: Output 'simple_stream': Total drawn frames: 32517
+01:06:57.497: Output 'simple_stream': Reconnecting in 2.00 seconds..
+01:06:57.497: ---------------------------------
+01:06:57.497: [obs-ffmpeg mpegts muxer / libsrt]: Session Summary
+01:06:57.497: 	time elapsed [0.0 sec]
+01:06:57.497: 	mean speed [0.0 Mbp]
+01:06:57.497: 	total bytes sent [0.0 MB]
+01:06:57.497: 	bytes retransmitted [0.0 %]
+01:06:57.497: 	bytes dropped [0.0 %]
+01:06:57.497: 
+01:06:57.518: [obs-ffmpeg mpegts muxer / libsrt]: SRT connection closed
+01:06:59.498: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:06:59.498: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:06:59.602: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:06:59.705: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:06:59.809: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:06:59.913: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.015: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.119: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.222: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.327: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.429: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.534: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.638: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.742: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.845: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:00.948: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.051: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.154: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.258: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.362: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.465: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.570: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.673: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.776: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.880: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:01.982: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:02.085: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:02.189: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:02.292: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:02.396: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:02.500: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:02.500: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:07:02.500: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:07:02.510: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:07:02.510: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:07:02.510: Output 'simple_stream': Reconnecting in 2.94 seconds..
+01:07:05.448: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:07:05.448: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:07:05.551: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:05.654: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:05.758: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:05.861: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:05.965: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.068: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.172: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.275: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.379: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.483: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.588: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.691: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.794: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:06.898: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.002: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.105: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.208: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.312: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.416: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.519: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.624: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.728: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.832: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:07.934: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:08.036: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:08.141: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:08.243: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:08.346: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:08.450: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:08.450: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:07:08.450: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:07:08.460: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:07:08.460: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:07:08.460: Output 'simple_stream': Reconnecting in 4.31 seconds..
+01:07:12.775: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:07:12.775: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:07:12.877: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:12.980: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.084: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.188: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.292: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.395: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.499: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.602: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.705: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.810: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:13.913: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.017: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.120: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.224: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.328: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.430: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.533: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.638: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.742: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.844: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:14.947: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.051: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.154: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.256: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.359: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.462: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.565: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.667: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.771: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:15.782: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:07:15.782: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:07:15.792: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:07:15.792: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:07:15.792: Output 'simple_stream': Reconnecting in 6.34 seconds..
+01:07:22.130: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:07:22.130: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:07:22.232: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.335: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.440: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.543: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.645: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.750: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.853: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:22.958: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.064: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.166: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.268: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.373: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.476: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.580: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.683: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.787: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.890: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:23.994: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.099: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.202: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.306: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.411: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.513: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.617: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.720: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.823: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:24.927: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:25.032: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:25.134: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:25.134: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:07:25.134: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:07:25.146: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:07:25.146: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:07:25.146: Output 'simple_stream': Reconnecting in 9.31 seconds..
+01:07:34.455: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:07:34.455: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:07:34.558: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:34.662: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:34.766: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:34.869: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:34.972: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.075: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.179: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.283: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.387: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.493: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.595: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.698: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.802: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:35.906: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.011: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.113: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.216: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.317: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.422: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.526: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.631: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.736: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.838: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:36.942: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:37.046: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:37.149: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:37.252: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:37.356: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:37.459: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:37.460: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:07:37.460: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:07:37.470: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:07:37.470: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:07:37.470: Output 'simple_stream': Reconnecting in 13.67 seconds..
+01:07:51.145: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:07:51.145: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:07:51.251: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.354: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.458: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.562: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.666: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.769: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.873: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:51.978: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.081: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.184: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.287: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.390: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.493: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.597: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.700: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.804: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:52.909: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.012: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.116: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.219: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.322: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.424: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.529: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.634: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.737: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.841: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:53.945: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:54.048: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:54.151: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:07:54.151: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:07:54.151: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:07:54.162: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:07:54.162: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:07:54.162: Output 'simple_stream': Reconnecting in 20.09 seconds..
+01:08:14.249: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:08:14.250: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:08:14.353: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:14.457: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:14.560: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:14.664: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:14.769: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:14.873: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:14.975: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.077: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.182: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.286: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.391: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.494: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.596: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.699: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.804: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:15.906: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.011: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.115: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.218: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.323: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.427: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.531: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.634: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.737: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.840: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:16.943: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:17.047: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:17.150: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:17.254: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:08:17.254: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:08:17.266: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:08:17.266: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:08:17.266: Output 'simple_stream': Reconnecting in 29.51 seconds..
+01:08:46.773: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:08:46.773: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:08:46.877: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:46.979: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.083: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.185: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.290: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.394: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.497: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.601: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.702: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.806: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:47.908: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.012: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.114: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.219: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.322: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.426: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.528: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.632: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.735: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.840: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:48.943: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.046: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.150: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.255: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.358: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.462: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.566: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.669: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.771: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:08:49.792: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:08:49.792: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:08:49.802: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:08:49.802: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:08:49.802: Output 'simple_stream': Reconnecting in 43.35 seconds..
+01:09:33.148: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:09:33.148: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:09:33.250: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.353: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.457: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.560: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.664: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.768: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.873: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:33.975: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.079: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.183: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.286: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.388: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.492: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.594: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.696: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.799: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:34.902: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.006: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.107: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.209: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.312: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.416: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.522: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.625: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.727: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.831: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:35.933: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:36.038: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:36.143: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:09:36.164: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:09:36.164: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:09:36.175: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:09:36.175: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:09:36.175: Output 'simple_stream': Reconnecting in 63.67 seconds..
+01:10:39.849: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:10:39.849: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:10:39.951: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.053: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.158: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.262: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.365: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.470: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.573: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.676: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.781: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.886: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:40.990: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.094: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.197: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.301: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.405: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.507: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.610: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.712: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.815: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:41.918: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.021: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.124: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.227: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.329: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.433: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.536: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.638: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.742: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.845: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:10:42.866: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:10:42.866: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:10:42.877: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:10:42.877: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:10:42.877: Output 'simple_stream': Reconnecting in 93.54 seconds..
+01:12:16.412: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:12:16.412: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:12:16.517: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:16.622: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:16.726: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:16.830: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:16.932: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.036: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.140: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.243: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.347: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.451: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.553: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.657: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.761: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.865: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:17.969: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.072: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.177: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.281: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.385: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.490: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.593: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.697: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.802: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:18.905: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:19.009: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:19.113: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:19.217: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:19.321: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, Unknown or erroneous
+01:12:19.413: [obs-ffmpeg mpegts muxer / libsrt]: Connection rejected, wrong password or invalid URL
+01:12:19.413: [obs-ffmpeg mpegts muxer / libsrt]: Connection to srt://47.153.162.52:37691?&latency=200000 failed: No such process
+01:12:19.424: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url or invalid stream
+01:12:19.425: [obs-ffmpeg mpegts muxer: 'simple_stream']: Failed to open the url
+01:12:19.425: Output 'simple_stream': Reconnecting in 137.40 seconds..
+01:13:27.043: ==== Streaming Stop ================================================
+01:13:34.666: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:13:34.666: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:13:34.700: [texture-amf-h264: 'simple_video_stream'] settings:
+01:13:34.700: 	rate_control: CBR
+01:13:34.700: 	bitrate:      2500
+01:13:34.700: 	cqp:          20
+01:13:34.700: 	keyint:       250
+01:13:34.700: 	preset:       balanced
+01:13:34.700: 	profile:      high
+01:13:34.700: 	b-frames:     3
+01:13:34.700: 	width:        1280
+01:13:34.700: 	height:       720
+01:13:34.700: 	params:       (none)
+01:13:34.702: ---------------------------------
+01:13:34.702: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo
+01:13:34.702: 
+01:13:34.707: ==== Streaming Start ===============================================
+01:26:19.835: Output 'simple_stream': stopping
+01:26:19.835: Output 'simple_stream': Total frames output: 22938
+01:26:19.835: Output 'simple_stream': Total drawn frames: 22955
+01:26:19.837: ==== Streaming Stop ================================================
+01:26:19.837: ---------------------------------
+01:26:19.837: [obs-ffmpeg mpegts muxer / libsrt]: Session Summary
+01:26:19.837: 	time elapsed [765.2 sec]
+01:26:19.837: 	mean speed [2.8 Mbp]
+01:26:19.837: 	total bytes sent [267.1 MB]
+01:26:19.837: 	bytes retransmitted [0.0 %]
+01:26:19.837: 	bytes dropped [0.0 %]
+01:26:19.837: 
+01:26:19.868: [obs-ffmpeg mpegts muxer / libsrt]: SRT connection closed
+01:55:07.316: Settings changed (stream 1, outputs)
+01:55:07.316: ------------------------------------------------
+01:55:08.703: [obs-ffmpeg mpegts muxer: 'simple_stream']: Output format name and long_name: mpegts, MPEG-TS (MPEG-2 Transport Stream)
+01:55:08.703: [obs-ffmpeg mpegts muxer / libsrt]: libsrt version 1.5.2 loaded
+01:55:08.749: [texture-amf-h264: 'simple_video_stream'] settings:
+01:55:08.749: 	rate_control: CBR
+01:55:08.749: 	bitrate:      2500
+01:55:08.749: 	cqp:          20
+01:55:08.749: 	keyint:       250
+01:55:08.749: 	preset:       balanced
+01:55:08.749: 	profile:      high
+01:55:08.749: 	b-frames:     3
+01:55:08.749: 	width:        1280
+01:55:08.749: 	height:       720
+01:55:08.749: 	params:       (none)
+01:55:08.752: ---------------------------------
+01:55:08.752: [FFmpeg aac encoder: 'simple_aac'] bitrate: 160, channels: 2, channel_layout: stereo
+01:55:08.752: 
+01:55:08.759: ==== Streaming Start ===============================================
+02:11:55.961: Output 'simple_stream': stopping
+02:11:55.961: Output 'simple_stream': Total frames output: 30200
+02:11:55.961: Output 'simple_stream': Total drawn frames: 30218
+02:11:55.963: ==== Streaming Stop ================================================
+02:11:55.963: ---------------------------------
+02:11:55.963: [obs-ffmpeg mpegts muxer / libsrt]: Session Summary
+02:11:55.963: 	time elapsed [1007.3 sec]
+02:11:55.963: 	mean speed [2.8 Mbp]
+02:11:55.963: 	total bytes sent [351.6 MB]
+02:11:55.963: 	bytes retransmitted [0.0 %]
+02:11:55.963: 	bytes dropped [0.0 %]
+02:11:55.963: 
+02:11:55.994: [obs-ffmpeg mpegts muxer / libsrt]: SRT connection closed
+02:31:44.856: ==== Shutting down ==================================================
+02:31:44.861: os_quick_write_utf8_file_safe: failed to write to ../../config/obs-studio/basic/scenes/vMix_Transmit.json.tmp
+02:31:44.861: Could not save scene data to ../../config/obs-studio/basic/scenes/vMix_Transmit.json
+02:31:44.872: [DistroAV] 'NDI® Source' ndi_source_hidden(…)
+02:31:44.872: [DistroAV] 'NDI® Source' ndi_source_hidden: Requesting Source Thread Stop.
+02:31:44.883: [DistroAV] 'NDI® Source' -ndi_source_thread(…)
+02:31:44.884: [DistroAV] 'NDI® Source' ndi_source_thread_stop: Stopped A/V ndi_source_thread for NDI source 'DESKTOP-BD5ELCH (vMix - Output 1)'
+02:31:44.900: [adv-ss] stopped
+02:31:44.906: [adv-ss] reset transition behaviour to adjust active transition type
+02:31:44.913: [adv-ss] started
+02:31:44.929: [DistroAV] 'NDI® Source' +ndi_source_destroy(…)
+02:31:44.929: [DistroAV] 'NDI® Source' -ndi_source_destroy(…)
+02:31:45.001: All scene data cleared
+02:31:45.002: ------------------------------------------------
+02:31:45.003: [obs-multi-rtmp] Save 0 targets, 0 video configs, 0 audio configs
+02:31:45.018: [obs-multi-rtmp] Save config into ../../config/obs-studio/basic/profiles/srt_relay_testing/obs-multi-rtmp.json
+02:31:45.019: [DistroAV] +main_output_deinit()
+02:31:45.019: [DistroAV] +main_output_stop()
+02:31:45.019: [DistroAV] main_output_stop: NDI main output `OBS` is not running
+02:31:45.019: [DistroAV] -main_output_stop()
+02:31:45.019: [DistroAV] main_output_deinit: releasing NDI main output 'OBS'
+02:31:45.019: [DistroAV] +ndi_output_destroy(name='OBS', groups='', ...)
+02:31:45.019: [DistroAV] -ndi_output_destroy(name='OBS', groups='', ...)
+02:31:45.019: [DistroAV] main_output_deinit: successfully released NDI main output ''
+02:31:45.019: [DistroAV] -main_output_deinit()
+02:31:45.019: [DistroAV] +preview_output_deinit()
+02:31:45.019: [DistroAV] +preview_output_stop()
+02:31:45.019: [DistroAV] preview_output_stop: NDI preview output 'OBS Preview' is not running
+02:31:45.019: [DistroAV] -preview_output_stop()
+02:31:45.019: [DistroAV] preview_output_deinit: releasing NDI preview output 'OBS Preview'
+02:31:45.019: [DistroAV] +ndi_output_destroy(name='OBS Preview', groups='', ...)
+02:31:45.019: [DistroAV] -ndi_output_destroy(name='OBS Preview', groups='', ...)
+02:31:45.019: [DistroAV] preview_output_deinit: successfully released NDI preview output ''
+02:31:45.019: [DistroAV] -preview_output_deinit()
+02:31:45.057: config_save_safe: failed to write to ../../config/obs-studio/global.ini.tmp
+02:31:45.161: Tried to call obs_frontend_remove_save_callback with no callbacks!
+02:31:45.162: Tried to call obs_frontend_remove_event_callback with no callbacks!
+02:31:45.162: Tried to call obs_frontend_remove_save_callback with no callbacks!
+02:31:45.162: Tried to call obs_frontend_remove_save_callback with no callbacks!
+02:31:45.163: [obs-websocket] [obs_module_unload] Shutting down...
+02:31:45.165: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+02:31:45.165: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+02:31:45.166: Tried to call obs_frontend_remove_event_callback with no callbacks!
+02:31:45.166: [obs-websocket] [obs_module_unload] Finished shutting down.
+02:31:45.167: [obs-plugin-countdown] plugin unloaded
+02:31:45.215: Tried to call obs_frontend_get_current_scene with no callbacks!
+02:31:45.222: [Scripting] Total detached callbacks: 0
+02:31:45.222: [DistroAV] +obs_module_unload()
+02:31:45.222: [DistroAV] +updateCheckStop()
+02:31:45.222: [DistroAV] -updateCheckStop()
+02:31:45.224: [DistroAV] -obs_module_unload(): goodbye!
+02:31:45.226: [adv-ss] stopped
+02:31:45.226: Freeing OBS context data
+02:31:45.306: == Profiler Results =============================
+02:31:45.306: run_program_init: 50771 ms
+02:31:45.306:  ┣OBSApp::AppInit: 55.859 ms
+02:31:45.306:  ┃ ┗OBSApp::InitLocale: 9.753 ms
+02:31:45.306:  ┗OBSApp::OBSInit: 50499.2 ms
+02:31:45.306:    ┣obs_startup: 2.676 ms
+02:31:45.306:    ┗OBSBasic::OBSInit: 50218.9 ms
+02:31:45.306:      ┣OBSBasic::InitBasicConfig: 0.388 ms
+02:31:45.306:      ┣OBSBasic::ResetAudio: 0.122 ms
+02:31:45.306:      ┣OBSBasic::ResetVideo: 530.091 ms
+02:31:45.306:      ┃ ┗obs_init_graphics: 529.324 ms
+02:31:45.306:      ┃   ┗shader compilation: 447.101 ms
+02:31:45.306:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+02:31:45.306:      ┣OBSBasic::InitHotkeys: 0.021 ms
+02:31:45.306:      ┣obs_load_all_modules2: 46399 ms
+02:31:45.306:      ┃ ┣obs_init_module(advanced-scene-switcher.dll): 32373.4 ms
+02:31:45.306:      ┃ ┣obs_init_module(aja-output-ui.dll): 2.473 ms
+02:31:45.306:      ┃ ┣obs_init_module(aja.dll): 0.985 ms
+02:31:45.306:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.838 ms
+02:31:45.306:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+02:31:45.306:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+02:31:45.306:      ┃ ┣obs_init_module(decklink.dll): 0.998 ms
+02:31:45.306:      ┃ ┣obs_init_module(distroav.dll): 63.932 ms
+02:31:45.306:      ┃ ┣obs_init_module(frontend-tools.dll): 4.937 ms
+02:31:45.306:      ┃ ┣obs_init_module(gradient-source.dll): 0.057 ms
+02:31:45.306:      ┃ ┣obs_init_module(image-source.dll): 0.017 ms
+02:31:45.306:      ┃ ┣obs_init_module(move-transition.dll): 0.892 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-advanced-masks.dll): 0.028 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-browser.dll): 5.206 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 140.957 ms
+02:31:45.306:      ┃ ┃ ┗nvenc_check: 0.361 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-filters.dll): 1.184 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-multi-rtmp.dll): 12.287 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-outputs.dll): 0.014 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-plugin-countdown.dll): 12.619 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-qsv11.dll): 41.301 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-shaderfilter.dll): 0.031 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-text.dll): 0.196 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-transitions.dll): 0.018 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-vst.dll): 0.011 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.258 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-websocket.dll): 12.972 ms
+02:31:45.306:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+02:31:45.306:      ┃ ┣obs_init_module(rtmp-services.dll): 5.178 ms
+02:31:45.306:      ┃ ┣obs_init_module(scene-as-transition.dll): 0.04 ms
+02:31:45.306:      ┃ ┣obs_init_module(source-clone.dll): 0.006 ms
+02:31:45.306:      ┃ ┣obs_init_module(source-copy.dll): 0.698 ms
+02:31:45.306:      ┃ ┣obs_init_module(streamup.dll): 11.226 ms
+02:31:45.306:      ┃ ┣obs_init_module(text-freetype2.dll): 0.076 ms
+02:31:45.306:      ┃ ┣obs_init_module(time-warp-scan.dll): 0.027 ms
+02:31:45.306:      ┃ ┣obs_init_module(transition-table.dll): 0.069 ms
+02:31:45.306:      ┃ ┣obs_init_module(vlc-video.dll): 76.363 ms
+02:31:45.306:      ┃ ┣obs_init_module(waveform.dll): 0.08 ms
+02:31:45.306:      ┃ ┣obs_init_module(win-capture.dll): 12.715 ms
+02:31:45.306:      ┃ ┣obs_init_module(win-dshow.dll): 1.213 ms
+02:31:45.306:      ┃ ┣obs_init_module(win-wasapi.dll): 11.17 ms
+02:31:45.306:      ┃ ┣obs_init_module(xObsAsyncImageSource.dll): 0.076 ms
+02:31:45.306:      ┃ ┗reset_win32_symbol_paths: 0.219 ms
+02:31:45.306:      ┣OBSBasic::InitService: 10.594 ms
+02:31:45.306:      ┣OBSBasic::ResetOutputs: 1.436 ms
+02:31:45.306:      ┣OBSBasic::CreateHotkeys: 0.02 ms
+02:31:45.306:      ┣OBSBasic::InitPrimitives: 0.421 ms
+02:31:45.306:      ┗OBSBasic::Load: 1054.56 ms
+02:31:45.306: obs_hotkey_thread(25 ms): min=0.001 ms, median=0.005 ms, max=282.133 ms, 99th percentile=0.091 ms, 99.994% below 25 ms
+02:31:45.306: audio_thread(Audio): min=0.005 ms, median=0.099 ms, max=214.21 ms, 99th percentile=0.508 ms
+02:31:45.306:  ┗receive_audio: min=0.001 ms, median=0.079 ms, max=4.504 ms, 99th percentile=0.456 ms, 0.745736 calls per parent call
+02:31:45.306:    ┣buffer_audio: min=0 ms, median=0 ms, max=0.076 ms, 99th percentile=0.001 ms
+02:31:45.306:    ┗do_encode: min=0.012 ms, median=0.077 ms, max=4.501 ms, 99th percentile=0.453 ms
+02:31:45.306:      ┣encode(simple_aac): min=0.037 ms, median=0.067 ms, max=4.49 ms, 99th percentile=0.494 ms, 0.78371 calls per parent call
+02:31:45.306:      ┣send_packet: min=0.001 ms, median=0.007 ms, max=3.403 ms, 99th percentile=0.022 ms
+02:31:45.306:      ┣encode(simple_aac): min=0.011 ms, median=0.065 ms, max=0.105 ms, 99th percentile=0.105 ms, 3.71715e-05 calls per parent call
+02:31:45.306:      ┣encode(simple_aac): min=0.01 ms, median=0.069 ms, max=0.297 ms, 99th percentile=0.12 ms, 0.139991 calls per parent call
+02:31:45.306:      ┗encode(simple_aac): min=0.018 ms, median=0.071 ms, max=0.268 ms, 99th percentile=0.122 ms, 0.0762614 calls per parent call
+02:31:45.306: obs_graphics_thread(16.6667 ms): min=0.049 ms, median=0.088 ms, max=1511.49 ms, 99th percentile=1.122 ms, 99.8292% below 16.667 ms
+02:31:45.306:  ┣tick_sources: min=0 ms, median=0.001 ms, max=1509.88 ms, 99th percentile=0.129 ms
+02:31:45.306:  ┣output_frame: min=0.042 ms, median=0.083 ms, max=1.606 ms, 99th percentile=0.385 ms
+02:31:45.306:  ┃ ┗gs_context(video->graphics): min=0.042 ms, median=0.083 ms, max=1.605 ms, 99th percentile=0.384 ms
+02:31:45.306:  ┃   ┣render_video: min=0.003 ms, median=0.005 ms, max=0.691 ms, 99th percentile=0.225 ms
+02:31:45.306:  ┃   ┃ ┗render_main_texture: min=0.002 ms, median=0.003 ms, max=0.69 ms, 99th percentile=0.223 ms
+02:31:45.306:  ┃   ┗gs_flush: min=0.037 ms, median=0.077 ms, max=1.592 ms, 99th percentile=0.254 ms
+02:31:45.306:  ┗render_displays: min=0 ms, median=0.001 ms, max=7.199 ms, 99th percentile=0.696 ms
+02:31:45.306: OBSBasic::ResetVideo: min=2.903 ms, median=0 ms, max=16.581 ms, 99th percentile=16.581 ms
+02:31:45.306: obs_graphics_thread(16.6667 ms): min=0.139 ms, median=0.697 ms, max=297.952 ms, 99th percentile=1.155 ms, 99.9928% below 16.667 ms
+02:31:45.306:  ┣tick_sources: min=0.003 ms, median=0.006 ms, max=0.415 ms, 99th percentile=0.011 ms
+02:31:45.306:  ┣output_frame: min=0.105 ms, median=0.413 ms, max=228.577 ms, 99th percentile=0.67 ms
+02:31:45.306:  ┃ ┗gs_context(video->graphics): min=0.105 ms, median=0.413 ms, max=228.574 ms, 99th percentile=0.67 ms
+02:31:45.306:  ┃   ┣render_video: min=0.011 ms, median=0.409 ms, max=228.57 ms, 99th percentile=0.665 ms
+02:31:45.306:  ┃   ┃ ┣render_main_texture: min=0.005 ms, median=0.038 ms, max=228.212 ms, 99th percentile=0.283 ms
+02:31:45.306:  ┃   ┃ ┣render_convert_texture: min=0.005 ms, median=0.011 ms, max=1.328 ms, 99th percentile=0.021 ms
+02:31:45.306:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.038 ms, max=6.463 ms, 99th percentile=0.084 ms
+02:31:45.306:  ┃   ┗gs_flush: min=0.001 ms, median=0.002 ms, max=4.836 ms, 99th percentile=0.004 ms
+02:31:45.306:  ┗render_displays: min=0.001 ms, median=0.337 ms, max=297.575 ms, 99th percentile=0.594 ms
+02:31:45.306: OBSBasic::InitService: min=5.282 ms, median=0 ms, max=5.44 ms, 99th percentile=5.44 ms
+02:31:45.306: OBSBasic::ResetOutputs: min=0.16 ms, median=0.256 ms, max=1.103 ms, 99th percentile=1.103 ms
+02:31:45.306: OBSBasic::CreateHotkeys: min=0.021 ms, median=0 ms, max=0.037 ms, 99th percentile=0.037 ms
+02:31:45.306: OBSBasicSettings::LoadThemeList: min=0.03 ms, median=0.033 ms, max=0.055 ms, 99th percentile=0.055 ms
+02:31:45.306: obs_gpu_encode_thread(16.6667 ms): min=0.058 ms, median=0.299 ms, max=158.601 ms, 99th percentile=0.573 ms, 99.9944% below 16.667 ms
+02:31:45.306:  ┣gpu_encode_frame: min=0.054 ms, median=0.287 ms, max=158.582 ms, 99th percentile=0.556 ms
+02:31:45.306:  ┗send_packet: min=0 ms, median=0.007 ms, max=0.616 ms, 99th percentile=0.03 ms
+02:31:45.306: obs_graphics_thread(33.3333 ms): min=0.16 ms, median=0.867 ms, max=20.296 ms, 99th percentile=1.186 ms, 100% below 33.333 ms
+02:31:45.306:  ┣tick_sources: min=0.002 ms, median=0.008 ms, max=12.039 ms, 99th percentile=0.013 ms
+02:31:45.306:  ┣output_frame: min=0.151 ms, median=0.386 ms, max=18.325 ms, 99th percentile=0.652 ms
+02:31:45.306:  ┃ ┗gs_context(video->graphics): min=0.151 ms, median=0.385 ms, max=18.322 ms, 99th percentile=0.651 ms
+02:31:45.306:  ┃   ┣render_video: min=0.008 ms, median=0.21 ms, max=3.178 ms, 99th percentile=0.644 ms
+02:31:45.306:  ┃   ┃ ┣render_main_texture: min=0.004 ms, median=0.196 ms, max=2.026 ms, 99th percentile=0.303 ms
+02:31:45.306:  ┃   ┃ ┣render_output_texture: min=0.003 ms, median=0.004 ms, max=0.178 ms, 99th percentile=0.008 ms, 0.393132 calls per parent call
+02:31:45.306:  ┃   ┃ ┣render_convert_texture: min=0.006 ms, median=0.013 ms, max=0.124 ms, 99th percentile=0.023 ms, 0.393132 calls per parent call
+02:31:45.306:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.04 ms, max=0.222 ms, 99th percentile=0.079 ms, 0.393132 calls per parent call
+02:31:45.306:  ┃   ┗gs_flush: min=0 ms, median=0.148 ms, max=18.081 ms, 99th percentile=0.239 ms
+02:31:45.306:  ┗render_displays: min=0.001 ms, median=0.438 ms, max=5.406 ms, 99th percentile=0.617 ms
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=0.23 ms, median=0.416 ms, max=3.337 ms, 99th percentile=3.337 ms, 100% below 33.333 ms
+02:31:45.306:  ┣gpu_encode_frame: min=0.217 ms, median=0.404 ms, max=2.271 ms, 99th percentile=2.271 ms
+02:31:45.306:  ┗send_packet: min=0.002 ms, median=0.009 ms, max=2.926 ms, 99th percentile=2.926 ms, 0.862069 calls per parent call
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=0.168 ms, median=0.309 ms, max=2.319 ms, 99th percentile=0.541 ms, 100% below 33.333 ms
+02:31:45.306:  ┣gpu_encode_frame: min=0.155 ms, median=0.295 ms, max=2.315 ms, 99th percentile=0.524 ms
+02:31:45.306:  ┗send_packet: min=0.001 ms, median=0.008 ms, max=0.189 ms, 99th percentile=0.026 ms
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=0.179 ms, median=0.314 ms, max=2.703 ms, 99th percentile=0.558 ms, 100% below 33.333 ms
+02:31:45.306:  ┣gpu_encode_frame: min=0.169 ms, median=0.299 ms, max=2.698 ms, 99th percentile=0.541 ms
+02:31:45.306:  ┗send_packet: min=0.002 ms, median=0.009 ms, max=0.237 ms, 99th percentile=0.021 ms
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=0.19 ms, median=0.316 ms, max=2.743 ms, 99th percentile=0.56 ms, 100% below 33.333 ms
+02:31:45.306:  ┣gpu_encode_frame: min=0.178 ms, median=0.3 ms, max=2.738 ms, 99th percentile=0.544 ms
+02:31:45.306:  ┗send_packet: min=0.001 ms, median=0.009 ms, max=0.159 ms, 99th percentile=0.025 ms
+02:31:45.306: =================================================
+02:31:45.306: == Profiler Time Between Calls ==================
+02:31:45.306: obs_hotkey_thread(25 ms): min=24.1 ms, median=25.39 ms, max=306.447 ms, 64.3306% within ±2% of 25 ms (0.00114998% lower, 35.6682% higher)
+02:31:45.306: obs_graphics_thread(16.6667 ms): min=0.528 ms, median=16.667 ms, max=1511.5 ms, 99.6868% within ±2% of 16.667 ms (0.142369% lower, 0.170843% higher)
+02:31:45.306: obs_graphics_thread(16.6667 ms): min=0.514 ms, median=16.667 ms, max=297.97 ms, 99.9513% within ±2% of 16.667 ms (0.0239428% lower, 0.0247462% higher)
+02:31:45.306: obs_gpu_encode_thread(16.6667 ms): min=0.065 ms, median=16.664 ms, max=411.18 ms, 91.2545% within ±2% of 16.667 ms (4.3895% lower, 4.35599% higher)
+02:31:45.306: obs_graphics_thread(33.3333 ms): min=31.313 ms, median=33.333 ms, max=35.354 ms, 99.9936% within ±2% of 33.333 ms (0.00321049% lower, 0.00321049% higher)
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=33.244 ms, median=33.333 ms, max=33.433 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=31.077 ms, median=33.332 ms, max=35.59 ms, 99.9908% within ±2% of 33.333 ms (0.00307569% lower, 0.00615139% higher)
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=30.755 ms, median=33.333 ms, max=36.045 ms, 99.939% within ±2% of 33.333 ms (0.0304998% lower, 0.0304998% higher)
+02:31:45.306: obs_gpu_encode_thread(33.3333 ms): min=30.855 ms, median=33.332 ms, max=35.93 ms, 99.9669% within ±2% of 33.333 ms (0.0132393% lower, 0.019859% higher)
+02:31:45.306: =================================================
+02:31:45.536: Number of memory leaks: 38

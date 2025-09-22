@@ -1,0 +1,476 @@
+00:53:57.619: ================================
+00:53:57.619: Warning: OBS is already running!
+00:53:57.619: ================================
+00:53:57.619: User is now running multiple instances of OBS!
+00:53:57.619: Command Line Arguments: --portable
+00:53:57.619: CPU Name: AMD Ryzen 7 9700X 8-Core Processor             
+00:53:57.619: CPU Speed: 3793MHz
+00:53:57.619: Physical Cores: 8, Logical Cores: 16
+00:53:57.619: Physical Memory: 31860MB Total, 15198MB Free
+00:53:57.619: Windows Version: 10.0 Build 26100 (release: 24H2; revision: 4946; 64-bit)
+00:53:57.619: Running as administrator: false
+00:53:57.619: Windows 10/11 Gaming Features:
+00:53:57.619: 	Game Bar: On
+00:53:57.619: 	Game DVR: On
+00:53:57.619: 	Game DVR Background Recording: Off
+00:53:57.619: 	Game Mode: Probably On (no reg key set)
+00:53:57.620: Sec. Software Status:
+00:53:57.621: 	Microsoft Defender Antivirus: enabled (AV)
+00:53:57.621: 	Windows Firewall: enabled (FW)
+00:53:57.621: Current Date/Time: 2025-09-12, 00:53:57
+00:53:57.621: Browser Hardware Acceleration: false
+00:53:57.621: Hide OBS windows from screen capture: false
+00:53:57.621: Qt Version: 6.6.3 (runtime), 6.6.3 (compiled)
+00:53:57.621: Portable mode: true
+00:53:57.647: OBS 30.2.3 (64-bit, windows)
+00:53:57.647: ---------------------------------
+00:53:57.681: ---------------------------------
+00:53:57.681: audio settings reset:
+00:53:57.681: 	samples per sec: 48000
+00:53:57.681: 	speakers:        2
+00:53:57.681: 	max buffering:   960 milliseconds
+00:53:57.681: 	buffering type:  dynamically increasing
+00:53:57.682: ---------------------------------
+00:53:57.682: Initializing D3D11...
+00:53:57.682: Available Video Adapters: 
+00:53:57.684: 	Adapter 0: AMD Radeon RX 7900 XT
+00:53:57.684: 	  Dedicated VRAM: 21458059264 (20.0 GiB)
+00:53:57.684: 	  Shared VRAM:    16704299008 (15.6 GiB)
+00:53:57.684: 	  PCI ID:         1002:744c
+00:53:57.684: 	  HAGS Status:    Enabled (Default: No, Driver status: Supported)
+00:53:57.684: 	  Driver Version: 32.0.21025.10016
+00:53:57.685: 	  output 0:
+00:53:57.685: 	    name=H27T22
+00:53:57.685: 	    pos={0, 0}
+00:53:57.685: 	    size={2560, 1440}
+00:53:57.685: 	    attached=true
+00:53:57.685: 	    refresh=170
+00:53:57.685: 	    bits_per_color=10
+00:53:57.685: 	    space=RGB_FULL_G22_NONE_P709
+00:53:57.685: 	    primaries=[r=(0.639648, 0.330078), g=(0.299805, 0.599609), b=(0.150391, 0.059570), wp=(0.312500, 0.329102)]
+00:53:57.685: 	    relative_gamut_area=[709=0.998664, P3=0.736186, 2020=0.528164]
+00:53:57.685: 	    sdr_white_nits=80
+00:53:57.685: 	    nit_range=[min=0.000500, max=374.000000, max_full_frame=243.000000]
+00:53:57.685: 	    dpi=120 (125%)
+00:53:57.685: 	    id=\\?\DISPLAY#SKG2716#7&3092f87e&1&UID264#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:53:57.685: 	    alt_id=\\.\DISPLAY2
+00:53:57.685: 	  output 1:
+00:53:57.685: 	    name=27B2H2
+00:53:57.685: 	    pos={296, -1080}
+00:53:57.685: 	    size={1920, 1080}
+00:53:57.685: 	    attached=true
+00:53:57.685: 	    refresh=59
+00:53:57.685: 	    bits_per_color=8
+00:53:57.685: 	    space=RGB_FULL_G22_NONE_P709
+00:53:57.685: 	    primaries=[r=(0.659180, 0.327148), g=(0.328125, 0.607422), b=(0.150391, 0.059570), wp=(0.313477, 0.329102)]
+00:53:57.685: 	    relative_gamut_area=[709=1.031607, P3=0.760471, 2020=0.545587]
+00:53:57.685: 	    sdr_white_nits=80
+00:53:57.685: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+00:53:57.685: 	    dpi=96 (100%)
+00:53:57.685: 	    id=\\?\DISPLAY#AOC2702#7&3092f87e&1&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+00:53:57.685: 	    alt_id=\\.\DISPLAY1
+00:53:57.686: Loading up D3D11 on adapter AMD Radeon RX 7900 XT (0)
+00:53:57.717: D3D11 loaded successfully, feature level used: b000
+00:53:57.717: DXGI increase maximum frame latency success
+00:53:57.717: Hardware-Accelerated GPU Scheduling enabled on adapter!
+00:53:57.717: D3D11 GPU priority setup failed (not admin?)
+00:53:57.775: ---------------------------------
+00:53:57.775: video settings reset:
+00:53:57.775: 	base resolution:   1920x1080
+00:53:57.775: 	output resolution: 1280x720
+00:53:57.775: 	downscale filter:  Bicubic
+00:53:57.775: 	fps:               30/1
+00:53:57.775: 	format:            NV12
+00:53:57.775: 	YUV mode:          Rec. 709/Partial
+00:53:57.775: NV12 texture support enabled
+00:53:57.775: P010 texture support not available
+00:53:57.776: Audio monitoring device:
+00:53:57.776: 	name: Default
+00:53:57.776: 	id: default
+00:53:57.776: ---------------------------------
+00:53:57.776: Skipping module '../../obs-plugins/64bit/advanced-scene-switcher-lib.dll', not an OBS plugin
+00:53:57.779: [adv-ss] version: 1.29.0
+00:53:57.779: [adv-ss] version: 17d9b73b9a58b35a84d0346229bf4bdfaa84e676
+00:53:57.779: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+00:53:57.780: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-base.dll"
+00:53:57.780: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+00:53:57.823: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-midi.dll"
+00:53:57.823: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+00:53:57.826: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-opencv.dll"
+00:53:57.826: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+00:53:57.827: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-openvr.dll"
+00:53:57.827: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+00:53:57.827: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-stream-deck.dll"
+00:53:57.827: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+00:53:57.829: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-twitch.dll"
+00:53:57.829: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/advanced-scene-switcher-usb.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libcrypto-1_1-x64.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libssl-1_1-x64.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/libusb-1.0.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_calib3d4100.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_core4100.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_features2d4100.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_flann4100.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_imgproc4100.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/opencv_objdetect4100.dll"
+00:53:57.830: [adv-ss] attempting to load "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+00:53:57.830: [adv-ss] successfully loaded "C:/Users/Nicholas/Desktop/OBS Main/obs-plugins/64bit/advanced-scene-switcher-plugins/openvr_api.dll"
+00:53:57.835: No AJA devices found, skipping loading AJA UI plugin
+00:53:57.835: Failed to initialize module 'aja-output-ui.dll'
+00:53:57.836: No AJA devices found, skipping loading AJA plugin
+00:53:57.836: Failed to initialize module 'aja.dll'
+00:53:57.836: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+00:53:57.838: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+00:53:57.838: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+00:53:57.838: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+00:53:57.840: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:53:57.840: Failed to initialize module 'decklink.dll'
+00:53:57.841: [DistroAV] obs_module_load: you can haz DistroAV (Version 6.0.0)
+00:53:57.841: [DistroAV] obs_module_load: Qt Version: 6.6.3 (runtime), 6.6.2 (compiled)
+00:53:57.842: [DistroAV] load_ndilib: Trying 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'
+00:53:57.842: [DistroAV] load_ndilib: Found 'C:\Program Files\NDI\NDI 6 Tools\Runtime\Processing.NDI.Lib.x64.dll'; attempting to load NDI library...
+00:53:57.846: [DistroAV] load_ndilib: NDI library loaded successfully
+00:53:57.846: [DistroAV] load_ndilib: NDIlib_v5_load found
+00:53:57.853: [DistroAV] obs_module_load: NDI library initialized successfully ('NDI SDK WIN64 15:46:48 Dec 20 2024 6.1.1.0')
+00:53:57.871: [Gradient Source] loaded version 0.3.2
+00:53:57.872: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+00:53:57.872: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+00:53:57.872: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+00:53:57.872: [Move Transition] loaded version 3.1.1
+00:53:57.873: Failed to get nvARPose.dll version info size
+00:53:57.874: [Advanced Masks] loaded version 1.1.0
+00:53:57.881: [obs-browser]: Version 2.23.6
+00:53:57.881: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+gc69ad37+chromium-103.0.5060.134 (compiled)
+00:53:57.963: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+00:53:57.963: Failed to get NVVideoEffects.dll version info size
+00:53:57.964: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+00:53:57.965: QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+00:53:57.965: [obs-multi-rtmp] Load 0 targets, 0 video configs, 0 audio configs
+00:53:57.965: [obs-multi-rtmp] Load config from ../../config/obs-studio/basic/profiles/srt_relay_testing/obs-multi-rtmp.json
+00:53:57.971: [obs-multi-rtmp] version: 0.7.2.0 by SoraYuki https://github.com/sorayuki/obs-multi-rtmp/
+00:53:57.976: [obs-plugin-countdown] plugin loaded successfully (version 2.0.10)
+00:53:58.003: [obs-shaderfilter] loaded version 2.4.1
+00:53:58.006: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+00:53:58.006: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.6.3 | Qt version (run-time): 6.6.3
+00:53:58.006: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+00:53:58.011: [obs-websocket] [obs_module_load] Module loaded.
+00:53:58.013: [Scene As Transition] loaded version 1.1.1
+00:53:58.014: Failed to load 'en-US' text for module: 'source-clone.dll'
+00:53:58.014: [Source Clone] loaded version 0.1.5
+00:53:58.014: [Source Copy] loaded version 0.2.5
+00:53:58.015: [StreamUP] loaded version 1.6.0
+00:53:58.027: [TimeWarpScan] loaded version 0.1.7
+00:53:58.027: [Transition Table] loaded version 0.2.7
+00:53:58.029: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+00:53:58.030: [phandasm_waveform]: Registered v1.8.0 x64
+00:53:58.030: [phandasm_waveform]: Using CPU capabilities: AVX2 AVX FMA3 SSE2
+00:53:58.045: [xObsAsyncImageSource] Version 1.0 loaded.
+00:53:58.046: ---------------------------------
+00:53:58.046:   Loaded Modules:
+00:53:58.046:     xObsAsyncImageSource.dll
+00:53:58.046:     win-wasapi.dll
+00:53:58.046:     win-dshow.dll
+00:53:58.046:     win-capture.dll
+00:53:58.046:     waveform.dll
+00:53:58.046:     vlc-video.dll
+00:53:58.046:     transition-table.dll
+00:53:58.046:     time-warp-scan.dll
+00:53:58.046:     text-freetype2.dll
+00:53:58.046:     streamup.dll
+00:53:58.046:     source-copy.dll
+00:53:58.046:     source-clone.dll
+00:53:58.046:     scene-as-transition.dll
+00:53:58.046:     rtmp-services.dll
+00:53:58.046:     obs-x264.dll
+00:53:58.046:     obs-websocket.dll
+00:53:58.046:     obs-webrtc.dll
+00:53:58.046:     obs-vst.dll
+00:53:58.046:     obs-transitions.dll
+00:53:58.046:     obs-text.dll
+00:53:58.046:     obs-shaderfilter.dll
+00:53:58.046:     obs-qsv11.dll
+00:53:58.046:     obs-plugin-countdown.dll
+00:53:58.046:     obs-outputs.dll
+00:53:58.046:     obs-multi-rtmp.dll
+00:53:58.046:     obs-filters.dll
+00:53:58.046:     obs-ffmpeg.dll
+00:53:58.046:     obs-browser.dll
+00:53:58.046:     obs-advanced-masks.dll
+00:53:58.046:     move-transition.dll
+00:53:58.046:     image-source.dll
+00:53:58.046:     gradient-source.dll
+00:53:58.046:     frontend-tools.dll
+00:53:58.046:     distroav.dll
+00:53:58.046:     decklink-output-ui.dll
+00:53:58.046:     decklink-captions.dll
+00:53:58.046:     coreaudio-encoder.dll
+00:53:58.046:     advanced-scene-switcher.dll
+00:53:58.046: ---------------------------------
+00:53:59.862: [StreamUP] Settings loaded successfully from ../../config/obs-studio/plugin_config/streamup/configs.json
+00:53:59.862: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+00:53:59.862: [StreamUP] Path: C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\logs\
+00:53:59.877: [StreamUP] Notifications mute setting: false
+00:53:59.877: [obs-websocket] [obs_module_post_load] WebSocket server is enabled, starting...
+00:53:59.877: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+00:53:59.879: [obs-websocket] [WebSocketServer::Start] Listen failed: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+00:53:59.879: [DistroAV] +obs_module_post_load()
+00:53:59.879: [DistroAV] +updateCheckStart(userRequestCallback=nullptr)
+00:53:59.879: [DistroAV] updateCheckStart: elapsedSeconds=11790 < minAutoUpdateCheckIntervalSeconds=86400; ignoring
+00:53:59.879: [DistroAV] -updateCheckStart(userRequestCallback=nullptr)
+00:53:59.879: [DistroAV] -obs_module_post_load()
+00:53:59.879: ---------------------------------
+00:53:59.879: Available Encoders:
+00:53:59.879:   Video Encoders:
+00:53:59.879: 	- ffmpeg_svt_av1 (SVT-AV1)
+00:53:59.879: 	- ffmpeg_aom_av1 (AOM AV1)
+00:53:59.879: 	- h264_texture_amf (AMD HW H.264 (AVC))
+00:53:59.879: 	- h265_texture_amf (AMD HW H.265 (HEVC))
+00:53:59.879: 	- av1_texture_amf (AMD HW AV1)
+00:53:59.879: 	- obs_x264 (x264)
+00:53:59.879:   Audio Encoders:
+00:53:59.879: 	- ffmpeg_aac (FFmpeg AAC)
+00:53:59.879: 	- ffmpeg_opus (FFmpeg Opus)
+00:53:59.879: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+00:53:59.879: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+00:53:59.879: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+00:53:59.879: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+00:53:59.880: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+00:53:59.880: ==== Startup complete ===============================================
+00:53:59.880: Switched to Preview/Program mode
+00:53:59.880: ------------------------------------------------
+00:53:59.945: All scene data cleared
+00:53:59.945: ------------------------------------------------
+00:53:59.947: [DistroAV] 'NDI® Source' +ndi_source_create(…)
+00:53:59.947: [DistroAV] 'NDI® Source' +ndi_source_update(…)
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'NDI Source Name' changes: new_ndi_source_name='DESKTOP-BD5ELCH (vMix - Output 1)' vs config.ndi_source_name='(null)'
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Bandwidth' setting changes: new_bandwidth='0' vs config.bandwidth='0'
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Latency' setting changes: new_latency='0' vs config.latency='0'
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Framesync' setting changes: new_framesync_enabled='false' vs config.framesync_enabled='false'
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Hardware Acceleration' setting changes: new_ndi_source_name='false' vs config.ndi_source_name='false'
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Check for 'Behavior' setting changes: behavior='2' vs config.behavior='0'
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: Deactivate source output video (Actively reset the frame content)
+00:53:59.947: [DistroAV] 'NDI® Source' ndi_source_update: NDI Source 'DESKTOP-BD5ELCH (vMix - Output 1)' selected.
+00:53:59.947: [DistroAV] 'NDI® Source' -ndi_source_update(…)
+00:53:59.947: [DistroAV] 'NDI® Source' -ndi_source_create(…)
+00:53:59.948: [Media Source 'Media Source']: settings:
+00:53:59.948: 	input:                   //192.168.0.1/g/Production/MTB Rivals/FOR STREAM/VIDEOS/MR BG VIDEO.mp4
+00:53:59.948: 	input_format:            (null)
+00:53:59.948: 	speed:                   100
+00:53:59.948: 	is_looping:              yes
+00:53:59.948: 	is_linear_alpha:         no
+00:53:59.948: 	is_hw_decoding:          no
+00:53:59.948: 	is_clear_on_media_end:   yes
+00:53:59.948: 	restart_on_activate:     no
+00:53:59.948: 	close_when_inactive:     no
+00:53:59.948: 	full_decode:             no
+00:53:59.948: 	ffmpeg_options:          
+00:53:59.953: Switched to scene 'Scene'
+00:53:59.953: User switched Program to scene 'Technical Difficulties'
+00:53:59.954: ------------------------------------------------
+00:53:59.954: Loaded scenes:
+00:53:59.954: - scene 'Scene':
+00:53:59.954:     - source: 'NDI® Source' (ndi_source)
+00:53:59.954: - scene 'Technical Difficulties':
+00:53:59.954:     - source: 'Media Source' (ffmpeg_source)
+00:53:59.954:     - source: 'Tech' (text_gdiplus_v3)
+00:53:59.954: ------------------------------------------------
+00:53:59.954: [adv-ss] started
+00:53:59.977: [DistroAV] 'NDI® Source' ndi_source_shown(…)
+00:53:59.977: [DistroAV] 'NDI® Source' ndi_source_shown: Requesting Source Thread Start.
+00:53:59.977: [DistroAV] 'NDI® Source' ndi_source_thread_start: Started A/V ndi_source_thread for NDI source 'DESKTOP-BD5ELCH (vMix - Output 1)'
+00:53:59.977: [DistroAV] 'NDI® Source' +ndi_source_thread(…)
+00:53:59.977: [DistroAV] 'NDI® Source' ndi_source_thread: reset_ndi_receiver: Resetting NDI receiver…
+00:54:00.219: [DistroAV] +main_output_init()
+00:54:00.219: [DistroAV] +main_output_deinit()
+00:54:00.219: [DistroAV] main_output_deinit: NDI main output is not initialized
+00:54:00.219: [DistroAV] -main_output_deinit()
+00:54:00.219: [DistroAV] main_output_init: creating NDI main output 'OBS'
+00:54:00.219: [DistroAV] +ndi_output_getdefaults()
+00:54:00.219: [DistroAV] -ndi_output_getdefaults()
+00:54:00.219: [DistroAV] +ndi_output_create(name='OBS', groups='', ...)
+00:54:00.219: [DistroAV] ndi_output_update(name='OBS', groups='', ...)
+00:54:00.219: [DistroAV] -ndi_output_create(name='OBS', groups='', ...)
+00:54:00.219: [DistroAV] main_output_init: successfully created NDI main output 'OBS'
+00:54:00.219: [DistroAV] -main_output_init()
+00:54:00.219: [DistroAV] +preview_output_init()
+00:54:00.219: [DistroAV] +preview_output_deinit()
+00:54:00.219: [DistroAV] preview_output_deinit: NDI preview output is not initialized
+00:54:00.219: [DistroAV] -preview_output_deinit()
+00:54:00.219: [DistroAV] preview_output_init: creating NDI preview output 'OBS Preview'
+00:54:00.219: [DistroAV] +ndi_output_getdefaults()
+00:54:00.219: [DistroAV] -ndi_output_getdefaults()
+00:54:00.219: [DistroAV] +ndi_output_create(name='OBS Preview', groups='', ...)
+00:54:00.219: [DistroAV] ndi_output_update(name='OBS Preview', groups='', ...)
+00:54:00.219: [DistroAV] -ndi_output_create(name='OBS Preview', groups='', ...)
+00:54:00.219: [DistroAV] preview_output_init: successfully created NDI preview output 'OBS Preview'
+00:54:00.219: [DistroAV] -preview_output_init()
+00:54:03.993: [DistroAV] 'NDI® Source' ndi_source_thread: tally changed; Sending tally on_preview=1, on_program=0
+00:54:09.161: User added source 'test' (vlc_source) to scene 'Scene'
+01:13:58.814:   OpenType support missing for "Open Sans", script 11
+01:13:58.814:   OpenType support missing for "Arial", script 11
+01:13:58.815:   OpenType support missing for "Tahoma", script 11
+01:13:58.816:   OpenType support missing for "MS UI Gothic", script 11
+01:13:58.818:   OpenType support missing for "SimSun", script 11
+01:13:58.819:   OpenType support missing for "Segoe UI Emoji", script 11
+01:13:58.820:   OpenType support missing for "Segoe UI Symbol", script 11
+01:13:58.822:   OpenType support missing for "Open Sans", script 12
+01:13:58.822:   OpenType support missing for "Arial", script 12
+01:13:58.823:   OpenType support missing for "Tahoma", script 12
+01:13:58.823:   OpenType support missing for "MS UI Gothic", script 12
+01:13:58.823:   OpenType support missing for "SimSun", script 12
+01:13:58.823:   OpenType support missing for "Segoe UI Emoji", script 12
+01:13:58.823:   OpenType support missing for "Segoe UI Symbol", script 12
+01:13:58.823:   OpenType support missing for "Open Sans", script 16
+01:13:58.824:   OpenType support missing for "Arial", script 16
+01:13:58.824:   OpenType support missing for "Tahoma", script 16
+01:13:58.824:   OpenType support missing for "MS UI Gothic", script 16
+01:13:58.824:   OpenType support missing for "SimSun", script 16
+01:13:58.824:   OpenType support missing for "Segoe UI Emoji", script 16
+01:13:58.824:   OpenType support missing for "Segoe UI Symbol", script 16
+01:13:58.825:   OpenType support missing for "Open Sans", script 20
+01:13:58.825:   OpenType support missing for "Arial", script 20
+01:13:58.825:   OpenType support missing for "Tahoma", script 20
+01:13:58.825:   OpenType support missing for "MS UI Gothic", script 20
+01:13:58.825:   OpenType support missing for "SimSun", script 20
+01:13:58.826:   OpenType support missing for "Segoe UI Emoji", script 20
+01:13:58.826:   OpenType support missing for "Segoe UI Symbol", script 20
+02:31:44.854: ==== Shutting down ==================================================
+02:31:44.877: [DistroAV] 'NDI® Source' ndi_source_hidden(…)
+02:31:44.877: [DistroAV] 'NDI® Source' ndi_source_hidden: Requesting Source Thread Stop.
+02:31:44.885: [DistroAV] 'NDI® Source' -ndi_source_thread(…)
+02:31:44.885: [DistroAV] 'NDI® Source' ndi_source_thread_stop: Stopped A/V ndi_source_thread for NDI source 'DESKTOP-BD5ELCH (vMix - Output 1)'
+02:31:44.931: [adv-ss] stopped
+02:31:44.936: [adv-ss] reset transition behaviour to adjust active transition type
+02:31:44.942: [adv-ss] started
+02:31:44.989: [DistroAV] 'NDI® Source' +ndi_source_destroy(…)
+02:31:44.989: [DistroAV] 'NDI® Source' -ndi_source_destroy(…)
+02:31:45.016: Not all sources were cleared when clearing scene data:
+02:31:45.016: 
+02:31:45.016: - test
+02:31:45.016: 
+02:31:45.016: [obs-multi-rtmp] Save 0 targets, 0 video configs, 0 audio configs
+02:31:45.016: os_quick_write_utf8_file_safe: failed to write to ../../config/obs-studio/basic/profiles/srt_relay_testing/obs-multi-rtmp.json.tmp
+02:31:45.016: [obs-multi-rtmp] Save config into ../../config/obs-studio/basic/profiles/srt_relay_testing/obs-multi-rtmp.json
+02:31:45.017: [DistroAV] +main_output_deinit()
+02:31:45.017: [DistroAV] +main_output_stop()
+02:31:45.017: [DistroAV] main_output_stop: NDI main output `OBS` is not running
+02:31:45.017: [DistroAV] -main_output_stop()
+02:31:45.017: [DistroAV] main_output_deinit: releasing NDI main output 'OBS'
+02:31:45.017: [DistroAV] +ndi_output_destroy(name='OBS', groups='', ...)
+02:31:45.017: [DistroAV] -ndi_output_destroy(name='OBS', groups='', ...)
+02:31:45.017: [DistroAV] main_output_deinit: successfully released NDI main output ''
+02:31:45.017: [DistroAV] -main_output_deinit()
+02:31:45.017: [DistroAV] +preview_output_deinit()
+02:31:45.017: [DistroAV] +preview_output_stop()
+02:31:45.017: [DistroAV] preview_output_stop: NDI preview output 'OBS Preview' is not running
+02:31:45.017: [DistroAV] -preview_output_stop()
+02:31:45.017: [DistroAV] preview_output_deinit: releasing NDI preview output 'OBS Preview'
+02:31:45.017: [DistroAV] +ndi_output_destroy(name='OBS Preview', groups='', ...)
+02:31:45.017: [DistroAV] -ndi_output_destroy(name='OBS Preview', groups='', ...)
+02:31:45.017: [DistroAV] preview_output_deinit: successfully released NDI preview output ''
+02:31:45.017: [DistroAV] -preview_output_deinit()
+02:31:45.172: Tried to call obs_frontend_remove_save_callback with no callbacks!
+02:31:45.172: Tried to call obs_frontend_remove_event_callback with no callbacks!
+02:31:45.172: Tried to call obs_frontend_remove_save_callback with no callbacks!
+02:31:45.172: Tried to call obs_frontend_remove_save_callback with no callbacks!
+02:31:45.174: [obs-websocket] [obs_module_unload] Shutting down...
+02:31:45.174: Tried to call obs_frontend_remove_event_callback with no callbacks!
+02:31:45.174: [obs-websocket] [obs_module_unload] Finished shutting down.
+02:31:45.175: [obs-plugin-countdown] plugin unloaded
+02:31:45.176: [Scripting] Total detached callbacks: 0
+02:31:45.176: [DistroAV] +obs_module_unload()
+02:31:45.176: [DistroAV] +updateCheckStop()
+02:31:45.176: [DistroAV] -updateCheckStop()
+02:31:45.178: [DistroAV] -obs_module_unload(): goodbye!
+02:31:45.179: [adv-ss] stopped
+02:31:45.181: Freeing OBS context data
+02:31:45.226: == Profiler Results =============================
+02:31:45.226: run_program_init: 4204.44 ms
+02:31:45.226:  ┣OBSApp::AppInit: 7.902 ms
+02:31:45.226:  ┃ ┗OBSApp::InitLocale: 0.733 ms
+02:31:45.226:  ┗OBSApp::OBSInit: 2600.12 ms
+02:31:45.226:    ┣obs_startup: 2.499 ms
+02:31:45.226:    ┗OBSBasic::OBSInit: 2539.08 ms
+02:31:45.226:      ┣OBSBasic::InitBasicConfig: 0.705 ms
+02:31:45.226:      ┣OBSBasic::ResetAudio: 0.156 ms
+02:31:45.226:      ┣OBSBasic::ResetVideo: 95.231 ms
+02:31:45.226:      ┃ ┗obs_init_graphics: 93.856 ms
+02:31:45.226:      ┃   ┗shader compilation: 53.443 ms
+02:31:45.226:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+02:31:45.226:      ┣OBSBasic::InitHotkeys: 0.027 ms
+02:31:45.226:      ┣obs_load_all_modules2: 269.646 ms
+02:31:45.226:      ┃ ┣obs_init_module(advanced-scene-switcher.dll): 55.373 ms
+02:31:45.226:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.581 ms
+02:31:45.226:      ┃ ┣obs_init_module(aja.dll): 0.079 ms
+02:31:45.226:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.809 ms
+02:31:45.226:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+02:31:45.226:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+02:31:45.226:      ┃ ┣obs_init_module(decklink.dll): 1.354 ms
+02:31:45.226:      ┃ ┣obs_init_module(distroav.dll): 24.387 ms
+02:31:45.226:      ┃ ┣obs_init_module(frontend-tools.dll): 3.393 ms
+02:31:45.226:      ┃ ┣obs_init_module(gradient-source.dll): 0.023 ms
+02:31:45.226:      ┃ ┣obs_init_module(image-source.dll): 0.004 ms
+02:31:45.226:      ┃ ┣obs_init_module(move-transition.dll): 0.784 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-advanced-masks.dll): 0.013 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-browser.dll): 0.489 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 79.783 ms
+02:31:45.226:      ┃ ┃ ┗nvenc_check: 0.288 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-filters.dll): 0.9 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-multi-rtmp.dll): 6.307 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-outputs.dll): 0.006 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-plugin-countdown.dll): 4.149 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-qsv11.dll): 24.952 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-shaderfilter.dll): 0.026 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-text.dll): 0.193 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-transitions.dll): 0.013 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-vst.dll): 0.003 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-webrtc.dll): 0.005 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-websocket.dll): 4.761 ms
+02:31:45.226:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+02:31:45.226:      ┃ ┣obs_init_module(rtmp-services.dll): 0.683 ms
+02:31:45.226:      ┃ ┣obs_init_module(scene-as-transition.dll): 0.018 ms
+02:31:45.226:      ┃ ┣obs_init_module(source-clone.dll): 0.004 ms
+02:31:45.226:      ┃ ┣obs_init_module(source-copy.dll): 0.122 ms
+02:31:45.226:      ┃ ┣obs_init_module(streamup.dll): 10.168 ms
+02:31:45.226:      ┃ ┣obs_init_module(text-freetype2.dll): 0.053 ms
+02:31:45.226:      ┃ ┣obs_init_module(time-warp-scan.dll): 0.019 ms
+02:31:45.226:      ┃ ┣obs_init_module(transition-table.dll): 0.037 ms
+02:31:45.226:      ┃ ┣obs_init_module(vlc-video.dll): 0.956 ms
+02:31:45.226:      ┃ ┣obs_init_module(waveform.dll): 0.046 ms
+02:31:45.226:      ┃ ┣obs_init_module(win-capture.dll): 1.03 ms
+02:31:45.226:      ┃ ┣obs_init_module(win-dshow.dll): 1.182 ms
+02:31:45.226:      ┃ ┣obs_init_module(win-wasapi.dll): 10.255 ms
+02:31:45.226:      ┃ ┣obs_init_module(xObsAsyncImageSource.dll): 0.05 ms
+02:31:45.226:      ┃ ┗reset_win32_symbol_paths: 0.233 ms
+02:31:45.226:      ┣OBSBasic::InitService: 0.091 ms
+02:31:45.226:      ┣OBSBasic::ResetOutputs: 0.133 ms
+02:31:45.226:      ┣OBSBasic::CreateHotkeys: 0.023 ms
+02:31:45.226:      ┣OBSBasic::InitPrimitives: 0.176 ms
+02:31:45.226:      ┗OBSBasic::Load: 73.627 ms
+02:31:45.226: obs_hotkey_thread(25 ms): min=0.001 ms, median=0.005 ms, max=9.88 ms, 99th percentile=0.096 ms, 100% below 25 ms
+02:31:45.226: audio_thread(Audio): min=0.007 ms, median=0.018 ms, max=1.072 ms, 99th percentile=0.098 ms
+02:31:45.226: obs_graphics_thread(33.3333 ms): min=0.075 ms, median=0.675 ms, max=1356.55 ms, 99th percentile=1.007 ms, 99.9983% below 33.333 ms
+02:31:45.226:  ┣tick_sources: min=0.001 ms, median=0.01 ms, max=1356.07 ms, 99th percentile=0.019 ms
+02:31:45.226:  ┣output_frame: min=0.067 ms, median=0.339 ms, max=10.971 ms, 99th percentile=0.527 ms
+02:31:45.226:  ┃ ┗gs_context(video->graphics): min=0.067 ms, median=0.338 ms, max=10.965 ms, 99th percentile=0.527 ms
+02:31:45.226:  ┃   ┣render_video: min=0.006 ms, median=0.204 ms, max=4.681 ms, 99th percentile=0.363 ms
+02:31:45.226:  ┃   ┃ ┗render_main_texture: min=0.004 ms, median=0.202 ms, max=4.676 ms, 99th percentile=0.359 ms
+02:31:45.226:  ┃   ┗gs_flush: min=0.053 ms, median=0.13 ms, max=10.686 ms, 99th percentile=0.201 ms
+02:31:45.226:  ┗render_displays: min=0 ms, median=0.308 ms, max=3.498 ms, 99th percentile=0.55 ms
+02:31:45.226: OBSBasicSettings::LoadThemeList: 0.049 ms
+02:31:45.226: =================================================
+02:31:45.226: == Profiler Time Between Calls ==================
+02:31:45.226: obs_hotkey_thread(25 ms): min=24.211 ms, median=25.389 ms, max=34.422 ms, 64.4432% within ±2% of 25 ms (0.00130089% lower, 35.5555% higher)
+02:31:45.226: obs_graphics_thread(33.3333 ms): min=2.192 ms, median=33.333 ms, max=1356.55 ms, 99.983% within ±2% of 33.333 ms (0.00852379% lower, 0.00852379% higher)
+02:31:45.226: =================================================
+02:31:45.235: Number of memory leaks: 38

@@ -1,0 +1,5 @@
+2025/09/08-12:13:30.963 4bc0 Reusing MANIFEST C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\plugin_config\obs-browser\IndexedDB\https_wheelofnames.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/08-12:13:30.966 4bc0 Recovering log #22
+2025/09/08-12:13:30.967 4bc0 Reusing old log C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\plugin_config\obs-browser\IndexedDB\https_wheelofnames.com_0.indexeddb.leveldb/000022.log 
+2025/09/08-12:13:30.967 4bc0 Delete type=2 #21
+2025/09/08-12:13:31.032 338c Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

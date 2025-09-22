@@ -1,0 +1,10 @@
+2025/03/30-19:52:55.845 121c Creating DB C:\Users\nicks\Desktop\OBS-Studio-30.2.3\config\obs-studio\plugin_config\obs-browser\IndexedDB\https_valoplant.gg_0.indexeddb.leveldb since it was missing.
+2025/03/30-19:52:55.851 121c Reusing MANIFEST C:\Users\nicks\Desktop\OBS-Studio-30.2.3\config\obs-studio\plugin_config\obs-browser\IndexedDB\https_valoplant.gg_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/30-19:52:55.858 5ae8 Level-0 table #5: started
+2025/03/30-19:52:55.865 5ae8 Level-0 table #5: 1205 bytes OK
+2025/03/30-19:52:55.866 5ae8 Delete type=0 #3
+2025/03/30-19:52:55.866 5ae8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/30-19:52:56.036 3888 Level-0 table #7: started
+2025/03/30-19:52:56.045 3888 Level-0 table #7: 1862 bytes OK
+2025/03/30-19:52:56.046 3888 Delete type=0 #4
+2025/03/30-19:52:56.047 3888 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

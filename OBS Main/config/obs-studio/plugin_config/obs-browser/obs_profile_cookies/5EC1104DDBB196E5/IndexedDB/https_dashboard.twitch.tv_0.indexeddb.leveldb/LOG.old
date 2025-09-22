@@ -1,0 +1,48 @@
+2025/09/18-13:18:52.005 5478 Reusing MANIFEST C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\plugin_config\obs-browser\obs_profile_cookies\5EC1104DDBB196E5\IndexedDB\https_dashboard.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/18-13:18:52.013 5478 Recovering log #40
+2025/09/18-13:18:52.037 5478 Reusing old log C:\Users\Nicholas\Desktop\OBS Main\config\obs-studio\plugin_config\obs-browser\obs_profile_cookies\5EC1104DDBB196E5\IndexedDB\https_dashboard.twitch.tv_0.indexeddb.leveldb/000040.log 
+2025/09/18-13:31:51.722 b98 Level-0 table #45: started
+2025/09/18-13:31:51.737 b98 Level-0 table #45: 1178821 bytes OK
+2025/09/18-13:31:51.739 b98 Delete type=0 #40
+2025/09/18-13:32:05.721 b98 Compacting 1@1 + 1@2 files
+2025/09/18-13:32:05.747 b98 Generated table #46@1: 17586 keys, 1376297 bytes
+2025/09/18-13:32:05.748 b98 Compacted 1@1 + 1@2 files => 1376297 bytes
+2025/09/18-13:32:05.748 b98 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/18-13:32:05.749 b98 Delete type=2 #42
+2025/09/18-13:32:05.749 b98 Delete type=2 #45
+2025/09/18-14:08:53.066 6654 Level-0 table #48: started
+2025/09/18-14:08:53.079 6654 Level-0 table #48: 1167148 bytes OK
+2025/09/18-14:08:53.080 6654 Delete type=0 #44
+2025/09/18-14:09:23.062 6654 Compacting 1@1 + 1@2 files
+2025/09/18-14:09:23.083 6654 Generated table #49@1: 18879 keys, 1481676 bytes
+2025/09/18-14:09:23.083 6654 Compacted 1@1 + 1@2 files => 1481676 bytes
+2025/09/18-14:09:23.084 6654 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/18-14:09:23.084 6654 Delete type=2 #46
+2025/09/18-14:09:23.084 6654 Delete type=2 #48
+2025/09/18-14:46:23.060 6654 Level-0 table #51: started
+2025/09/18-14:46:23.074 6654 Level-0 table #51: 1167956 bytes OK
+2025/09/18-14:46:23.075 6654 Delete type=0 #47
+2025/09/18-14:46:50.719 25b4 Compacting 1@1 + 1@2 files
+2025/09/18-14:46:50.745 25b4 Generated table #52@1: 20055 keys, 1569480 bytes
+2025/09/18-14:46:50.745 25b4 Compacted 1@1 + 1@2 files => 1569480 bytes
+2025/09/18-14:46:50.746 25b4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/18-14:46:50.746 25b4 Delete type=2 #49
+2025/09/18-14:46:50.746 25b4 Delete type=2 #51
+2025/09/18-15:23:23.719 25b4 Level-0 table #54: started
+2025/09/18-15:23:23.733 25b4 Level-0 table #54: 1163117 bytes OK
+2025/09/18-15:23:23.734 25b4 Delete type=0 #50
+2025/09/18-15:23:52.721 34f8 Compacting 1@1 + 1@2 files
+2025/09/18-15:23:52.754 34f8 Generated table #55@1: 21246 keys, 1661965 bytes
+2025/09/18-15:23:52.754 34f8 Compacted 1@1 + 1@2 files => 1661965 bytes
+2025/09/18-15:23:52.755 34f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/18-15:23:52.755 34f8 Delete type=2 #52
+2025/09/18-15:23:52.755 34f8 Delete type=2 #54
+2025/09/18-16:01:02.721 34f8 Level-0 table #57: started
+2025/09/18-16:01:02.737 34f8 Level-0 table #57: 1161358 bytes OK
+2025/09/18-16:01:02.738 34f8 Delete type=0 #53
+2025/09/18-16:01:23.067 25b4 Compacting 1@1 + 1@2 files
+2025/09/18-16:01:23.100 25b4 Generated table #58@1: 22490 keys, 1759795 bytes
+2025/09/18-16:01:23.100 25b4 Compacted 1@1 + 1@2 files => 1759795 bytes
+2025/09/18-16:01:23.101 25b4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/18-16:01:23.101 25b4 Delete type=2 #55
+2025/09/18-16:01:23.101 25b4 Delete type=2 #57

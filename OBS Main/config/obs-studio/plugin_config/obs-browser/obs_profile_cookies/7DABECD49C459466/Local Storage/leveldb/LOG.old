@@ -1,0 +1,24 @@
+2025/05/08-16:48:01.247 2728 Reusing MANIFEST C:\Users\Nicholas\Desktop\OBS CLEAN\config\obs-studio\plugin_config\obs-browser\obs_profile_cookies\7DABECD49C459466\Local Storage\leveldb/MANIFEST-000001
+2025/05/08-16:48:01.248 2728 Recovering log #26
+2025/05/08-16:48:01.248 2728 Reusing old log C:\Users\Nicholas\Desktop\OBS CLEAN\config\obs-studio\plugin_config\obs-browser\obs_profile_cookies\7DABECD49C459466\Local Storage\leveldb/000026.log 
+2025/05/08-17:03:01.727 6afc Level-0 table #30: started
+2025/05/08-17:03:01.728 6afc Level-0 table #30: 17931 bytes OK
+2025/05/08-17:03:01.729 6afc Delete type=0 #26
+2025/05/08-17:40:01.727 7284 Level-0 table #32: started
+2025/05/08-17:40:01.729 7284 Level-0 table #32: 18400 bytes OK
+2025/05/08-17:40:01.730 7284 Delete type=0 #29
+2025/05/08-18:17:01.728 7058 Level-0 table #34: started
+2025/05/08-18:17:01.730 7058 Level-0 table #34: 17264 bytes OK
+2025/05/08-18:17:01.730 7058 Delete type=0 #31
+2025/05/08-18:17:01.731 7058 Compacting 4@0 + 1@1 files
+2025/05/08-18:17:01.739 7058 Generated table #35@0: 29 keys, 3430 bytes
+2025/05/08-18:17:01.739 7058 Compacted 4@0 + 1@1 files => 3430 bytes
+2025/05/08-18:17:01.740 7058 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/08-18:17:01.740 7058 Delete type=2 #25
+2025/05/08-18:17:01.740 7058 Delete type=2 #27
+2025/05/08-18:17:01.740 7058 Delete type=2 #30
+2025/05/08-18:17:01.740 7058 Delete type=2 #32
+2025/05/08-18:17:01.740 7058 Delete type=2 #34
+2025/05/08-18:54:01.727 210c Level-0 table #37: started
+2025/05/08-18:54:01.730 210c Level-0 table #37: 17263 bytes OK
+2025/05/08-18:54:01.731 210c Delete type=0 #33
